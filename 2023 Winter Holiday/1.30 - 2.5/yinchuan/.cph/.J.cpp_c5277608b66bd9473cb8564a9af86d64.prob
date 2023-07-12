@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\A.file\\code\\2023 Winter Holiday\\1.30 - 2.5\\yinchuan\\J.cpp","tests":[{"id":1675577971787,"input":"2\n-1 3 -1 2\n-1 4 1 -1\n1 -1 -1 4\n2 -1 3 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\A.file\\code\\2023 Winter Holiday\\1.30 - 2.5\\yinchuan\\J.cpp","group":"local","local":true}

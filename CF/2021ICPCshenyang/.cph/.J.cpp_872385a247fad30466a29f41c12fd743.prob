@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\A.file\\code\\CF\\2021ICPCshenyang\\J.cpp","tests":[{"id":1667807434257,"input":"6\n1234 2345\n1234 0123\n1234 2267\n1234 3401\n1234 1344\n1234 2468","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\A.file\\code\\CF\\2021ICPCshenyang\\J.cpp","group":"local","local":true}

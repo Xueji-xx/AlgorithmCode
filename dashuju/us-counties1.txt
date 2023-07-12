@@ -1,0 +1,4298 @@
+2020/5/18	Gage	Nebraska	42	4
+2020/5/18	Gosper	Nebraska	13	0
+2020/5/18	Greeley	Nebraska	2	0
+2020/5/18	Hall	Nebraska	1433	39
+2020/5/18	Hamilton	Nebraska	54	9
+2020/5/18	Hitchcock	Nebraska	1	0
+2020/5/18	Holt	Nebraska	1	0
+2020/5/18	Howard	Nebraska	36	0
+2020/5/18	Jefferson	Nebraska	6	0
+2020/5/18	Johnson	Nebraska	7	0
+2020/5/18	Kearney	Nebraska	11	0
+2020/5/18	Keith	Nebraska	2	0
+2020/5/18	Kimball	Nebraska	10	0
+2020/5/18	Knox	Nebraska	8	0
+2020/5/18	Lancaster	Nebraska	892	6
+2020/5/18	Lincoln	Nebraska	45	2
+2020/5/18	Madison	Nebraska	278	3
+2020/5/18	Merrick	Nebraska	29	0
+2020/5/18	Morrill	Nebraska	10	0
+2020/5/18	Nance	Nebraska	4	0
+2020/5/18	Nemaha	Nebraska	3	0
+2020/5/18	Nuckolls	Nebraska	1	0
+2020/5/18	Otoe	Nebraska	6	0
+2020/5/18	Phelps	Nebraska	13	0
+2020/5/18	Pierce	Nebraska	1	0
+2020/5/18	Platte	Nebraska	462	1
+2020/5/18	Polk	Nebraska	9	0
+2020/5/18	Red Willow	Nebraska	5	0
+2020/5/18	Richardson	Nebraska	1	0
+2020/5/18	Saline	Nebraska	432	1
+2020/5/18	Sarpy	Nebraska	349	2
+2020/5/18	Saunders	Nebraska	21	1
+2020/5/18	Scotts Bluff	Nebraska	54	0
+2020/5/18	Seward	Nebraska	26	1
+2020/5/18	Sherman	Nebraska	2	0
+2020/5/18	Stanton	Nebraska	15	0
+2020/5/18	Thomas	Nebraska	1	0
+2020/5/18	Thurston	Nebraska	19	0
+2020/5/18	Unknown	Nebraska	5	0
+2020/5/18	Valley	Nebraska	3	0
+2020/5/18	Washington	Nebraska	24	1
+2020/5/18	Wayne	Nebraska	4	0
+2020/5/18	Webster	Nebraska	5	0
+2020/5/18	York	Nebraska	30	0
+2020/5/18	Carson City	Nevada	71	2
+2020/5/18	Churchill	Nevada	7	1
+2020/5/18	Clark	Nevada	5463	296
+2020/5/18	Douglas	Nevada	25	0
+2020/5/18	Elko	Nevada	23	1
+2020/5/18	Humboldt	Nevada	74	3
+2020/5/18	Lander	Nevada	19	0
+2020/5/18	Lincoln	Nevada	2	0
+2020/5/18	Lyon	Nevada	47	0
+2020/5/18	Mineral	Nevada	4	0
+2020/5/18	Nye	Nevada	56	1
+2020/5/18	Storey	Nevada	1	0
+2020/5/18	Unknown	Nevada	0	12
+2020/5/18	Washoe	Nevada	1266	48
+2020/5/18	White Pine	Nevada	3	0
+2020/5/18	Belknap	New Hampshire	53	0
+2020/5/18	Carroll	New Hampshire	44	0
+2020/5/18	Cheshire	New Hampshire	48	2
+2020/5/18	Coos	New Hampshire	4	0
+2020/5/18	Grafton	New Hampshire	62	1
+2020/5/18	Hillsborough	New Hampshire	1764	84
+2020/5/18	Merrimack	New Hampshire	282	12
+2020/5/18	Rockingham	New Hampshire	1113	60
+2020/5/18	Strafford	New Hampshire	234	12
+2020/5/18	Sullivan	New Hampshire	16	1
+2020/5/18	Unknown	New Hampshire	32	0
+2020/5/18	Atlantic	New Jersey	1807	112
+2020/5/18	Bergen	New Jersey	17459	1460
+2020/5/18	Burlington	New Jersey	3986	245
+2020/5/18	Camden	New Jersey	5573	275
+2020/5/18	Cape May	New Jersey	506	41
+2020/5/18	Cumberland	New Jersey	1679	53
+2020/5/18	Essex	New Jersey	16600	1546
+2020/5/18	Gloucester	New Jersey	1907	117
+2020/5/18	Hudson	New Jersey	17574	1068
+2020/5/18	Hunterdon	New Jersey	846	52
+2020/5/18	Mercer	New Jersey	5950	408
+2020/5/18	Middlesex	New Jersey	14752	888
+2020/5/18	Monmouth	New Jersey	7408	513
+2020/5/18	Morris	New Jersey	6092	569
+2020/5/18	Ocean	New Jersey	7994	633
+2020/5/18	Passaic	New Jersey	15278	839
+2020/5/18	Salem	New Jersey	465	20
+2020/5/18	Somerset	New Jersey	4278	375
+2020/5/18	Sussex	New Jersey	1061	138
+2020/5/18	Union	New Jersey	14903	962
+2020/5/18	Unknown	New Jersey	835	0
+2020/5/18	Warren	New Jersey	1086	121
+2020/5/18	Bernalillo	New Mexico	1218	59
+2020/5/18	Catron	New Mexico	2	1
+2020/5/18	Chaves	New Mexico	31	2
+2020/5/18	Cibola	New Mexico	105	4
+2020/5/18	Colfax	New Mexico	5	0
+2020/5/18	Curry	New Mexico	41	0
+2020/5/18	Doña Ana	New Mexico	320	2
+2020/5/18	Eddy	New Mexico	17	1
+2020/5/18	Grant	New Mexico	16	0
+2020/5/18	Guadalupe	New Mexico	19	0
+2020/5/18	Harding	New Mexico	1	0
+2020/5/18	Hidalgo	New Mexico	1	0
+2020/5/18	Lea	New Mexico	18	0
+2020/5/18	Lincoln	New Mexico	3	0
+2020/5/18	Los Alamos	New Mexico	6	0
+2020/5/18	Luna	New Mexico	8	1
+2020/5/18	McKinley	New Mexico	1953	78
+2020/5/18	Otero	New Mexico	99	1
+2020/5/18	Quay	New Mexico	5	1
+2020/5/18	Rio Arriba	New Mexico	33	0
+2020/5/18	Roosevelt	New Mexico	27	0
+2020/5/18	San Juan	New Mexico	1376	87
+2020/5/18	San Miguel	New Mexico	10	0
+2020/5/18	Sandoval	New Mexico	495	24
+2020/5/18	Santa Fe	New Mexico	124	3
+2020/5/18	Sierra	New Mexico	1	0
+2020/5/18	Socorro	New Mexico	49	4
+2020/5/18	Taos	New Mexico	23	0
+2020/5/18	Torrance	New Mexico	19	1
+2020/5/18	Union	New Mexico	3	0
+2020/5/18	Valencia	New Mexico	68	1
+2020/5/18	Albany	New York	1610	129
+2020/5/18	Allegany	New York	44	0
+2020/5/18	Broome	New York	423	34
+2020/5/18	Cattaraugus	New York	67	1
+2020/5/18	Cayuga	New York	65	1
+2020/5/18	Chautauqua	New York	49	3
+2020/5/18	Chemung	New York	134	5
+2020/5/18	Chenango	New York	118	2
+2020/5/18	Clinton	New York	94	4
+2020/5/18	Columbia	New York	346	31
+2020/5/18	Cortland	New York	35	0
+2020/5/18	Delaware	New York	69	0
+2020/5/18	Dutchess	New York	3552	129
+2020/5/18	Erie	New York	4993	444
+2020/5/18	Essex	New York	41	0
+2020/5/18	Franklin	New York	18	0
+2020/5/18	Fulton	New York	182	11
+2020/5/18	Genesee	New York	180	3
+2020/5/18	Greene	New York	213	3
+2020/5/18	Hamilton	New York	5	0
+2020/5/18	Herkimer	New York	92	1
+2020/5/18	Jefferson	New York	71	0
+2020/5/18	Lewis	New York	17	0
+2020/5/18	Livingston	New York	110	4
+2020/5/18	Madison	New York	258	3
+2020/5/18	Monroe	New York	2304	170
+2020/5/18	Montgomery	New York	75	3
+2020/5/18	Nassau	New York	39225	2530
+2020/5/18	New York City	New York	198114	20298
+2020/5/18	Niagara	New York	818	39
+2020/5/18	Oneida	New York	772	38
+2020/5/18	Onondaga	New York	1520	97
+2020/5/18	Ontario	New York	148	7
+2020/5/18	Orange	New York	9980	350
+2020/5/18	Orleans	New York	167	18
+2020/5/18	Oswego	New York	84	0
+2020/5/18	Otsego	New York	67	5
+2020/5/18	Putnam	New York	1141	59
+2020/5/18	Rensselaer	New York	444	32
+2020/5/18	Rockland	New York	12777	442
+2020/5/18	Saratoga	New York	434	4
+2020/5/18	Schenectady	New York	629	27
+2020/5/18	Schoharie	New York	48	0
+2020/5/18	Schuyler	New York	10	0
+2020/5/18	Seneca	New York	51	0
+2020/5/18	St. Lawrence	New York	192	2
+2020/5/18	Steuben	New York	235	18
+2020/5/18	Suffolk	New York	38224	1804
+2020/5/18	Sullivan	New York	1246	24
+2020/5/18	Tioga	New York	113	16
+2020/5/18	Tompkins	New York	141	2
+2020/5/18	Ulster	New York	1557	43
+2020/5/18	Warren	New York	234	27
+2020/5/18	Washington	New York	219	11
+2020/5/18	Wayne	New York	97	1
+2020/5/18	Westchester	New York	32322	1419
+2020/5/18	Wyoming	New York	79	3
+2020/5/18	Yates	New York	25	5
+2020/5/18	Alamance	North Carolina	215	11
+2020/5/18	Alexander	North Carolina	21	0
+2020/5/18	Alleghany	North Carolina	12	0
+2020/5/18	Anson	North Carolina	48	0
+2020/5/18	Ashe	North Carolina	28	0
+2020/5/18	Beaufort	North Carolina	30	0
+2020/5/18	Bertie	North Carolina	89	3
+2020/5/18	Bladen	North Carolina	73	2
+2020/5/18	Brunswick	North Carolina	57	4
+2020/5/18	Buncombe	North Carolina	176	4
+2020/5/18	Burke	North Carolina	198	14
+2020/5/18	Cabarrus	North Carolina	379	21
+2020/5/18	Caldwell	North Carolina	86	2
+2020/5/18	Camden	North Carolina	2	0
+2020/5/18	Carteret	North Carolina	35	3
+2020/5/18	Caswell	North Carolina	44	1
+2020/5/18	Catawba	North Carolina	104	2
+2020/5/18	Chatham	North Carolina	512	24
+2020/5/18	Cherokee	North Carolina	17	1
+2020/5/18	Chowan	North Carolina	15	0
+2020/5/18	Clay	North Carolina	5	0
+2020/5/18	Cleveland	North Carolina	55	2
+2020/5/18	Columbus	North Carolina	242	18
+2020/5/18	Craven	North Carolina	127	4
+2020/5/18	Cumberland	North Carolina	471	12
+2020/5/18	Currituck	North Carolina	11	0
+2020/5/18	Dare	North Carolina	18	1
+2020/5/18	Davidson	North Carolina	293	10
+2020/5/18	Davie	North Carolina	46	2
+2020/5/18	Duplin	North Carolina	438	11
+2020/5/18	Durham	North Carolina	1040	39
+2020/5/18	Edgecombe	North Carolina	171	8
+2020/5/18	Forsyth	North Carolina	687	7
+2020/5/18	Franklin	North Carolina	124	20
+2020/5/18	Gaston	North Carolina	203	6
+2020/5/18	Gates	North Carolina	14	0
+2020/5/18	Graham	North Carolina	2	0
+2020/5/18	Granville	North Carolina	201	6
+2020/5/18	Greene	North Carolina	51	1
+2020/5/18	Guilford	North Carolina	872	47
+2020/5/18	Halifax	North Carolina	113	1
+2020/5/18	Harnett	North Carolina	247	17
+2020/5/18	Haywood	North Carolina	26	0
+2020/5/18	Henderson	North Carolina	287	39
+2020/5/18	Hertford	North Carolina	53	1
+2020/5/18	Hoke	North Carolina	152	0
+2020/5/18	Hyde	North Carolina	1	0
+2020/5/18	Iredell	North Carolina	192	5
+2020/5/18	Jackson	North Carolina	24	1
+2020/5/18	Johnston	North Carolina	259	19
+2020/5/18	Jones	North Carolina	23	2
+2020/5/18	Lee	North Carolina	322	3
+2020/5/18	Lenoir	North Carolina	158	5
+2020/5/18	Lincoln	North Carolina	48	0
+2020/5/18	Macon	North Carolina	5	1
+2020/5/18	Madison	North Carolina	2	0
+2020/5/18	Martin	North Carolina	36	4
+2020/5/18	McDowell	North Carolina	32	1
+2020/5/18	Mecklenburg	North Carolina	2652	63
+2020/5/18	Mitchell	North Carolina	8	0
+2020/5/18	Montgomery	North Carolina	57	3
+2020/5/18	Moore	North Carolina	117	10
+2020/5/18	Nash	North Carolina	153	3
+2020/5/18	New Hanover	North Carolina	122	3
+2020/5/18	Northampton	North Carolina	130	10
+2020/5/18	Onslow	North Carolina	75	2
+2020/5/18	Orange	North Carolina	277	36
+2020/5/18	Pamlico	North Carolina	9	0
+2020/5/18	Pasquotank	North Carolina	87	7
+2020/5/18	Pender	North Carolina	49	1
+2020/5/18	Perquimans	North Carolina	23	2
+2020/5/18	Person	North Carolina	33	1
+2020/5/18	Pitt	North Carolina	213	2
+2020/5/18	Polk	North Carolina	31	3
+2020/5/18	Randolph	North Carolina	461	6
+2020/5/18	Richmond	North Carolina	115	2
+2020/5/18	Robeson	North Carolina	573	12
+2020/5/18	Rockingham	North Carolina	46	2
+2020/5/18	Rowan	North Carolina	540	27
+2020/5/18	Rutherford	North Carolina	155	7
+2020/5/18	Sampson	North Carolina	259	1
+2020/5/18	Scotland	North Carolina	53	0
+2020/5/18	Stanly	North Carolina	32	4
+2020/5/18	Stokes	North Carolina	36	0
+2020/5/18	Surry	North Carolina	95	1
+2020/5/18	Swain	North Carolina	6	0
+2020/5/18	Transylvania	North Carolina	7	0
+2020/5/18	Tyrrell	North Carolina	4	0
+2020/5/18	Union	North Carolina	354	17
+2020/5/18	Vance	North Carolina	195	17
+2020/5/18	Wake	North Carolina	1239	28
+2020/5/18	Warren	North Carolina	29	0
+2020/5/18	Washington	North Carolina	26	3
+2020/5/18	Watauga	North Carolina	11	0
+2020/5/18	Wayne	North Carolina	867	15
+2020/5/18	Wilkes	North Carolina	425	1
+2020/5/18	Wilson	North Carolina	246	9
+2020/5/18	Yadkin	North Carolina	109	1
+2020/5/18	Yancey	North Carolina	10	0
+2020/5/18	Barnes	North Dakota	4	0
+2020/5/18	Benson	North Dakota	1	0
+2020/5/18	Bowman	North Dakota	1	0
+2020/5/18	Burke	North Dakota	5	0
+2020/5/18	Burleigh	North Dakota	116	0
+2020/5/18	Cass	North Dakota	1173	33
+2020/5/18	Divide	North Dakota	1	0
+2020/5/18	Dunn	North Dakota	11	0
+2020/5/18	Eddy	North Dakota	2	0
+2020/5/18	Emmons	North Dakota	1	1
+2020/5/18	Foster	North Dakota	1	0
+2020/5/18	Grand Forks	North Dakota	317	3
+2020/5/18	Grant	North Dakota	2	0
+2020/5/18	McHenry	North Dakota	2	1
+2020/5/18	McIntosh	North Dakota	1	0
+2020/5/18	McKenzie	North Dakota	15	0
+2020/5/18	McLean	North Dakota	6	0
+2020/5/18	Mercer	North Dakota	4	0
+2020/5/18	Morton	North Dakota	40	2
+2020/5/18	Mountrail	North Dakota	42	0
+2020/5/18	Nelson	North Dakota	1	0
+2020/5/18	Oliver	North Dakota	1	0
+2020/5/18	Pembina	North Dakota	6	0
+2020/5/18	Pierce	North Dakota	3	0
+2020/5/18	Ramsey	North Dakota	7	1
+2020/5/18	Ransom	North Dakota	5	0
+2020/5/18	Renville	North Dakota	1	0
+2020/5/18	Richland	North Dakota	9	0
+2020/5/18	Rolette	North Dakota	4	0
+2020/5/18	Sargent	North Dakota	3	0
+2020/5/18	Sioux	North Dakota	2	0
+2020/5/18	Slope	North Dakota	3	0
+2020/5/18	Stark	North Dakota	61	2
+2020/5/18	Steele	North Dakota	1	0
+2020/5/18	Stutsman	North Dakota	16	0
+2020/5/18	Traill	North Dakota	2	0
+2020/5/18	Walsh	North Dakota	10	0
+2020/5/18	Ward	North Dakota	28	1
+2020/5/18	Wells	North Dakota	2	0
+2020/5/18	Williams	North Dakota	21	0
+2020/5/18	Unknown	Northern Mariana Islands	21	2
+2020/5/18	Adams	Ohio	8	1
+2020/5/18	Allen	Ohio	168	30
+2020/5/18	Ashland	Ohio	15	0
+2020/5/18	Ashtabula	Ohio	232	26
+2020/5/18	Athens	Ohio	9	1
+2020/5/18	Auglaize	Ohio	55	3
+2020/5/18	Belmont	Ohio	341	8
+2020/5/18	Brown	Ohio	23	1
+2020/5/18	Butler	Ohio	610	16
+2020/5/18	Carroll	Ohio	26	2
+2020/5/18	Champaign	Ohio	23	1
+2020/5/18	Clark	Ohio	148	3
+2020/5/18	Clermont	Ohio	152	5
+2020/5/18	Clinton	Ohio	40	0
+2020/5/18	Columbiana	Ohio	434	43
+2020/5/18	Coshocton	Ohio	20	0
+2020/5/18	Crawford	Ohio	97	2
+2020/5/18	Cuyahoga	Ohio	3410	175
+2020/5/18	Darke	Ohio	121	16
+2020/5/18	Defiance	Ohio	27	1
+2020/5/18	Delaware	Ohio	263	9
+2020/5/18	Erie	Ohio	121	3
+2020/5/18	Fairfield	Ohio	208	3
+2020/5/18	Fayette	Ohio	32	0
+2020/5/18	Franklin	Ohio	4574	177
+2020/5/18	Fulton	Ohio	35	0
+2020/5/18	Gallia	Ohio	7	1
+2020/5/18	Geauga	Ohio	221	24
+2020/5/18	Greene	Ohio	78	5
+2020/5/18	Guernsey	Ohio	25	0
+2020/5/18	Hamilton	Ohio	2082	112
+2020/5/18	Hancock	Ohio	46	1
+2020/5/18	Hardin	Ohio	30	0
+2020/5/18	Harrison	Ohio	9	0
+2020/5/18	Henry	Ohio	10	0
+2020/5/18	Highland	Ohio	15	1
+2020/5/18	Hocking	Ohio	61	2
+2020/5/18	Holmes	Ohio	13	1
+2020/5/18	Huron	Ohio	42	1
+2020/5/18	Jackson	Ohio	11	0
+2020/5/18	Jefferson	Ohio	61	2
+2020/5/18	Knox	Ohio	22	1
+2020/5/18	Lake	Ohio	226	9
+2020/5/18	Lawrence	Ohio	27	0
+2020/5/18	Licking	Ohio	190	8
+2020/5/18	Logan	Ohio	24	0
+2020/5/18	Lorain	Ohio	605	57
+2020/5/18	Lucas	Ohio	1986	207
+2020/5/18	Madison	Ohio	99	5
+2020/5/18	Mahoning	Ohio	1226	148
+2020/5/18	Marion	Ohio	2513	15
+2020/5/18	Medina	Ohio	224	18
+2020/5/18	Meigs	Ohio	3	0
+2020/5/18	Mercer	Ohio	141	2
+2020/5/18	Miami	Ohio	332	30
+2020/5/18	Monroe	Ohio	56	2
+2020/5/18	Montgomery	Ohio	520	13
+2020/5/18	Morgan	Ohio	5	0
+2020/5/18	Morrow	Ohio	98	1
+2020/5/18	Muskingum	Ohio	36	0
+2020/5/18	Noble	Ohio	6	0
+2020/5/18	Ottawa	Ohio	66	3
+2020/5/18	Paulding	Ohio	11	0
+2020/5/18	Perry	Ohio	15	1
+2020/5/18	Pickaway	Ohio	2021	25
+2020/5/18	Pike	Ohio	5	0
+2020/5/18	Portage	Ohio	296	53
+2020/5/18	Preble	Ohio	30	1
+2020/5/18	Putnam	Ohio	84	13
+2020/5/18	Richland	Ohio	161	2
+2020/5/18	Ross	Ohio	58	1
+2020/5/18	Sandusky	Ohio	57	9
+2020/5/18	Scioto	Ohio	14	0
+2020/5/18	Seneca	Ohio	15	2
+2020/5/18	Shelby	Ohio	34	1
+2020/5/18	Stark	Ohio	595	77
+2020/5/18	Summit	Ohio	1028	112
+2020/5/18	Trumbull	Ohio	461	39
+2020/5/18	Tuscarawas	Ohio	269	1
+2020/5/18	Union	Ohio	37	0
+2020/5/18	Van Wert	Ohio	5	0
+2020/5/18	Vinton	Ohio	16	0
+2020/5/18	Warren	Ohio	283	15
+2020/5/18	Washington	Ohio	116	17
+2020/5/18	Wayne	Ohio	202	48
+2020/5/18	Williams	Ohio	47	1
+2020/5/18	Wood	Ohio	257	42
+2020/5/18	Wyandot	Ohio	30	2
+2020/5/18	Adair	Oklahoma	75	3
+2020/5/18	Alfalfa	Oklahoma	1	0
+2020/5/18	Atoka	Oklahoma	1	0
+2020/5/18	Beaver	Oklahoma	23	0
+2020/5/18	Beckham	Oklahoma	6	0
+2020/5/18	Blaine	Oklahoma	3	0
+2020/5/18	Bryan	Oklahoma	17	1
+2020/5/18	Caddo	Oklahoma	120	10
+2020/5/18	Canadian	Oklahoma	118	3
+2020/5/18	Carter	Oklahoma	13	1
+2020/5/18	Cherokee	Oklahoma	29	1
+2020/5/18	Choctaw	Oklahoma	5	0
+2020/5/18	Cimarron	Oklahoma	1	0
+2020/5/18	Cleveland	Oklahoma	468	36
+2020/5/18	Comanche	Oklahoma	225	3
+2020/5/18	Cotton	Oklahoma	5	2
+2020/5/18	Craig	Oklahoma	14	0
+2020/5/18	Creek	Oklahoma	85	7
+2020/5/18	Custer	Oklahoma	12	0
+2020/5/18	Delaware	Oklahoma	95	16
+2020/5/18	Dewey	Oklahoma	2	0
+2020/5/18	Garfield	Oklahoma	23	1
+2020/5/18	Garvin	Oklahoma	15	1
+2020/5/18	Grady	Oklahoma	64	2
+2020/5/18	Grant	Oklahoma	2	0
+2020/5/18	Greer	Oklahoma	66	7
+2020/5/18	Harper	Oklahoma	1	0
+2020/5/18	Haskell	Oklahoma	5	0
+2020/5/18	Jackson	Oklahoma	21	1
+2020/5/18	Jefferson	Oklahoma	3	0
+2020/5/18	Johnston	Oklahoma	3	0
+2020/5/18	Kay	Oklahoma	50	7
+2020/5/18	Kingfisher	Oklahoma	10	0
+2020/5/18	Kiowa	Oklahoma	6	0
+2020/5/18	Latimer	Oklahoma	6	1
+2020/5/18	Le Flore	Oklahoma	13	1
+2020/5/18	Lincoln	Oklahoma	19	2
+2020/5/18	Logan	Oklahoma	18	1
+2020/5/18	Love	Oklahoma	4	0
+2020/5/18	Major	Oklahoma	6	1
+2020/5/18	Marshall	Oklahoma	6	0
+2020/5/18	Mayes	Oklahoma	28	4
+2020/5/18	McClain	Oklahoma	86	2
+2020/5/18	McCurtain	Oklahoma	11	0
+2020/5/18	McIntosh	Oklahoma	10	0
+2020/5/18	Murray	Oklahoma	2	0
+2020/5/18	Muskogee	Oklahoma	30	6
+2020/5/18	Noble	Oklahoma	7	0
+2020/5/18	Nowata	Oklahoma	23	0
+2020/5/18	Okfuskee	Oklahoma	2	0
+2020/5/18	Oklahoma	Oklahoma	1075	46
+2020/5/18	Okmulgee	Oklahoma	18	0
+2020/5/18	Osage	Oklahoma	91	8
+2020/5/18	Ottawa	Oklahoma	35	2
+2020/5/18	Pawnee	Oklahoma	29	2
+2020/5/18	Payne	Oklahoma	45	1
+2020/5/18	Pittsburg	Oklahoma	39	3
+2020/5/18	Pontotoc	Oklahoma	11	2
+2020/5/18	Pottawatomie	Oklahoma	57	4
+2020/5/18	Pushmataha	Oklahoma	1	0
+2020/5/18	Rogers	Oklahoma	72	5
+2020/5/18	Seminole	Oklahoma	21	2
+2020/5/18	Sequoyah	Oklahoma	14	3
+2020/5/18	Stephens	Oklahoma	26	1
+2020/5/18	Texas	Oklahoma	752	4
+2020/5/18	Tillman	Oklahoma	22	1
+2020/5/18	Tulsa	Oklahoma	787	37
+2020/5/18	Wagoner	Oklahoma	137	17
+2020/5/18	Washington	Oklahoma	303	30
+2020/5/18	Washita	Oklahoma	1	0
+2020/5/18	Woods	Oklahoma	3	0
+2020/5/18	Woodward	Oklahoma	1	0
+2020/5/18	Baker	Oregon	1	0
+2020/5/18	Benton	Oregon	54	5
+2020/5/18	Clackamas	Oregon	286	9
+2020/5/18	Clatsop	Oregon	38	0
+2020/5/18	Columbia	Oregon	16	0
+2020/5/18	Coos	Oregon	30	0
+2020/5/18	Crook	Oregon	1	0
+2020/5/18	Curry	Oregon	4	0
+2020/5/18	Deschutes	Oregon	101	0
+2020/5/18	Douglas	Oregon	25	0
+2020/5/18	Grant	Oregon	1	0
+2020/5/18	Harney	Oregon	1	0
+2020/5/18	Hood River	Oregon	14	0
+2020/5/18	Jackson	Oregon	51	0
+2020/5/18	Jefferson	Oregon	24	0
+2020/5/18	Josephine	Oregon	25	1
+2020/5/18	Klamath	Oregon	41	0
+2020/5/18	Lane	Oregon	65	2
+2020/5/18	Lincoln	Oregon	8	0
+2020/5/18	Linn	Oregon	109	8
+2020/5/18	Malheur	Oregon	21	0
+2020/5/18	Marion	Oregon	843	24
+2020/5/18	Morrow	Oregon	12	0
+2020/5/18	Multnomah	Oregon	996	55
+2020/5/18	Polk	Oregon	93	9
+2020/5/18	Sherman	Oregon	1	0
+2020/5/18	Tillamook	Oregon	6	0
+2020/5/18	Umatilla	Oregon	98	2
+2020/5/18	Union	Oregon	6	0
+2020/5/18	Wallowa	Oregon	1	0
+2020/5/18	Wasco	Oregon	18	1
+2020/5/18	Washington	Oregon	638	15
+2020/5/18	Yamhill	Oregon	59	7
+2020/5/18	Adams	Pennsylvania	194	5
+2020/5/18	Allegheny	Pennsylvania	1641	143
+2020/5/18	Armstrong	Pennsylvania	58	2
+2020/5/18	Beaver	Pennsylvania	533	70
+2020/5/18	Bedford	Pennsylvania	32	1
+2020/5/18	Berks	Pennsylvania	3719	248
+2020/5/18	Blair	Pennsylvania	38	1
+2020/5/18	Bradford	Pennsylvania	41	5
+2020/5/18	Bucks	Pennsylvania	4516	417
+2020/5/18	Butler	Pennsylvania	203	12
+2020/5/18	Cambria	Pennsylvania	54	2
+2020/5/18	Cameron	Pennsylvania	2	0
+2020/5/18	Carbon	Pennsylvania	214	22
+2020/5/18	Centre	Pennsylvania	133	5
+2020/5/18	Chester	Pennsylvania	2163	227
+2020/5/18	Clarion	Pennsylvania	24	2
+2020/5/18	Clearfield	Pennsylvania	33	0
+2020/5/18	Clinton	Pennsylvania	44	0
+2020/5/18	Columbia	Pennsylvania	337	29
+2020/5/18	Crawford	Pennsylvania	21	0
+2020/5/18	Cumberland	Pennsylvania	525	41
+2020/5/18	Dauphin	Pennsylvania	978	50
+2020/5/18	Delaware	Pennsylvania	5689	478
+2020/5/18	Elk	Pennsylvania	6	0
+2020/5/18	Erie	Pennsylvania	145	4
+2020/5/18	Fayette	Pennsylvania	91	4
+2020/5/18	Forest	Pennsylvania	7	0
+2020/5/18	Franklin	Pennsylvania	631	25
+2020/5/18	Fulton	Pennsylvania	11	1
+2020/5/18	Greene	Pennsylvania	27	0
+2020/5/18	Huntingdon	Pennsylvania	214	0
+2020/5/18	Indiana	Pennsylvania	84	4
+2020/5/18	Jefferson	Pennsylvania	7	0
+2020/5/18	Juniata	Pennsylvania	94	2
+2020/5/18	Lackawanna	Pennsylvania	1363	125
+2020/5/18	Lancaster	Pennsylvania	2552	263
+2020/5/18	Lawrence	Pennsylvania	72	8
+2020/5/18	Lebanon	Pennsylvania	877	21
+2020/5/18	Lehigh	Pennsylvania	3491	173
+2020/5/18	Luzerne	Pennsylvania	2532	122
+2020/5/18	Lycoming	Pennsylvania	149	8
+2020/5/18	McKean	Pennsylvania	11	1
+2020/5/18	Mercer	Pennsylvania	94	4
+2020/5/18	Mifflin	Pennsylvania	57	1
+2020/5/18	Monroe	Pennsylvania	1259	88
+2020/5/18	Montgomery	Pennsylvania	6012	566
+2020/5/18	Montour	Pennsylvania	50	0
+2020/5/18	Northampton	Pennsylvania	2727	171
+2020/5/18	Northumberland	Pennsylvania	143	2
+2020/5/18	Perry	Pennsylvania	41	1
+2020/5/18	Philadelphia	Pennsylvania	19950	1080
+2020/5/18	Pike	Pennsylvania	461	15
+2020/5/18	Potter	Pennsylvania	4	0
+2020/5/18	Schuylkill	Pennsylvania	529	20
+2020/5/18	Snyder	Pennsylvania	33	1
+2020/5/18	Somerset	Pennsylvania	36	0
+2020/5/18	Sullivan	Pennsylvania	2	0
+2020/5/18	Susquehanna	Pennsylvania	85	15
+2020/5/18	Tioga	Pennsylvania	16	2
+2020/5/18	Union	Pennsylvania	51	1
+2020/5/18	Venango	Pennsylvania	8	0
+2020/5/18	Warren	Pennsylvania	2	1
+2020/5/18	Washington	Pennsylvania	133	4
+2020/5/18	Wayne	Pennsylvania	108	7
+2020/5/18	Westmoreland	Pennsylvania	432	38
+2020/5/18	Wyoming	Pennsylvania	30	4
+2020/5/18	York	Pennsylvania	857	18
+2020/5/18	Unknown	Puerto Rico	2710	124
+2020/5/18	Bristol	Rhode Island	172	1
+2020/5/18	Kent	Rhode Island	883	46
+2020/5/18	Newport	Rhode Island	197	4
+2020/5/18	Providence	Rhode Island	9112	342
+2020/5/18	Unknown	Rhode Island	2006	81
+2020/5/18	Washington	Rhode Island	425	32
+2020/5/18	Abbeville	South Carolina	35	0
+2020/5/18	Aiken	South Carolina	155	7
+2020/5/18	Allendale	South Carolina	33	3
+2020/5/18	Anderson	South Carolina	206	8
+2020/5/18	Bamberg	South Carolina	17	0
+2020/5/18	Barnwell	South Carolina	40	1
+2020/5/18	Beaufort	South Carolina	294	12
+2020/5/18	Berkeley	South Carolina	203	15
+2020/5/18	Calhoun	South Carolina	9	1
+2020/5/18	Charleston	South Carolina	509	11
+2020/5/18	Cherokee	South Carolina	24	1
+2020/5/18	Chester	South Carolina	42	0
+2020/5/18	Chesterfield	South Carolina	98	1
+2020/5/18	Clarendon	South Carolina	290	34
+2020/5/18	Colleton	South Carolina	58	4
+2020/5/18	Darlington	South Carolina	222	5
+2020/5/18	Dillon	South Carolina	131	1
+2020/5/18	Dorchester	South Carolina	114	3
+2020/5/18	Edgefield	South Carolina	44	2
+2020/5/18	Fairfield	South Carolina	128	8
+2020/5/18	Florence	South Carolina	540	29
+2020/5/18	Georgetown	South Carolina	52	3
+2020/5/18	Greenville	South Carolina	1116	46
+2020/5/18	Greenwood	South Carolina	71	1
+2020/5/18	Hampton	South Carolina	30	0
+2020/5/18	Horry	South Carolina	299	19
+2020/5/18	Jasper	South Carolina	27	1
+2020/5/18	Kershaw	South Carolina	270	12
+2020/5/18	Lancaster	South Carolina	111	5
+2020/5/18	Laurens	South Carolina	57	3
+2020/5/18	Lee	South Carolina	170	11
+2020/5/18	Lexington	South Carolina	518	27
+2020/5/18	Marion	South Carolina	52	4
+2020/5/18	Marlboro	South Carolina	75	0
+2020/5/18	McCormick	South Carolina	7	1
+2020/5/18	Newberry	South Carolina	33	1
+2020/5/18	Oconee	South Carolina	41	0
+2020/5/18	Orangeburg	South Carolina	113	2
+2020/5/18	Pickens	South Carolina	93	3
+2020/5/18	Richland	South Carolina	1250	61
+2020/5/18	Saluda	South Carolina	123	0
+2020/5/18	Spartanburg	South Carolina	407	13
+2020/5/18	Sumter	South Carolina	322	17
+2020/5/18	Union	South Carolina	31	0
+2020/5/18	Williamsburg	South Carolina	178	10
+2020/5/18	York	South Carolina	304	5
+2020/5/18	Aurora	South Dakota	3	0
+2020/5/18	Beadle	South Dakota	37	2
+2020/5/18	Bon Homme	South Dakota	5	0
+2020/5/18	Brookings	South Dakota	14	0
+2020/5/18	Brown	South Dakota	200	0
+2020/5/18	Buffalo	South Dakota	1	0
+2020/5/18	Charles Mix	South Dakota	9	0
+2020/5/18	Clark	South Dakota	4	0
+2020/5/18	Clay	South Dakota	15	0
+2020/5/18	Codington	South Dakota	17	0
+2020/5/18	Corson	South Dakota	4	0
+2020/5/18	Davison	South Dakota	9	1
+2020/5/18	Day	South Dakota	11	0
+2020/5/18	Deuel	South Dakota	1	0
+2020/5/18	Douglas	South Dakota	1	0
+2020/5/18	Fall River	South Dakota	2	0
+2020/5/18	Faulk	South Dakota	1	0
+2020/5/18	Grant	South Dakota	9	0
+2020/5/18	Hamlin	South Dakota	3	0
+2020/5/18	Hand	South Dakota	1	0
+2020/5/18	Hughes	South Dakota	16	0
+2020/5/18	Hutchinson	South Dakota	3	0
+2020/5/18	Hyde	South Dakota	1	0
+2020/5/18	Jerauld	South Dakota	6	1
+2020/5/18	Lake	South Dakota	5	0
+2020/5/18	Lawrence	South Dakota	9	0
+2020/5/18	Lincoln	South Dakota	201	0
+2020/5/18	Lyman	South Dakota	4	0
+2020/5/18	Marshall	South Dakota	1	0
+2020/5/18	McCook	South Dakota	5	1
+2020/5/18	McPherson	South Dakota	1	0
+2020/5/18	Meade	South Dakota	5	0
+2020/5/18	Miner	South Dakota	1	0
+2020/5/18	Minnehaha	South Dakota	3150	39
+2020/5/18	Moody	South Dakota	18	0
+2020/5/18	Oglala Lakota	South Dakota	10	0
+2020/5/18	Pennington	South Dakota	58	0
+2020/5/18	Roberts	South Dakota	19	0
+2020/5/18	Sanborn	South Dakota	6	0
+2020/5/18	Spink	South Dakota	4	0
+2020/5/18	Stanley	South Dakota	9	0
+2020/5/18	Sully	South Dakota	1	0
+2020/5/18	Todd	South Dakota	17	0
+2020/5/18	Tripp	South Dakota	2	0
+2020/5/18	Turner	South Dakota	19	0
+2020/5/18	Union	South Dakota	62	0
+2020/5/18	Walworth	South Dakota	5	0
+2020/5/18	Yankton	South Dakota	41	0
+2020/5/18	Ziebach	South Dakota	1	0
+2020/5/18	Anderson	Tennessee	37	1
+2020/5/18	Bedford	Tennessee	254	4
+2020/5/18	Benton	Tennessee	7	1
+2020/5/18	Bledsoe	Tennessee	607	1
+2020/5/18	Blount	Tennessee	76	3
+2020/5/18	Bradley	Tennessee	83	1
+2020/5/18	Campbell	Tennessee	17	1
+2020/5/18	Cannon	Tennessee	13	0
+2020/5/18	Carroll	Tennessee	25	1
+2020/5/18	Carter	Tennessee	19	1
+2020/5/18	Cheatham	Tennessee	92	0
+2020/5/18	Chester	Tennessee	12	0
+2020/5/18	Claiborne	Tennessee	8	0
+2020/5/18	Clay	Tennessee	6	0
+2020/5/18	Cocke	Tennessee	20	0
+2020/5/18	Coffee	Tennessee	61	0
+2020/5/18	Crockett	Tennessee	13	1
+2020/5/18	Cumberland	Tennessee	93	1
+2020/5/18	Davidson	Tennessee	4160	44
+2020/5/18	DeKalb	Tennessee	30	0
+2020/5/18	Decatur	Tennessee	5	0
+2020/5/18	Dickson	Tennessee	93	0
+2020/5/18	Dyer	Tennessee	44	0
+2020/5/18	Fayette	Tennessee	94	2
+2020/5/18	Fentress	Tennessee	6	0
+2020/5/18	Franklin	Tennessee	43	1
+2020/5/18	Gibson	Tennessee	59	1
+2020/5/18	Giles	Tennessee	12	0
+2020/5/18	Grainger	Tennessee	6	0
+2020/5/18	Greene	Tennessee	46	2
+2020/5/18	Grundy	Tennessee	30	1
+2020/5/18	Hamblen	Tennessee	25	2
+2020/5/18	Hamilton	Tennessee	376	13
+2020/5/18	Hardeman	Tennessee	183	0
+2020/5/18	Hardin	Tennessee	10	0
+2020/5/18	Hawkins	Tennessee	31	2
+2020/5/18	Haywood	Tennessee	29	1
+2020/5/18	Henderson	Tennessee	12	0
+2020/5/18	Henry	Tennessee	19	0
+2020/5/18	Hickman	Tennessee	52	0
+2020/5/18	Houston	Tennessee	6	0
+2020/5/18	Humphreys	Tennessee	12	1
+2020/5/18	Jackson	Tennessee	11	0
+2020/5/18	Jefferson	Tennessee	26	0
+2020/5/18	Johnson	Tennessee	15	0
+2020/5/18	Knox	Tennessee	315	5
+2020/5/18	Lake	Tennessee	404	0
+2020/5/18	Lauderdale	Tennessee	44	1
+2020/5/18	Lawrence	Tennessee	21	0
+2020/5/18	Lewis	Tennessee	2	0
+2020/5/18	Lincoln	Tennessee	16	0
+2020/5/18	Loudon	Tennessee	94	0
+2020/5/18	Macon	Tennessee	90	3
+2020/5/18	Madison	Tennessee	163	2
+2020/5/18	Marion	Tennessee	33	1
+2020/5/18	Marshall	Tennessee	27	1
+2020/5/18	Maury	Tennessee	68	0
+2020/5/18	McMinn	Tennessee	123	12
+2020/5/18	McNairy	Tennessee	12	0
+2020/5/18	Meigs	Tennessee	22	0
+2020/5/18	Monroe	Tennessee	49	1
+2020/5/18	Montgomery	Tennessee	213	2
+2020/5/18	Moore	Tennessee	3	0
+2020/5/18	Morgan	Tennessee	12	0
+2020/5/18	Obion	Tennessee	19	1
+2020/5/18	Overton	Tennessee	16	0
+2020/5/18	Perry	Tennessee	13	0
+2020/5/18	Pickett	Tennessee	2	0
+2020/5/18	Polk	Tennessee	14	0
+2020/5/18	Putnam	Tennessee	240	5
+2020/5/18	Rhea	Tennessee	10	0
+2020/5/18	Roane	Tennessee	9	0
+2020/5/18	Robertson	Tennessee	294	0
+2020/5/18	Rutherford	Tennessee	884	19
+2020/5/18	Scott	Tennessee	12	0
+2020/5/18	Sequatchie	Tennessee	10	0
+2020/5/18	Sevier	Tennessee	69	2
+2020/5/18	Shelby	Tennessee	3846	87
+2020/5/18	Smith	Tennessee	25	1
+2020/5/18	Stewart	Tennessee	7	0
+2020/5/18	Sullivan	Tennessee	57	2
+2020/5/18	Sumner	Tennessee	749	41
+2020/5/18	Tipton	Tennessee	405	2
+2020/5/18	Trousdale	Tennessee	1383	4
+2020/5/18	Unicoi	Tennessee	3	0
+2020/5/18	Union	Tennessee	4	0
+2020/5/18	Unknown	Tennessee	106	0
+2020/5/18	Van Buren	Tennessee	4	0
+2020/5/18	Warren	Tennessee	16	0
+2020/5/18	Washington	Tennessee	66	0
+2020/5/18	Wayne	Tennessee	63	0
+2020/5/18	Weakley	Tennessee	26	0
+2020/5/18	White	Tennessee	19	0
+2020/5/18	Williamson	Tennessee	480	10
+2020/5/18	Wilson	Tennessee	327	8
+2020/5/18	Anderson	Texas	54	0
+2020/5/18	Andrews	Texas	22	0
+2020/5/18	Angelina	Texas	139	1
+2020/5/18	Aransas	Texas	3	0
+2020/5/18	Archer	Texas	1	0
+2020/5/18	Armstrong	Texas	2	0
+2020/5/18	Atascosa	Texas	30	1
+2020/5/18	Austin	Texas	19	0
+2020/5/18	Bailey	Texas	8	0
+2020/5/18	Bandera	Texas	6	0
+2020/5/18	Bastrop	Texas	132	2
+2020/5/18	Bee	Texas	6	0
+2020/5/18	Bell	Texas	248	3
+2020/5/18	Bexar	Texas	2192	62
+2020/5/18	Blanco	Texas	6	0
+2020/5/18	Bosque	Texas	6	0
+2020/5/18	Bowie	Texas	133	11
+2020/5/18	Brazoria	Texas	786	11
+2020/5/18	Brazos	Texas	333	18
+2020/5/18	Brewster	Texas	1	0
+2020/5/18	Briscoe	Texas	1	0
+2020/5/18	Brooks	Texas	1	0
+2020/5/18	Brown	Texas	51	7
+2020/5/18	Burleson	Texas	18	0
+2020/5/18	Burnet	Texas	28	0
+2020/5/18	Caldwell	Texas	36	0
+2020/5/18	Calhoun	Texas	36	3
+2020/5/18	Callahan	Texas	8	1
+2020/5/18	Cameron	Texas	619	27
+2020/5/18	Camp	Texas	24	0
+2020/5/18	Carson	Texas	5	0
+2020/5/18	Cass	Texas	20	0
+2020/5/18	Castro	Texas	27	1
+2020/5/18	Chambers	Texas	55	0
+2020/5/18	Cherokee	Texas	34	1
+2020/5/18	Childress	Texas	2	0
+2020/5/18	Clay	Texas	3	0
+2020/5/18	Cochran	Texas	1	0
+2020/5/18	Coke	Texas	1	0
+2020/5/18	Coleman	Texas	2	0
+2020/5/18	Collin	Texas	1049	31
+2020/5/18	Collingsworth	Texas	4	0
+2020/5/18	Colorado	Texas	18	0
+2020/5/18	Comal	Texas	71	6
+2020/5/18	Comanche	Texas	3	1
+2020/5/18	Concho	Texas	1	0
+2020/5/18	Cooke	Texas	13	0
+2020/5/18	Coryell	Texas	224	2
+2020/5/18	Cottle	Texas	4	1
+2020/5/18	Crane	Texas	2	0
+2020/5/18	Crosby	Texas	3	1
+2020/5/18	Dallam	Texas	22	0
+2020/5/18	Dallas	Texas	7679	177
+2020/5/18	Dawson	Texas	38	1
+2020/5/18	DeWitt	Texas	17	1
+2020/5/18	Deaf Smith	Texas	122	6
+2020/5/18	Delta	Texas	1	0
+2020/5/18	Denton	Texas	1088	28
+2020/5/18	Dickens	Texas	1	0
+2020/5/18	Dimmit	Texas	1	0
+2020/5/18	Donley	Texas	26	0
+2020/5/18	Duval	Texas	5	0
+2020/5/18	Eastland	Texas	5	0
+2020/5/18	Ector	Texas	118	4
+2020/5/18	El Paso	Texas	1800	47
+2020/5/18	Ellis	Texas	247	12
+2020/5/18	Erath	Texas	15	1
+2020/5/18	Falls	Texas	6	0
+2020/5/18	Fannin	Texas	25	2
+2020/5/18	Fayette	Texas	29	2
+2020/5/18	Fisher	Texas	1	0
+2020/5/18	Floyd	Texas	4	0
+2020/5/18	Fort Bend	Texas	1559	40
+2020/5/18	Franklin	Texas	6	0
+2020/5/18	Freestone	Texas	7	0
+2020/5/18	Frio	Texas	35	0
+2020/5/18	Gaines	Texas	5	0
+2020/5/18	Galveston	Texas	706	31
+2020/5/18	Garza	Texas	4	0
+2020/5/18	Gillespie	Texas	4	0
+2020/5/18	Glasscock	Texas	1	0
+2020/5/18	Goliad	Texas	7	0
+2020/5/18	Gonzales	Texas	85	2
+2020/5/18	Gray	Texas	93	0
+2020/5/18	Grayson	Texas	152	0
+2020/5/18	Gregg	Texas	170	0
+2020/5/18	Grimes	Texas	65	1
+2020/5/18	Guadalupe	Texas	110	0
+2020/5/18	Hale	Texas	44	4
+2020/5/18	Hamilton	Texas	7	0
+2020/5/18	Hansford	Texas	16	2
+2020/5/18	Hardin	Texas	120	4
+2020/5/18	Harris	Texas	9635	205
+2020/5/18	Harrison	Texas	202	19
+2020/5/18	Hartley	Texas	9	2
+2020/5/18	Haskell	Texas	1	0
+2020/5/18	Hays	Texas	235	3
+2020/5/18	Hemphill	Texas	1	0
+2020/5/18	Henderson	Texas	48	0
+2020/5/18	Hidalgo	Texas	448	10
+2020/5/18	Hill	Texas	22	1
+2020/5/18	Hockley	Texas	23	1
+2020/5/18	Hood	Texas	22	3
+2020/5/18	Hopkins	Texas	8	0
+2020/5/18	Houston	Texas	79	0
+2020/5/18	Howard	Texas	6	1
+2020/5/18	Hunt	Texas	66	3
+2020/5/18	Hutchinson	Texas	28	0
+2020/5/18	Jack	Texas	4	0
+2020/5/18	Jackson	Texas	15	1
+2020/5/18	Jasper	Texas	33	2
+2020/5/18	Jefferson	Texas	463	26
+2020/5/18	Jim Hogg	Texas	4	0
+2020/5/18	Jim Wells	Texas	8	0
+2020/5/18	Johnson	Texas	148	4
+2020/5/18	Jones	Texas	112	0
+2020/5/18	Karnes	Texas	3	0
+2020/5/18	Kaufman	Texas	147	1
+2020/5/18	Kendall	Texas	21	0
+2020/5/18	Kerr	Texas	10	0
+2020/5/18	Kimble	Texas	1	0
+2020/5/18	Kleberg	Texas	14	1
+2020/5/18	Knox	Texas	1	0
+2020/5/18	La Salle	Texas	4	0
+2020/5/18	Lamar	Texas	116	9
+2020/5/18	Lamb	Texas	11	0
+2020/5/18	Lampasas	Texas	8	0
+2020/5/18	Lavaca	Texas	8	1
+2020/5/18	Lee	Texas	6	0
+2020/5/18	Leon	Texas	9	0
+2020/5/18	Liberty	Texas	75	3
+2020/5/18	Limestone	Texas	15	1
+2020/5/18	Lipscomb	Texas	2	0
+2020/5/18	Live Oak	Texas	7	0
+2020/5/18	Llano	Texas	3	0
+2020/5/18	Lubbock	Texas	619	50
+2020/5/18	Lynn	Texas	5	1
+2020/5/18	Madison	Texas	8	0
+2020/5/18	Marion	Texas	16	0
+2020/5/18	Martin	Texas	3	1
+2020/5/18	Mason	Texas	31	0
+2020/5/18	Matagorda	Texas	66	5
+2020/5/18	Maverick	Texas	74	0
+2020/5/18	McCulloch	Texas	3	0
+2020/5/18	McLennan	Texas	98	4
+2020/5/18	Medina	Texas	58	2
+2020/5/18	Midland	Texas	122	12
+2020/5/18	Milam	Texas	24	1
+2020/5/18	Mitchell	Texas	1	0
+2020/5/18	Montague	Texas	9	1
+2020/5/18	Montgomery	Texas	817	18
+2020/5/18	Moore	Texas	567	12
+2020/5/18	Morris	Texas	11	0
+2020/5/18	Motley	Texas	1	0
+2020/5/18	Nacogdoches	Texas	239	17
+2020/5/18	Navarro	Texas	38	2
+2020/5/18	Newton	Texas	4	0
+2020/5/18	Nolan	Texas	2	0
+2020/5/18	Nueces	Texas	242	3
+2020/5/18	Ochiltree	Texas	41	2
+2020/5/18	Oldham	Texas	3	1
+2020/5/18	Orange	Texas	87	2
+2020/5/18	Palo Pinto	Texas	9	2
+2020/5/18	Panola	Texas	162	15
+2020/5/18	Parker	Texas	57	0
+2020/5/18	Parmer	Texas	34	0
+2020/5/18	Pecos	Texas	20	0
+2020/5/18	Polk	Texas	47	0
+2020/5/18	Potter	Texas	2145	23
+2020/5/18	Rains	Texas	2	0
+2020/5/18	Randall	Texas	611	5
+2020/5/18	Red River	Texas	35	0
+2020/5/18	Reeves	Texas	3	0
+2020/5/18	Refugio	Texas	3	0
+2020/5/18	Roberts	Texas	2	0
+2020/5/18	Robertson	Texas	6	0
+2020/5/18	Rockwall	Texas	134	5
+2020/5/18	Runnels	Texas	2	0
+2020/5/18	Rusk	Texas	42	1
+2020/5/18	Sabine	Texas	3	0
+2020/5/18	San Augustine	Texas	22	1
+2020/5/18	San Jacinto	Texas	12	0
+2020/5/18	San Patricio	Texas	26	0
+2020/5/18	Scurry	Texas	2	0
+2020/5/18	Shackelford	Texas	1	0
+2020/5/18	Shelby	Texas	175	5
+2020/5/18	Sherman	Texas	23	0
+2020/5/18	Smith	Texas	192	4
+2020/5/18	Starr	Texas	17	0
+2020/5/18	Stephens	Texas	2	0
+2020/5/18	Swisher	Texas	15	0
+2020/5/18	Tarrant	Texas	4559	123
+2020/5/18	Taylor	Texas	393	6
+2020/5/18	Terry	Texas	12	0
+2020/5/18	Titus	Texas	102	1
+2020/5/18	Tom Green	Texas	61	1
+2020/5/18	Travis	Texas	2537	79
+2020/5/18	Trinity	Texas	11	0
+2020/5/18	Tyler	Texas	9	0
+2020/5/18	Upshur	Texas	18	0
+2020/5/18	Uvalde	Texas	6	0
+2020/5/18	Val Verde	Texas	13	0
+2020/5/18	Van Zandt	Texas	22	1
+2020/5/18	Victoria	Texas	156	7
+2020/5/18	Walker	Texas	423	26
+2020/5/18	Waller	Texas	40	0
+2020/5/18	Washington	Texas	181	22
+2020/5/18	Webb	Texas	477	18
+2020/5/18	Wharton	Texas	43	0
+2020/5/18	Wheeler	Texas	14	0
+2020/5/18	Wichita	Texas	80	2
+2020/5/18	Wilbarger	Texas	5	0
+2020/5/18	Willacy	Texas	14	1
+2020/5/18	Williamson	Texas	486	19
+2020/5/18	Wilson	Texas	36	5
+2020/5/18	Winkler	Texas	3	0
+2020/5/18	Wise	Texas	36	2
+2020/5/18	Wood	Texas	18	0
+2020/5/18	Yoakum	Texas	2	0
+2020/5/18	Young	Texas	4	1
+2020/5/18	Zapata	Texas	7	0
+2020/5/18	Zavala	Texas	9	0
+2020/5/18	Box Elder	Utah	25	1
+2020/5/18	Cache	Utah	64	0
+2020/5/18	Carbon	Utah	8	0
+2020/5/18	Davis	Utah	370	2
+2020/5/18	Duchesne	Utah	9	0
+2020/5/18	Emery	Utah	5	0
+2020/5/18	Garfield	Utah	3	0
+2020/5/18	Grand	Utah	4	0
+2020/5/18	Iron	Utah	32	0
+2020/5/18	Juab	Utah	8	0
+2020/5/18	Kane	Utah	3	0
+2020/5/18	Millard	Utah	6	0
+2020/5/18	Morgan	Utah	10	0
+2020/5/18	Piute	Utah	1	0
+2020/5/18	Salt Lake	Utah	3942	56
+2020/5/18	San Juan	Utah	227	4
+2020/5/18	Sanpete	Utah	6	0
+2020/5/18	Sevier	Utah	8	0
+2020/5/18	Summit	Utah	401	0
+2020/5/18	Tooele	Utah	94	0
+2020/5/18	Uintah	Utah	10	0
+2020/5/18	Unknown	Utah	3	2
+2020/5/18	Utah	Utah	1520	11
+2020/5/18	Wasatch	Utah	203	1
+2020/5/18	Washington	Utah	198	0
+2020/5/18	Weber	Utah	224	3
+2020/5/18	Addison	Vermont	62	2
+2020/5/18	Bennington	Vermont	60	1
+2020/5/18	Caledonia	Vermont	14	0
+2020/5/18	Chittenden	Vermont	439	38
+2020/5/18	Essex	Vermont	2	0
+2020/5/18	Franklin	Vermont	99	5
+2020/5/18	Grand Isle	Vermont	4	0
+2020/5/18	Lamoille	Vermont	27	1
+2020/5/18	Orange	Vermont	8	0
+2020/5/18	Orleans	Vermont	9	0
+2020/5/18	Rutland	Vermont	50	1
+2020/5/18	Unknown	Vermont	5	0
+2020/5/18	Washington	Vermont	38	1
+2020/5/18	Windham	Vermont	76	3
+2020/5/18	Windsor	Vermont	47	2
+2020/5/18	Unknown	Virgin Islands	69	6
+2020/5/18	Accomack	Virginia	690	9
+2020/5/18	Albemarle	Virginia	139	4
+2020/5/18	Alexandria city	Virginia	1510	34
+2020/5/18	Alleghany	Virginia	9	0
+2020/5/18	Amelia	Virginia	20	1
+2020/5/18	Amherst	Virginia	25	0
+2020/5/18	Appomattox	Virginia	25	0
+2020/5/18	Arlington	Virginia	1638	77
+2020/5/18	Augusta	Virginia	85	1
+2020/5/18	Bedford	Virginia	41	1
+2020/5/18	Botetourt	Virginia	31	3
+2020/5/18	Bristol city	Virginia	3	0
+2020/5/18	Brunswick	Virginia	20	1
+2020/5/18	Buchanan	Virginia	16	0
+2020/5/18	Buckingham	Virginia	417	2
+2020/5/18	Buena Vista city	Virginia	9	0
+2020/5/18	Campbell	Virginia	13	1
+2020/5/18	Caroline	Virginia	42	2
+2020/5/18	Carroll	Virginia	49	0
+2020/5/18	Charles City	Virginia	23	1
+2020/5/18	Charlotte	Virginia	14	0
+2020/5/18	Charlottesville city	Virginia	72	2
+2020/5/18	Chesapeake city	Virginia	387	10
+2020/5/18	Chesterfield	Virginia	1002	29
+2020/5/18	Clarke	Virginia	18	0
+2020/5/18	Colonial Heights city	Virginia	76	7
+2020/5/18	Covington city	Virginia	2	0
+2020/5/18	Craig	Virginia	4	0
+2020/5/18	Culpeper	Virginia	388	5
+2020/5/18	Cumberland	Virginia	23	0
+2020/5/18	Danville city	Virginia	44	1
+2020/5/18	Dinwiddie	Virginia	38	0
+2020/5/18	Emporia city	Virginia	55	3
+2020/5/18	Essex	Virginia	31	0
+2020/5/18	Fairfax	Virginia	7843	284
+2020/5/18	Fairfax city	Virginia	47	3
+2020/5/18	Falls Church city	Virginia	44	4
+2020/5/18	Fauquier	Virginia	223	5
+2020/5/18	Floyd	Virginia	4	0
+2020/5/18	Fluvanna	Virginia	82	6
+2020/5/18	Franklin	Virginia	30	1
+2020/5/18	Franklin city	Virginia	32	1
+2020/5/18	Frederick	Virginia	217	3
+2020/5/18	Fredericksburg city	Virginia	96	0
+2020/5/18	Galax city	Virginia	82	0
+2020/5/18	Giles	Virginia	5	0
+2020/5/18	Gloucester	Virginia	28	1
+2020/5/18	Goochland	Virginia	88	5
+2020/5/18	Grayson	Virginia	21	0
+2020/5/18	Greene	Virginia	19	1
+2020/5/18	Greensville	Virginia	50	7
+2020/5/18	Halifax	Virginia	27	0
+2020/5/18	Hampton city	Virginia	163	3
+2020/5/18	Hanover	Virginia	225	19
+2020/5/18	Harrisonburg city	Virginia	633	21
+2020/5/18	Henrico	Virginia	1272	113
+2020/5/18	Henry	Virginia	43	2
+2020/5/18	Highland	Virginia	2	0
+2020/5/18	Hopewell city	Virginia	53	0
+2020/5/18	Isle of Wight	Virginia	119	3
+2020/5/18	James City	Virginia	187	15
+2020/5/18	King George	Virginia	48	4
+2020/5/18	King William	Virginia	15	0
+2020/5/18	King and Queen	Virginia	7	0
+2020/5/18	Lancaster	Virginia	7	0
+2020/5/18	Lee	Virginia	10	0
+2020/5/18	Lexington city	Virginia	6	0
+2020/5/18	Loudoun	Virginia	1486	48
+2020/5/18	Louisa	Virginia	60	0
+2020/5/18	Lunenburg	Virginia	7	0
+2020/5/18	Lynchburg city	Virginia	74	1
+2020/5/18	Madison	Virginia	24	1
+2020/5/18	Manassas Park city	Virginia	198	3
+2020/5/18	Manassas city	Virginia	628	5
+2020/5/18	Mathews	Virginia	5	0
+2020/5/18	Mecklenburg	Virginia	169	16
+2020/5/18	Middlesex	Virginia	12	0
+2020/5/18	Montgomery	Virginia	66	1
+2020/5/18	Nelson	Virginia	12	0
+2020/5/18	New Kent	Virginia	26	1
+2020/5/18	Newport News city	Virginia	206	10
+2020/5/18	Norfolk city	Virginia	361	5
+2020/5/18	Northampton	Virginia	198	9
+2020/5/18	Northumberland	Virginia	18	1
+2020/5/18	Norton city	Virginia	2	0
+2020/5/18	Nottoway	Virginia	18	0
+2020/5/18	Orange	Virginia	60	0
+2020/5/18	Page	Virginia	161	16
+2020/5/18	Patrick	Virginia	8	0
+2020/5/18	Petersburg city	Virginia	60	2
+2020/5/18	Pittsylvania	Virginia	24	1
+2020/5/18	Poquoson city	Virginia	7	0
+2020/5/18	Portsmouth city	Virginia	228	10
+2020/5/18	Powhatan	Virginia	24	0
+2020/5/18	Prince Edward	Virginia	77	2
+2020/5/18	Prince George	Virginia	52	0
+2020/5/18	Prince William	Virginia	3759	70
+2020/5/18	Pulaski	Virginia	10	0
+2020/5/18	Radford city	Virginia	3	0
+2020/5/18	Rappahannock	Virginia	12	0
+2020/5/18	Richmond	Virginia	263	4
+2020/5/18	Richmond city	Virginia	779	18
+2020/5/18	Roanoke	Virginia	86	3
+2020/5/18	Roanoke city	Virginia	128	8
+2020/5/18	Rockbridge	Virginia	11	0
+2020/5/18	Rockingham	Virginia	397	2
+2020/5/18	Russell	Virginia	8	0
+2020/5/18	Salem city	Virginia	32	0
+2020/5/18	Scott	Virginia	7	2
+2020/5/18	Shenandoah	Virginia	319	12
+2020/5/18	Smyth	Virginia	15	0
+2020/5/18	Southampton	Virginia	137	2
+2020/5/18	Spotsylvania	Virginia	319	4
+2020/5/18	Stafford	Virginia	484	4
+2020/5/18	Staunton city	Virginia	33	0
+2020/5/18	Suffolk city	Virginia	269	22
+2020/5/18	Surry	Virginia	6	1
+2020/5/18	Sussex	Virginia	91	1
+2020/5/18	Tazewell	Virginia	6	0
+2020/5/18	Unknown	Virginia	8	0
+2020/5/18	Virginia Beach city	Virginia	557	19
+2020/5/18	Warren	Virginia	99	2
+2020/5/18	Washington	Virginia	49	3
+2020/5/18	Waynesboro city	Virginia	24	0
+2020/5/18	Westmoreland	Virginia	42	0
+2020/5/18	Williamsburg city	Virginia	43	3
+2020/5/18	Winchester city	Virginia	84	1
+2020/5/18	Wise	Virginia	23	2
+2020/5/18	Wythe	Virginia	16	1
+2020/5/18	York	Virginia	63	3
+2020/5/18	Adams	Washington	50	0
+2020/5/18	Asotin	Washington	18	2
+2020/5/18	Benton	Washington	791	58
+2020/5/18	Chelan	Washington	183	7
+2020/5/18	Clallam	Washington	21	0
+2020/5/18	Clark	Washington	406	25
+2020/5/18	Columbia	Washington	1	0
+2020/5/18	Cowlitz	Washington	68	0
+2020/5/18	Douglas	Washington	131	3
+2020/5/18	Ferry	Washington	1	0
+2020/5/18	Franklin	Washington	577	17
+2020/5/18	Grant	Washington	226	3
+2020/5/18	Grays Harbor	Washington	15	0
+2020/5/18	Island	Washington	181	10
+2020/5/18	Jefferson	Washington	30	0
+2020/5/18	King	Washington	7848	530
+2020/5/18	Kitsap	Washington	160	2
+2020/5/18	Kittitas	Washington	57	0
+2020/5/18	Klickitat	Washington	24	3
+2020/5/18	Lewis	Washington	35	3
+2020/5/18	Lincoln	Washington	2	0
+2020/5/18	Mason	Washington	33	1
+2020/5/18	Okanogan	Washington	40	2
+2020/5/18	Pacific	Washington	9	1
+2020/5/18	Pend Oreille	Washington	2	0
+2020/5/18	Pierce	Washington	1808	68
+2020/5/18	San Juan	Washington	15	0
+2020/5/18	Skagit	Washington	426	14
+2020/5/18	Skamania	Washington	3	0
+2020/5/18	Snohomish	Washington	3125	125
+2020/5/18	Spokane	Washington	412	30
+2020/5/18	Stevens	Washington	9	1
+2020/5/18	Thurston	Washington	127	1
+2020/5/18	Wahkiakum	Washington	4	0
+2020/5/18	Walla Walla	Washington	107	2
+2020/5/18	Whatcom	Washington	358	35
+2020/5/18	Whitman	Washington	18	0
+2020/5/18	Yakima	Washington	2517	77
+2020/5/18	Barbour	West Virginia	7	1
+2020/5/18	Berkeley	West Virginia	215	6
+2020/5/18	Boone	West Virginia	9	0
+2020/5/18	Braxton	West Virginia	2	0
+2020/5/18	Brooke	West Virginia	3	0
+2020/5/18	Cabell	West Virginia	56	0
+2020/5/18	Calhoun	West Virginia	2	0
+2020/5/18	Clay	West Virginia	2	0
+2020/5/18	Fayette	West Virginia	38	3
+2020/5/18	Gilmer	West Virginia	8	0
+2020/5/18	Grant	West Virginia	6	0
+2020/5/18	Greenbrier	West Virginia	9	0
+2020/5/18	Hampshire	West Virginia	12	1
+2020/5/18	Hancock	West Virginia	12	0
+2020/5/18	Hardy	West Virginia	31	0
+2020/5/18	Harrison	West Virginia	35	1
+2020/5/18	Jackson	West Virginia	135	17
+2020/5/18	Jefferson	West Virginia	101	1
+2020/5/18	Kanawha	West Virginia	203	16
+2020/5/18	Lewis	West Virginia	5	0
+2020/5/18	Lincoln	West Virginia	5	0
+2020/5/18	Logan	West Virginia	15	1
+2020/5/18	Marion	West Virginia	48	2
+2020/5/18	Marshall	West Virginia	25	0
+2020/5/18	Mason	West Virginia	15	0
+2020/5/18	McDowell	West Virginia	6	0
+2020/5/18	Mercer	West Virginia	13	0
+2020/5/18	Mineral	West Virginia	29	0
+2020/5/18	Mingo	West Virginia	3	1
+2020/5/18	Monongalia	West Virginia	116	5
+2020/5/18	Monroe	West Virginia	6	0
+2020/5/18	Morgan	West Virginia	17	0
+2020/5/18	Nicholas	West Virginia	9	1
+2020/5/18	Ohio	West Virginia	37	1
+2020/5/18	Pendleton	West Virginia	5	0
+2020/5/18	Pleasants	West Virginia	2	0
+2020/5/18	Pocahontas	West Virginia	8	0
+2020/5/18	Preston	West Virginia	15	0
+2020/5/18	Putnam	West Virginia	29	0
+2020/5/18	Raleigh	West Virginia	12	0
+2020/5/18	Randolph	West Virginia	7	0
+2020/5/18	Ritchie	West Virginia	1	0
+2020/5/18	Roane	West Virginia	9	0
+2020/5/18	Summers	West Virginia	1	0
+2020/5/18	Taylor	West Virginia	8	0
+2020/5/18	Tucker	West Virginia	4	0
+2020/5/18	Tyler	West Virginia	3	0
+2020/5/18	Upshur	West Virginia	6	0
+2020/5/18	Wayne	West Virginia	96	9
+2020/5/18	Wetzel	West Virginia	7	0
+2020/5/18	Wirt	West Virginia	3	0
+2020/5/18	Wood	West Virginia	48	2
+2020/5/18	Wyoming	West Virginia	3	0
+2020/5/18	Adams	Wisconsin	4	1
+2020/5/18	Ashland	Wisconsin	2	0
+2020/5/18	Barron	Wisconsin	11	0
+2020/5/18	Bayfield	Wisconsin	3	1
+2020/5/18	Brown	Wisconsin	2102	23
+2020/5/18	Buffalo	Wisconsin	5	1
+2020/5/18	Burnett	Wisconsin	2	1
+2020/5/18	Calumet	Wisconsin	58	1
+2020/5/18	Chippewa	Wisconsin	41	0
+2020/5/18	Clark	Wisconsin	28	4
+2020/5/18	Columbia	Wisconsin	36	1
+2020/5/18	Crawford	Wisconsin	23	0
+2020/5/18	Dane	Wisconsin	538	25
+2020/5/18	Dodge	Wisconsin	108	1
+2020/5/18	Door	Wisconsin	33	3
+2020/5/18	Douglas	Wisconsin	13	0
+2020/5/18	Dunn	Wisconsin	20	0
+2020/5/18	Eau Claire	Wisconsin	70	0
+2020/5/18	Florence	Wisconsin	2	0
+2020/5/18	Fond du Lac	Wisconsin	142	3
+2020/5/18	Forest	Wisconsin	9	0
+2020/5/18	Grant	Wisconsin	74	10
+2020/5/18	Green	Wisconsin	45	0
+2020/5/18	Green Lake	Wisconsin	11	0
+2020/5/18	Iowa	Wisconsin	11	0
+2020/5/18	Iron	Wisconsin	2	1
+2020/5/18	Jackson	Wisconsin	15	1
+2020/5/18	Jefferson	Wisconsin	61	2
+2020/5/18	Juneau	Wisconsin	22	1
+2020/5/18	Kenosha	Wisconsin	848	18
+2020/5/18	Kewaunee	Wisconsin	30	1
+2020/5/18	La Crosse	Wisconsin	45	0
+2020/5/18	Lafayette	Wisconsin	16	0
+2020/5/18	Lincoln	Wisconsin	3	0
+2020/5/18	Manitowoc	Wisconsin	22	1
+2020/5/18	Marathon	Wisconsin	33	1
+2020/5/18	Marinette	Wisconsin	25	2
+2020/5/18	Marquette	Wisconsin	3	1
+2020/5/18	Menominee	Wisconsin	2	0
+2020/5/18	Milwaukee	Wisconsin	5040	256
+2020/5/18	Monroe	Wisconsin	15	1
+2020/5/18	Oconto	Wisconsin	30	0
+2020/5/18	Oneida	Wisconsin	7	0
+2020/5/18	Outagamie	Wisconsin	142	5
+2020/5/18	Ozaukee	Wisconsin	122	11
+2020/5/18	Pepin	Wisconsin	1	0
+2020/5/18	Pierce	Wisconsin	21	0
+2020/5/18	Polk	Wisconsin	6	0
+2020/5/18	Portage	Wisconsin	7	0
+2020/5/18	Price	Wisconsin	1	0
+2020/5/18	Racine	Wisconsin	1034	18
+2020/5/18	Richland	Wisconsin	14	3
+2020/5/18	Rock	Wisconsin	432	14
+2020/5/18	Rusk	Wisconsin	4	0
+2020/5/18	Sauk	Wisconsin	77	3
+2020/5/18	Sawyer	Wisconsin	4	0
+2020/5/18	Shawano	Wisconsin	33	0
+2020/5/18	Sheboygan	Wisconsin	69	3
+2020/5/18	St. Croix	Wisconsin	48	0
+2020/5/18	Trempealeau	Wisconsin	11	0
+2020/5/18	Vernon	Wisconsin	11	0
+2020/5/18	Vilas	Wisconsin	4	0
+2020/5/18	Walworth	Wisconsin	284	12
+2020/5/18	Washburn	Wisconsin	1	0
+2020/5/18	Washington	Wisconsin	149	4
+2020/5/18	Waukesha	Wisconsin	482	23
+2020/5/18	Waupaca	Wisconsin	17	1
+2020/5/18	Waushara	Wisconsin	7	0
+2020/5/18	Winnebago	Wisconsin	124	1
+2020/5/18	Wood	Wisconsin	7	0
+2020/5/18	Albany	Wyoming	10	0
+2020/5/18	Big Horn	Wyoming	3	0
+2020/5/18	Campbell	Wyoming	29	0
+2020/5/18	Carbon	Wyoming	14	1
+2020/5/18	Converse	Wyoming	23	0
+2020/5/18	Crook	Wyoming	5	0
+2020/5/18	Fremont	Wyoming	224	5
+2020/5/18	Goshen	Wyoming	5	0
+2020/5/18	Hot Springs	Wyoming	8	0
+2020/5/18	Johnson	Wyoming	16	1
+2020/5/18	Laramie	Wyoming	181	2
+2020/5/18	Lincoln	Wyoming	14	0
+2020/5/18	Natrona	Wyoming	62	0
+2020/5/18	Niobrara	Wyoming	2	0
+2020/5/18	Park	Wyoming	1	0
+2020/5/18	Sheridan	Wyoming	16	0
+2020/5/18	Sublette	Wyoming	3	0
+2020/5/18	Sweetwater	Wyoming	23	0
+2020/5/18	Teton	Wyoming	100	1
+2020/5/18	Uinta	Wyoming	12	0
+2020/5/18	Washakie	Wyoming	15	0
+2020/5/19	Autauga	Alabama	127	4
+2020/5/19	Baldwin	Alabama	262	8
+2020/5/19	Barbour	Alabama	90	1
+2020/5/19	Bibb	Alabama	51	1
+2020/5/19	Blount	Alabama	47	1
+2020/5/19	Bullock	Alabama	52	1
+2020/5/19	Butler	Alabama	295	10
+2020/5/19	Calhoun	Alabama	133	3
+2020/5/19	Chambers	Alabama	329	22
+2020/5/19	Cherokee	Alabama	29	0
+2020/5/19	Chilton	Alabama	80	1
+2020/5/19	Choctaw	Alabama	92	3
+2020/5/19	Clarke	Alabama	81	2
+2020/5/19	Clay	Alabama	27	2
+2020/5/19	Cleburne	Alabama	13	1
+2020/5/19	Coffee	Alabama	175	1
+2020/5/19	Colbert	Alabama	98	2
+2020/5/19	Conecuh	Alabama	21	0
+2020/5/19	Coosa	Alabama	33	1
+2020/5/19	Covington	Alabama	58	1
+2020/5/19	Crenshaw	Alabama	53	3
+2020/5/19	Cullman	Alabama	70	0
+2020/5/19	Dale	Alabama	63	0
+2020/5/19	Dallas	Alabama	159	3
+2020/5/19	DeKalb	Alabama	195	3
+2020/5/19	Elmore	Alabama	207	6
+2020/5/19	Escambia	Alabama	39	3
+2020/5/19	Etowah	Alabama	215	10
+2020/5/19	Fayette	Alabama	9	0
+2020/5/19	Franklin	Alabama	364	4
+2020/5/19	Geneva	Alabama	23	0
+2020/5/19	Greene	Alabama	87	4
+2020/5/19	Hale	Alabama	96	2
+2020/5/19	Henry	Alabama	44	1
+2020/5/19	Houston	Alabama	141	4
+2020/5/19	Jackson	Alabama	63	2
+2020/5/19	Jefferson	Alabama	1367	78
+2020/5/19	Lamar	Alabama	15	0
+2020/5/19	Lauderdale	Alabama	116	2
+2020/5/19	Lawrence	Alabama	35	0
+2020/5/19	Lee	Alabama	450	31
+2020/5/19	Limestone	Alabama	65	0
+2020/5/19	Lowndes	Alabama	140	10
+2020/5/19	Macon	Alabama	54	2
+2020/5/19	Madison	Alabama	278	4
+2020/5/19	Marengo	Alabama	116	6
+2020/5/19	Marion	Alabama	106	9
+2020/5/19	Marshall	Alabama	638	9
+2020/5/19	Mobile	Alabama	1751	103
+2020/5/19	Monroe	Alabama	20	2
+2020/5/19	Montgomery	Alabama	907	24
+2020/5/19	Morgan	Alabama	119	1
+2020/5/19	Perry	Alabama	22	0
+2020/5/19	Pickens	Alabama	84	3
+2020/5/19	Pike	Alabama	110	0
+2020/5/19	Randolph	Alabama	120	7
+2020/5/19	Russell	Alabama	109	0
+2020/5/19	Shelby	Alabama	404	19
+2020/5/19	St. Clair	Alabama	91	1
+2020/5/19	Sumter	Alabama	148	4
+2020/5/19	Talladega	Alabama	81	2
+2020/5/19	Tallapoosa	Alabama	371	57
+2020/5/19	Tuscaloosa	Alabama	387	8
+2020/5/19	Walker	Alabama	148	1
+2020/5/19	Washington	Alabama	61	5
+2020/5/19	Wilcox	Alabama	97	5
+2020/5/19	Winston	Alabama	45	1
+2020/5/19	Anchorage	Alaska	206	4
+2020/5/19	Bethel Census Area	Alaska	2	0
+2020/5/19	Fairbanks North Star Borough	Alaska	85	2
+2020/5/19	Juneau City and Borough	Alaska	30	0
+2020/5/19	Kenai Peninsula Borough	Alaska	25	1
+2020/5/19	Ketchikan Gateway Borough	Alaska	16	0
+2020/5/19	Kodiak Island Borough	Alaska	1	0
+2020/5/19	Matanuska-Susitna Borough	Alaska	22	1
+2020/5/19	Nome Census Area	Alaska	1	0
+2020/5/19	Petersburg Borough	Alaska	3	0
+2020/5/19	Prince of Wales-Hyder Census Area	Alaska	2	0
+2020/5/19	Sitka City and Borough	Alaska	1	0
+2020/5/19	Southeast Fairbanks Census Area	Alaska	3	0
+2020/5/19	Valdez-Cordova Census Area	Alaska	1	0
+2020/5/19	Yukon-Koyukuk Census Area	Alaska	1	0
+2020/5/19	Apache	Arizona	1023	20
+2020/5/19	Cochise	Arizona	46	1
+2020/5/19	Coconino	Arizona	943	66
+2020/5/19	Gila	Arizona	22	1
+2020/5/19	Graham	Arizona	20	0
+2020/5/19	Greenlee	Arizona	3	0
+2020/5/19	La Paz	Arizona	38	2
+2020/5/19	Maricopa	Arizona	7482	339
+2020/5/19	Mohave	Arizona	262	28
+2020/5/19	Navajo	Arizona	1320	48
+2020/5/19	Pima	Arizona	1888	158
+2020/5/19	Pinal	Arizona	720	32
+2020/5/19	Santa Cruz	Arizona	97	0
+2020/5/19	Yavapai	Arizona	269	5
+2020/5/19	Yuma	Arizona	433	4
+2020/5/19	Arkansas	Arkansas	2	0
+2020/5/19	Ashley	Arkansas	19	0
+2020/5/19	Baxter	Arkansas	6	0
+2020/5/19	Benton	Arkansas	155	0
+2020/5/19	Boone	Arkansas	5	0
+2020/5/19	Bradley	Arkansas	14	1
+2020/5/19	Carroll	Arkansas	6	0
+2020/5/19	Chicot	Arkansas	11	0
+2020/5/19	Clark	Arkansas	35	0
+2020/5/19	Clay	Arkansas	4	0
+2020/5/19	Cleburne	Arkansas	72	4
+2020/5/19	Cleveland	Arkansas	17	0
+2020/5/19	Columbia	Arkansas	18	2
+2020/5/19	Conway	Arkansas	14	1
+2020/5/19	Craighead	Arkansas	147	0
+2020/5/19	Crawford	Arkansas	12	0
+2020/5/19	Crittenden	Arkansas	241	7
+2020/5/19	Cross	Arkansas	39	0
+2020/5/19	Dallas	Arkansas	1	0
+2020/5/19	Desha	Arkansas	18	0
+2020/5/19	Drew	Arkansas	19	1
+2020/5/19	Faulkner	Arkansas	95	3
+2020/5/19	Franklin	Arkansas	2	0
+2020/5/19	Fulton	Arkansas	4	0
+2020/5/19	Garland	Arkansas	130	1
+2020/5/19	Grant	Arkansas	16	0
+2020/5/19	Greene	Arkansas	25	0
+2020/5/19	Hempstead	Arkansas	9	1
+2020/5/19	Hot Spring	Arkansas	29	0
+2020/5/19	Howard	Arkansas	14	0
+2020/5/19	Independence	Arkansas	26	0
+2020/5/19	Izard	Arkansas	14	0
+2020/5/19	Jackson	Arkansas	1	0
+2020/5/19	Jefferson	Arkansas	497	20
+2020/5/19	Johnson	Arkansas	35	0
+2020/5/19	Lafayette	Arkansas	9	1
+2020/5/19	Lawrence	Arkansas	77	4
+2020/5/19	Lee	Arkansas	12	1
+2020/5/19	Lincoln	Arkansas	965	8
+2020/5/19	Little River	Arkansas	1	0
+2020/5/19	Logan	Arkansas	4	0
+2020/5/19	Lonoke	Arkansas	46	0
+2020/5/19	Madison	Arkansas	2	0
+2020/5/19	Marion	Arkansas	1	0
+2020/5/19	Miller	Arkansas	42	1
+2020/5/19	Mississippi	Arkansas	65	1
+2020/5/19	Monroe	Arkansas	5	0
+2020/5/19	Montgomery	Arkansas	1	0
+2020/5/19	Nevada	Arkansas	4	0
+2020/5/19	Newton	Arkansas	3	0
+2020/5/19	Ouachita	Arkansas	10	0
+2020/5/19	Perry	Arkansas	12	0
+2020/5/19	Phillips	Arkansas	5	1
+2020/5/19	Pike	Arkansas	3	0
+2020/5/19	Poinsett	Arkansas	28	2
+2020/5/19	Polk	Arkansas	8	0
+2020/5/19	Pope	Arkansas	76	0
+2020/5/19	Prairie	Arkansas	2	0
+2020/5/19	Pulaski	Arkansas	713	25
+2020/5/19	Randolph	Arkansas	23	0
+2020/5/19	Saline	Arkansas	82	1
+2020/5/19	Scott	Arkansas	1	0
+2020/5/19	Searcy	Arkansas	6	0
+2020/5/19	Sebastian	Arkansas	17	0
+2020/5/19	Sevier	Arkansas	46	1
+2020/5/19	Sharp	Arkansas	38	2
+2020/5/19	St. Francis	Arkansas	362	0
+2020/5/19	Stone	Arkansas	8	0
+2020/5/19	Union	Arkansas	117	4
+2020/5/19	Unknown	Arkansas	130	0
+2020/5/19	Van Buren	Arkansas	28	2
+2020/5/19	Washington	Arkansas	151	5
+2020/5/19	White	Arkansas	37	1
+2020/5/19	Woodruff	Arkansas	1	0
+2020/5/19	Yell	Arkansas	30	1
+2020/5/19	Alameda	California	2543	88
+2020/5/19	Alpine	California	2	0
+2020/5/19	Amador	California	8	0
+2020/5/19	Butte	California	26	0
+2020/5/19	Calaveras	California	13	0
+2020/5/19	Colusa	California	3	0
+2020/5/19	Contra Costa	California	1192	33
+2020/5/19	Del Norte	California	14	0
+2020/5/19	El Dorado	California	67	0
+2020/5/19	Fresno	California	1287	17
+2020/5/19	Glenn	California	12	0
+2020/5/19	Humboldt	California	86	0
+2020/5/19	Imperial	California	902	17
+2020/5/19	Inyo	California	20	1
+2020/5/19	Kern	California	1596	26
+2020/5/19	Kings	California	416	2
+2020/5/19	Lake	California	11	0
+2020/5/19	Los Angeles	California	39573	1913
+2020/5/19	Madera	California	81	2
+2020/5/19	Marin	California	336	14
+2020/5/19	Mariposa	California	15	1
+2020/5/19	Mendocino	California	15	0
+2020/5/19	Merced	California	222	6
+2020/5/19	Mono	California	34	1
+2020/5/19	Monterey	California	345	8
+2020/5/19	Napa	California	93	3
+2020/5/19	Nevada	California	41	1
+2020/5/19	Orange	California	4558	88
+2020/5/19	Placer	California	177	9
+2020/5/19	Plumas	California	5	0
+2020/5/19	Riverside	California	6053	270
+2020/5/19	Sacramento	California	1249	56
+2020/5/19	San Benito	California	63	2
+2020/5/19	San Bernardino	California	3707	157
+2020/5/19	San Diego	California	6089	242
+2020/5/19	San Francisco	California	2186	36
+2020/5/19	San Joaquin	California	709	33
+2020/5/19	San Luis Obispo	California	247	1
+2020/5/19	San Mateo	California	1701	68
+2020/5/19	Santa Barbara	California	1509	11
+2020/5/19	Santa Clara	California	2483	138
+2020/5/19	Santa Cruz	California	165	3
+2020/5/19	Shasta	California	34	4
+2020/5/19	Siskiyou	California	6	0
+2020/5/19	Solano	California	435	16
+2020/5/19	Sonoma	California	411	4
+2020/5/19	Stanislaus	California	593	26
+2020/5/19	Sutter	California	40	2
+2020/5/19	Tehama	California	2	1
+2020/5/19	Trinity	California	2	0
+2020/5/19	Tulare	California	1539	71
+2020/5/19	Tuolumne	California	2	0
+2020/5/19	Ventura	California	850	28
+2020/5/19	Yolo	California	185	22
+2020/5/19	Yuba	California	28	1
+2020/5/19	Adams	Colorado	2675	104
+2020/5/19	Alamosa	Colorado	43	2
+2020/5/19	Arapahoe	Colorado	3827	258
+2020/5/19	Archuleta	Colorado	8	0
+2020/5/19	Baca	Colorado	12	0
+2020/5/19	Bent	Colorado	1	0
+2020/5/19	Boulder	Colorado	871	60
+2020/5/19	Broomfield	Colorado	214	24
+2020/5/19	Chaffee	Colorado	69	17
+2020/5/19	Cheyenne	Colorado	5	0
+2020/5/19	Clear Creek	Colorado	16	1
+2020/5/19	Conejos	Colorado	1	0
+2020/5/19	Costilla	Colorado	4	0
+2020/5/19	Crowley	Colorado	39	1
+2020/5/19	Custer	Colorado	2	0
+2020/5/19	Delta	Colorado	55	1
+2020/5/19	Denver	Colorado	4790	285
+2020/5/19	Douglas	Colorado	654	42
+2020/5/19	Eagle	Colorado	571	8
+2020/5/19	El Paso	Colorado	1357	84
+2020/5/19	Elbert	Colorado	47	2
+2020/5/19	Fremont	Colorado	25	0
+2020/5/19	Garfield	Colorado	115	2
+2020/5/19	Gilpin	Colorado	4	0
+2020/5/19	Grand	Colorado	5	0
+2020/5/19	Gunnison	Colorado	179	6
+2020/5/19	Hinsdale	Colorado	3	0
+2020/5/19	Huerfano	Colorado	3	0
+2020/5/19	Jefferson	Colorado	1882	130
+2020/5/19	Kit Carson	Colorado	26	3
+2020/5/19	La Plata	Colorado	72	1
+2020/5/19	Lake	Colorado	26	0
+2020/5/19	Larimer	Colorado	508	21
+2020/5/19	Las Animas	Colorado	4	0
+2020/5/19	Lincoln	Colorado	3	0
+2020/5/19	Logan	Colorado	488	3
+2020/5/19	Mesa	Colorado	50	0
+2020/5/19	Mineral	Colorado	2	0
+2020/5/19	Moffat	Colorado	6	0
+2020/5/19	Montezuma	Colorado	29	3
+2020/5/19	Montrose	Colorado	136	11
+2020/5/19	Morgan	Colorado	574	35
+2020/5/19	Otero	Colorado	11	1
+2020/5/19	Ouray	Colorado	7	1
+2020/5/19	Park	Colorado	20	0
+2020/5/19	Phillips	Colorado	10	0
+2020/5/19	Pitkin	Colorado	57	2
+2020/5/19	Prowers	Colorado	11	0
+2020/5/19	Pueblo	Colorado	219	14
+2020/5/19	Rio Blanco	Colorado	1	0
+2020/5/19	Rio Grande	Colorado	9	0
+2020/5/19	Routt	Colorado	59	6
+2020/5/19	Saguache	Colorado	18	0
+2020/5/19	San Juan	Colorado	1	0
+2020/5/19	San Miguel	Colorado	22	0
+2020/5/19	Summit	Colorado	192	2
+2020/5/19	Teller	Colorado	31	2
+2020/5/19	Unknown	Colorado	37	1
+2020/5/19	Washington	Colorado	11	0
+2020/5/19	Weld	Colorado	2326	124
+2020/5/19	Yuma	Colorado	11	0
+2020/5/19	Fairfield	Connecticut	14522	1160
+2020/5/19	Hartford	Connecticut	9050	1090
+2020/5/19	Litchfield	Connecticut	1290	117
+2020/5/19	Middlesex	Connecticut	947	131
+2020/5/19	New Haven	Connecticut	10427	838
+2020/5/19	New London	Connecticut	880	66
+2020/5/19	Tolland	Connecticut	770	54
+2020/5/19	Unknown	Connecticut	218	2
+2020/5/19	Windham	Connecticut	326	14
+2020/5/19	Kent	Delaware	1238	53
+2020/5/19	New Castle	Delaware	2845	135
+2020/5/19	Sussex	Delaware	3904	115
+2020/5/19	Unknown	Delaware	50	1
+2020/5/19	District of Columbia	District of Columbia	7434	400
+2020/5/19	Alachua	Florida	339	7
+2020/5/19	Baker	Florida	26	3
+2020/5/19	Bay	Florida	86	3
+2020/5/19	Bradford	Florida	49	2
+2020/5/19	Brevard	Florida	371	11
+2020/5/19	Broward	Florida	6369	282
+2020/5/19	Calhoun	Florida	40	2
+2020/5/19	Charlotte	Florida	392	44
+2020/5/19	Citrus	Florida	114	12
+2020/5/19	Clay	Florida	321	25
+2020/5/19	Collier	Florida	1030	40
+2020/5/19	Columbia	Florida	113	2
+2020/5/19	DeSoto	Florida	69	7
+2020/5/19	Dixie	Florida	26	1
+2020/5/19	Duval	Florida	1318	36
+2020/5/19	Escambia	Florida	719	21
+2020/5/19	Flagler	Florida	167	4
+2020/5/19	Franklin	Florida	2	0
+2020/5/19	Gadsden	Florida	241	1
+2020/5/19	Gilchrist	Florida	8	0
+2020/5/19	Glades	Florida	13	1
+2020/5/19	Gulf	Florida	1	0
+2020/5/19	Hamilton	Florida	147	0
+2020/5/19	Hardee	Florida	44	0
+2020/5/19	Hendry	Florida	224	12
+2020/5/19	Hernando	Florida	109	5
+2020/5/19	Highlands	Florida	107	8
+2020/5/19	Hillsborough	Florida	1670	60
+2020/5/19	Holmes	Florida	10	0
+2020/5/19	Indian River	Florida	108	9
+2020/5/19	Jackson	Florida	148	0
+2020/5/19	Jefferson	Florida	28	2
+2020/5/19	Lafayette	Florida	6	0
+2020/5/19	Lake	Florida	257	14
+2020/5/19	Lee	Florida	1519	89
+2020/5/19	Leon	Florida	303	6
+2020/5/19	Levy	Florida	25	0
+2020/5/19	Liberty	Florida	199	0
+2020/5/19	Madison	Florida	64	3
+2020/5/19	Manatee	Florida	888	82
+2020/5/19	Marion	Florida	224	5
+2020/5/19	Martin	Florida	396	8
+2020/5/19	Miami-Dade	Florida	15941	578
+2020/5/19	Monroe	Florida	99	3
+2020/5/19	Nassau	Florida	66	1
+2020/5/19	Okaloosa	Florida	179	5
+2020/5/19	Okeechobee	Florida	45	0
+2020/5/19	Orange	Florida	1698	37
+2020/5/19	Osceola	Florida	629	17
+2020/5/19	Palm Beach	Florida	4697	284
+2020/5/19	Pasco	Florida	327	12
+2020/5/19	Pinellas	Florida	1062	71
+2020/5/19	Polk	Florida	766	45
+2020/5/19	Putnam	Florida	134	3
+2020/5/19	Santa Rosa	Florida	186	9
+2020/5/19	Sarasota	Florida	533	63
+2020/5/19	Seminole	Florida	442	12
+2020/5/19	St. Johns	Florida	233	5
+2020/5/19	St. Lucie	Florida	337	28
+2020/5/19	Sumter	Florida	253	16
+2020/5/19	Suwannee	Florida	160	18
+2020/5/19	Taylor	Florida	5	0
+2020/5/19	Union	Florida	26	0
+2020/5/19	Unknown	Florida	79	0
+2020/5/19	Volusia	Florida	612	30
+2020/5/19	Wakulla	Florida	32	1
+2020/5/19	Walton	Florida	91	5
+2020/5/19	Washington	Florida	14	1
+2020/5/19	Appling	Georgia	113	11
+2020/5/19	Atkinson	Georgia	22	2
+2020/5/19	Bacon	Georgia	71	2
+2020/5/19	Baker	Georgia	32	2
+2020/5/19	Baldwin	Georgia	292	14
+2020/5/19	Banks	Georgia	46	0
+2020/5/19	Barrow	Georgia	267	8
+2020/5/19	Bartow	Georgia	410	35
+2020/5/19	Ben Hill	Georgia	48	1
+2020/5/19	Berrien	Georgia	23	0
+2020/5/19	Bibb	Georgia	411	18
+2020/5/19	Bleckley	Georgia	34	0
+2020/5/19	Brantley	Georgia	44	2
+2020/5/19	Brooks	Georgia	66	9
+2020/5/19	Bryan	Georgia	66	5
+2020/5/19	Bulloch	Georgia	45	2
+2020/5/19	Burke	Georgia	118	4
+2020/5/19	Butts	Georgia	199	17
+2020/5/19	Calhoun	Georgia	122	6
+2020/5/19	Camden	Georgia	51	1
+2020/5/19	Candler	Georgia	10	0
+2020/5/19	Carroll	Georgia	418	21
+2020/5/19	Catoosa	Georgia	73	0
+2020/5/19	Charlton	Georgia	29	1
+2020/5/19	Chatham	Georgia	379	16
+2020/5/19	Chattahoochee	Georgia	20	0
+2020/5/19	Chattooga	Georgia	17	2
+2020/5/19	Cherokee	Georgia	745	26
+2020/5/19	Clarke	Georgia	200	13
+2020/5/19	Clay	Georgia	30	3
+2020/5/19	Clayton	Georgia	1010	38
+2020/5/19	Clinch	Georgia	45	1
+2020/5/19	Cobb	Georgia	2503	135
+2020/5/19	Coffee	Georgia	209	12
+2020/5/19	Colquitt	Georgia	258	11
+2020/5/19	Columbia	Georgia	212	6
+2020/5/19	Cook	Georgia	31	2
+2020/5/19	Coweta	Georgia	287	4
+2020/5/19	Crawford	Georgia	24	0
+2020/5/19	Crisp	Georgia	200	7
+2020/5/19	Dade	Georgia	20	1
+2020/5/19	Dawson	Georgia	86	1
+2020/5/19	DeKalb	Georgia	2918	87
+2020/5/19	Decatur	Georgia	131	4
+2020/5/19	Dodge	Georgia	44	2
+2020/5/19	Dooly	Georgia	162	12
+2020/5/19	Dougherty	Georgia	1668	139
+2020/5/19	Douglas	Georgia	445	19
+2020/5/19	Early	Georgia	234	28
+2020/5/19	Echols	Georgia	21	0
+2020/5/19	Effingham	Georgia	47	1
+2020/5/19	Elbert	Georgia	69	0
+2020/5/19	Emanuel	Georgia	26	2
+2020/5/19	Evans	Georgia	5	0
+2020/5/19	Fannin	Georgia	38	1
+2020/5/19	Fayette	Georgia	212	11
+2020/5/19	Floyd	Georgia	195	13
+2020/5/19	Forsyth	Georgia	412	11
+2020/5/19	Franklin	Georgia	33	1
+2020/5/19	Fulton	Georgia	3795	174
+2020/5/19	Gilmer	Georgia	116	0
+2020/5/19	Glascock	Georgia	1	0
+2020/5/19	Glynn	Georgia	79	1
+2020/5/19	Gordon	Georgia	132	15
+2020/5/19	Grady	Georgia	92	4
+2020/5/19	Greene	Georgia	60	7
+2020/5/19	Gwinnett	Georgia	2771	114
+2020/5/19	Habersham	Georgia	457	14
+2020/5/19	Hall	Georgia	2191	40
+2020/5/19	Hancock	Georgia	170	6
+2020/5/19	Haralson	Georgia	35	2
+2020/5/19	Harris	Georgia	74	3
+2020/5/19	Hart	Georgia	24	0
+2020/5/19	Heard	Georgia	20	1
+2020/5/19	Henry	Georgia	611	19
+2020/5/19	Houston	Georgia	323	16
+2020/5/19	Irwin	Georgia	22	1
+2020/5/19	Jackson	Georgia	134	3
+2020/5/19	Jasper	Georgia	26	0
+2020/5/19	Jeff Davis	Georgia	26	1
+2020/5/19	Jefferson	Georgia	25	1
+2020/5/19	Jenkins	Georgia	16	1
+2020/5/19	Johnson	Georgia	82	2
+2020/5/19	Jones	Georgia	31	0
+2020/5/19	Lamar	Georgia	44	1
+2020/5/19	Lanier	Georgia	11	2
+2020/5/19	Laurens	Georgia	98	1
+2020/5/19	Lee	Georgia	343	23
+2020/5/19	Liberty	Georgia	47	0
+2020/5/19	Lincoln	Georgia	13	1
+2020/5/19	Long	Georgia	6	0
+2020/5/19	Lowndes	Georgia	209	5
+2020/5/19	Lumpkin	Georgia	83	1
+2020/5/19	Macon	Georgia	93	6
+2020/5/19	Madison	Georgia	30	1
+2020/5/19	Marion	Georgia	47	2
+2020/5/19	McDuffie	Georgia	55	5
+2020/5/19	McIntosh	Georgia	11	0
+2020/5/19	Meriwether	Georgia	70	1
+2020/5/19	Miller	Georgia	36	0
+2020/5/19	Mitchell	Georgia	394	32
+2020/5/19	Monroe	Georgia	102	7
+2020/5/19	Montgomery	Georgia	8	0
+2020/5/19	Morgan	Georgia	34	0
+2020/5/19	Murray	Georgia	64	1
+2020/5/19	Muscogee	Georgia	451	16
+2020/5/19	Newton	Georgia	266	10
+2020/5/19	Oconee	Georgia	81	3
+2020/5/19	Oglethorpe	Georgia	56	4
+2020/5/19	Paulding	Georgia	247	10
+2020/5/19	Peach	Georgia	69	3
+2020/5/19	Pickens	Georgia	39	3
+2020/5/19	Pierce	Georgia	81	4
+2020/5/19	Pike	Georgia	44	2
+2020/5/19	Polk	Georgia	80	0
+2020/5/19	Pulaski	Georgia	36	2
+2020/5/19	Putnam	Georgia	80	7
+2020/5/19	Quitman	Georgia	8	1
+2020/5/19	Rabun	Georgia	15	1
+2020/5/19	Randolph	Georgia	169	21
+2020/5/19	Richmond	Georgia	495	17
+2020/5/19	Rockdale	Georgia	252	8
+2020/5/19	Schley	Georgia	17	1
+2020/5/19	Screven	Georgia	20	1
+2020/5/19	Seminole	Georgia	41	2
+2020/5/19	Spalding	Georgia	246	14
+2020/5/19	Stephens	Georgia	114	2
+2020/5/19	Stewart	Georgia	40	0
+2020/5/19	Sumter	Georgia	421	39
+2020/5/19	Talbot	Georgia	30	1
+2020/5/19	Taliaferro	Georgia	1	0
+2020/5/19	Tattnall	Georgia	13	0
+2020/5/19	Taylor	Georgia	22	2
+2020/5/19	Telfair	Georgia	31	1
+2020/5/19	Terrell	Georgia	199	24
+2020/5/19	Thomas	Georgia	289	30
+2020/5/19	Tift	Georgia	188	14
+2020/5/19	Toombs	Georgia	46	4
+2020/5/19	Towns	Georgia	21	1
+2020/5/19	Treutlen	Georgia	8	0
+2020/5/19	Troup	Georgia	213	6
+2020/5/19	Turner	Georgia	85	12
+2020/5/19	Twiggs	Georgia	10	0
+2020/5/19	Union	Georgia	37	1
+2020/5/19	Unknown	Georgia	2136	0
+2020/5/19	Upson	Georgia	267	31
+2020/5/19	Walker	Georgia	76	0
+2020/5/19	Walton	Georgia	166	9
+2020/5/19	Ware	Georgia	177	13
+2020/5/19	Warren	Georgia	16	0
+2020/5/19	Washington	Georgia	68	1
+2020/5/19	Wayne	Georgia	14	0
+2020/5/19	Webster	Georgia	11	1
+2020/5/19	Wheeler	Georgia	7	0
+2020/5/19	White	Georgia	90	3
+2020/5/19	Whitfield	Georgia	194	7
+2020/5/19	Wilcox	Georgia	97	12
+2020/5/19	Wilkes	Georgia	30	1
+2020/5/19	Wilkinson	Georgia	46	3
+2020/5/19	Worth	Georgia	201	18
+2020/5/19	Unknown	Guam	1123	6
+2020/5/19	Hawaii	Hawaii	78	0
+2020/5/19	Honolulu	Hawaii	415	11
+2020/5/19	Kauai	Hawaii	21	0
+2020/5/19	Maui	Hawaii	117	6
+2020/5/19	Ada	Idaho	783	23
+2020/5/19	Adams	Idaho	3	0
+2020/5/19	Bannock	Idaho	16	0
+2020/5/19	Bingham	Idaho	6	0
+2020/5/19	Blaine	Idaho	509	5
+2020/5/19	Bonner	Idaho	4	0
+2020/5/19	Bonneville	Idaho	32	0
+2020/5/19	Camas	Idaho	1	0
+2020/5/19	Canyon	Idaho	280	6
+2020/5/19	Caribou	Idaho	1	0
+2020/5/19	Cassia	Idaho	19	1
+2020/5/19	Custer	Idaho	2	0
+2020/5/19	Elmore	Idaho	31	2
+2020/5/19	Fremont	Idaho	3	0
+2020/5/19	Gem	Idaho	16	0
+2020/5/19	Gooding	Idaho	27	0
+2020/5/19	Idaho	Idaho	3	0
+2020/5/19	Jefferson	Idaho	7	0
+2020/5/19	Jerome	Idaho	105	2
+2020/5/19	Kootenai	Idaho	66	0
+2020/5/19	Latah	Idaho	6	0
+2020/5/19	Lemhi	Idaho	1	0
+2020/5/19	Lincoln	Idaho	29	0
+2020/5/19	Madison	Idaho	20	0
+2020/5/19	Minidoka	Idaho	18	0
+2020/5/19	Nez Perce	Idaho	79	19
+2020/5/19	Owyhee	Idaho	8	0
+2020/5/19	Payette	Idaho	22	2
+2020/5/19	Power	Idaho	3	0
+2020/5/19	Teton	Idaho	11	0
+2020/5/19	Twin Falls	Idaho	332	17
+2020/5/19	Valley	Idaho	2	0
+2020/5/19	Washington	Idaho	31	0
+2020/5/19	Adams	Illinois	42	1
+2020/5/19	Alexander	Illinois	8	0
+2020/5/19	Bond	Illinois	12	1
+2020/5/19	Boone	Illinois	314	14
+2020/5/19	Brown	Illinois	10	0
+2020/5/19	Bureau	Illinois	15	1
+2020/5/19	Calhoun	Illinois	1	0
+2020/5/19	Carroll	Illinois	14	2
+2020/5/19	Cass	Illinois	66	0
+2020/5/19	Champaign	Illinois	435	7
+2020/5/19	Christian	Illinois	32	5
+2020/5/19	Clark	Illinois	9	0
+2020/5/19	Clay	Illinois	3	0
+2020/5/19	Clinton	Illinois	165	14
+2020/5/19	Coles	Illinois	85	7
+2020/5/19	Cook	Illinois	64691	2980
+2020/5/19	Crawford	Illinois	11	0
+2020/5/19	Cumberland	Illinois	9	0
+2020/5/19	De Witt	Illinois	4	0
+2020/5/19	DeKalb	Illinois	268	4
+2020/5/19	Douglas	Illinois	26	0
+2020/5/19	DuPage	Illinois	6171	315
+2020/5/19	Edwards	Illinois	2	0
+2020/5/19	Effingham	Illinois	6	1
+2020/5/19	Fayette	Illinois	19	2
+2020/5/19	Ford	Illinois	18	1
+2020/5/19	Franklin	Illinois	11	0
+2020/5/19	Fulton	Illinois	10	0
+2020/5/19	Gallatin	Illinois	2	0
+2020/5/19	Greene	Illinois	4	0
+2020/5/19	Grundy	Illinois	80	1
+2020/5/19	Hamilton	Illinois	2	0
+2020/5/19	Hancock	Illinois	12	0
+2020/5/19	Hardin	Illinois	1	0
+2020/5/19	Henderson	Illinois	8	0
+2020/5/19	Henry	Illinois	65	0
+2020/5/19	Iroquois	Illinois	119	4
+2020/5/19	Jackson	Illinois	186	10
+2020/5/19	Jasper	Illinois	45	7
+2020/5/19	Jefferson	Illinois	100	17
+2020/5/19	Jersey	Illinois	19	1
+2020/5/19	Jo Daviess	Illinois	21	0
+2020/5/19	Johnson	Illinois	7	0
+2020/5/19	Kane	Illinois	4682	120
+2020/5/19	Kankakee	Illinois	967	43
+2020/5/19	Kendall	Illinois	602	22
+2020/5/19	Knox	Illinois	89	0
+2020/5/19	LaSalle	Illinois	121	8
+2020/5/19	Lake	Illinois	6709	221
+2020/5/19	Lawrence	Illinois	4	0
+2020/5/19	Lee	Illinois	75	1
+2020/5/19	Livingston	Illinois	27	1
+2020/5/19	Logan	Illinois	10	0
+2020/5/19	Macon	Illinois	170	17
+2020/5/19	Macoupin	Illinois	42	1
+2020/5/19	Madison	Illinois	499	45
+2020/5/19	Marion	Illinois	49	0
+2020/5/19	Marshall	Illinois	5	0
+2020/5/19	Mason	Illinois	16	0
+2020/5/19	Massac	Illinois	6	0
+2020/5/19	McDonough	Illinois	72	3
+2020/5/19	McHenry	Illinois	1224	64
+2020/5/19	McLean	Illinois	189	6
+2020/5/19	Menard	Illinois	17	0
+2020/5/19	Mercer	Illinois	14	0
+2020/5/19	Monroe	Illinois	90	11
+2020/5/19	Montgomery	Illinois	39	0
+2020/5/19	Morgan	Illinois	35	1
+2020/5/19	Moultrie	Illinois	8	0
+2020/5/19	Ogle	Illinois	184	2
+2020/5/19	Peoria	Illinois	165	6
+2020/5/19	Perry	Illinois	40	0
+2020/5/19	Piatt	Illinois	9	0
+2020/5/19	Pike	Illinois	1	0
+2020/5/19	Pope	Illinois	1	0
+2020/5/19	Pulaski	Illinois	40	0
+2020/5/19	Putnam	Illinois	1	0
+2020/5/19	Randolph	Illinois	238	3
+2020/5/19	Richland	Illinois	3	0
+2020/5/19	Rock Island	Illinois	594	21
+2020/5/19	Saline	Illinois	6	0
+2020/5/19	Sangamon	Illinois	323	28
+2020/5/19	Schuyler	Illinois	7	0
+2020/5/19	Shelby	Illinois	15	1
+2020/5/19	St. Clair	Illinois	905	69
+2020/5/19	Stark	Illinois	2	0
+2020/5/19	Stephenson	Illinois	160	1
+2020/5/19	Tazewell	Illinois	64	4
+2020/5/19	Union	Illinois	122	4
+2020/5/19	Vermilion	Illinois	30	1
+2020/5/19	Wabash	Illinois	1	0
+2020/5/19	Warren	Illinois	110	0
+2020/5/19	Washington	Illinois	18	0
+2020/5/19	Wayne	Illinois	9	1
+2020/5/19	White	Illinois	2	0
+2020/5/19	Whiteside	Illinois	126	9
+2020/5/19	Will	Illinois	4577	244
+2020/5/19	Williamson	Illinois	52	1
+2020/5/19	Winnebago	Illinois	1588	44
+2020/5/19	Woodford	Illinois	16	1
+2020/5/19	Adams	Indiana	10	1
+2020/5/19	Allen	Indiana	1060	72
+2020/5/19	Bartholomew	Indiana	442	34
+2020/5/19	Benton	Indiana	23	0
+2020/5/19	Blackford	Indiana	17	1
+2020/5/19	Boone	Indiana	280	37
+2020/5/19	Brown	Indiana	31	1
+2020/5/19	Carroll	Indiana	79	2
+2020/5/19	Cass	Indiana	1562	7
+2020/5/19	Clark	Indiana	437	43
+2020/5/19	Clay	Indiana	32	1
+2020/5/19	Clinton	Indiana	150	2
+2020/5/19	Crawford	Indiana	23	1
+2020/5/19	Daviess	Indiana	73	17
+2020/5/19	DeKalb	Indiana	27	2
+2020/5/19	Dearborn	Indiana	158	19
+2020/5/19	Decatur	Indiana	230	34
+2020/5/19	Delaware	Indiana	297	23
+2020/5/19	Dubois	Indiana	162	2
+2020/5/19	Elkhart	Indiana	738	25
+2020/5/19	Fayette	Indiana	74	4
+2020/5/19	Floyd	Indiana	306	40
+2020/5/19	Fountain	Indiana	18	2
+2020/5/19	Franklin	Indiana	111	8
+2020/5/19	Fulton	Indiana	45	1
+2020/5/19	Gibson	Indiana	10	0
+2020/5/19	Grant	Indiana	201	21
+2020/5/19	Greene	Indiana	165	24
+2020/5/19	Hamilton	Indiana	1055	97
+2020/5/19	Hancock	Indiana	304	25
+2020/5/19	Harrison	Indiana	175	19
+2020/5/19	Hendricks	Indiana	1068	74
+2020/5/19	Henry	Indiana	140	4
+2020/5/19	Howard	Indiana	306	15
+2020/5/19	Huntington	Indiana	20	2
+2020/5/19	Jackson	Indiana	340	2
+2020/5/19	Jasper	Indiana	43	1
+2020/5/19	Jay	Indiana	33	0
+2020/5/19	Jefferson	Indiana	41	1
+2020/5/19	Jennings	Indiana	119	6
+2020/5/19	Johnson	Indiana	1041	102
+2020/5/19	Knox	Indiana	23	0
+2020/5/19	Kosciusko	Indiana	62	2
+2020/5/19	LaGrange	Indiana	53	2
+2020/5/19	LaPorte	Indiana	360	16
+2020/5/19	Lake	Indiana	2974	154
+2020/5/19	Lawrence	Indiana	142	23
+2020/5/19	Madison	Indiana	562	66
+2020/5/19	Marion	Indiana	8632	532
+2020/5/19	Marshall	Indiana	44	1
+2020/5/19	Martin	Indiana	8	0
+2020/5/19	Miami	Indiana	132	1
+2020/5/19	Monroe	Indiana	152	9
+2020/5/19	Montgomery	Indiana	188	13
+2020/5/19	Morgan	Indiana	257	23
+2020/5/19	Newton	Indiana	72	10
+2020/5/19	Noble	Indiana	153	21
+2020/5/19	Ohio	Indiana	13	0
+2020/5/19	Orange	Indiana	124	21
+2020/5/19	Owen	Indiana	27	1
+2020/5/19	Parke	Indiana	20	0
+2020/5/19	Perry	Indiana	30	1
+2020/5/19	Pike	Indiana	5	0
+2020/5/19	Porter	Indiana	420	14
+2020/5/19	Posey	Indiana	16	0
+2020/5/19	Pulaski	Indiana	35	0
+2020/5/19	Putnam	Indiana	128	6
+2020/5/19	Randolph	Indiana	49	3
+2020/5/19	Ripley	Indiana	107	6
+2020/5/19	Rush	Indiana	55	2
+2020/5/19	Scott	Indiana	99	2
+2020/5/19	Shelby	Indiana	417	28
+2020/5/19	Spencer	Indiana	15	1
+2020/5/19	St. Joseph	Indiana	1022	35
+2020/5/19	Starke	Indiana	28	2
+2020/5/19	Steuben	Indiana	69	2
+2020/5/19	Sullivan	Indiana	28	0
+2020/5/19	Switzerland	Indiana	19	0
+2020/5/19	Tippecanoe	Indiana	315	2
+2020/5/19	Tipton	Indiana	21	1
+2020/5/19	Union	Indiana	21	0
+2020/5/19	Vanderburgh	Indiana	226	3
+2020/5/19	Vermillion	Indiana	8	0
+2020/5/19	Vigo	Indiana	120	7
+2020/5/19	Wabash	Indiana	71	2
+2020/5/19	Warren	Indiana	13	1
+2020/5/19	Warrick	Indiana	152	26
+2020/5/19	Washington	Indiana	50	1
+2020/5/19	Wayne	Indiana	188	5
+2020/5/19	Wells	Indiana	18	0
+2020/5/19	White	Indiana	186	5
+2020/5/19	Whitley	Indiana	27	2
+2020/5/19	Adair	Iowa	6	0
+2020/5/19	Adams	Iowa	1	0
+2020/5/19	Allamakee	Iowa	115	4
+2020/5/19	Appanoose	Iowa	8	3
+2020/5/19	Audubon	Iowa	11	1
+2020/5/19	Benton	Iowa	36	1
+2020/5/19	Black Hawk	Iowa	1628	31
+2020/5/19	Boone	Iowa	46	0
+2020/5/19	Bremer	Iowa	65	5
+2020/5/19	Buchanan	Iowa	26	0
+2020/5/19	Buena Vista	Iowa	117	0
+2020/5/19	Butler	Iowa	14	0
+2020/5/19	Calhoun	Iowa	2	0
+2020/5/19	Carroll	Iowa	7	0
+2020/5/19	Cass	Iowa	2	0
+2020/5/19	Cedar	Iowa	43	1
+2020/5/19	Cerro Gordo	Iowa	17	0
+2020/5/19	Cherokee	Iowa	9	0
+2020/5/19	Chickasaw	Iowa	7	0
+2020/5/19	Clarke	Iowa	23	0
+2020/5/19	Clay	Iowa	9	0
+2020/5/19	Clayton	Iowa	30	3
+2020/5/19	Clinton	Iowa	61	1
+2020/5/19	Crawford	Iowa	394	1
+2020/5/19	Dallas	Iowa	795	11
+2020/5/19	Davis	Iowa	13	0
+2020/5/19	Delaware	Iowa	12	0
+2020/5/19	Des Moines	Iowa	39	1
+2020/5/19	Dickinson	Iowa	7	0
+2020/5/19	Dubuque	Iowa	286	10
+2020/5/19	Emmet	Iowa	2	0
+2020/5/19	Fayette	Iowa	25	0
+2020/5/19	Floyd	Iowa	11	1
+2020/5/19	Franklin	Iowa	7	0
+2020/5/19	Fremont	Iowa	4	0
+2020/5/19	Greene	Iowa	13	0
+2020/5/19	Grundy	Iowa	17	0
+2020/5/19	Guthrie	Iowa	40	3
+2020/5/19	Hamilton	Iowa	11	0
+2020/5/19	Hancock	Iowa	5	0
+2020/5/19	Hardin	Iowa	12	0
+2020/5/19	Harrison	Iowa	18	0
+2020/5/19	Henry	Iowa	47	1
+2020/5/19	Howard	Iowa	12	0
+2020/5/19	Humboldt	Iowa	7	0
+2020/5/19	Ida	Iowa	8	0
+2020/5/19	Iowa	Iowa	30	0
+2020/5/19	Jackson	Iowa	8	0
+2020/5/19	Jasper	Iowa	250	14
+2020/5/19	Jefferson	Iowa	12	0
+2020/5/19	Johnson	Iowa	574	7
+2020/5/19	Jones	Iowa	36	0
+2020/5/19	Keokuk	Iowa	12	0
+2020/5/19	Kossuth	Iowa	4	0
+2020/5/19	Lee	Iowa	20	0
+2020/5/19	Linn	Iowa	899	73
+2020/5/19	Louisa	Iowa	315	4
+2020/5/19	Lucas	Iowa	2	0
+2020/5/19	Lyon	Iowa	19	0
+2020/5/19	Madison	Iowa	16	1
+2020/5/19	Mahaska	Iowa	37	1
+2020/5/19	Marion	Iowa	22	0
+2020/5/19	Marshall	Iowa	817	7
+2020/5/19	Mills	Iowa	12	0
+2020/5/19	Mitchell	Iowa	4	0
+2020/5/19	Monona	Iowa	16	0
+2020/5/19	Monroe	Iowa	22	1
+2020/5/19	Montgomery	Iowa	5	0
+2020/5/19	Muscatine	Iowa	531	33
+2020/5/19	O'Brien	Iowa	21	0
+2020/5/19	Osceola	Iowa	28	0
+2020/5/19	Page	Iowa	10	0
+2020/5/19	Palo Alto	Iowa	2	0
+2020/5/19	Plymouth	Iowa	89	0
+2020/5/19	Pocahontas	Iowa	3	0
+2020/5/19	Polk	Iowa	3128	83
+2020/5/19	Pottawattamie	Iowa	174	2
+2020/5/19	Poweshiek	Iowa	87	8
+2020/5/19	Ringgold	Iowa	1	0
+2020/5/19	Sac	Iowa	6	0
+2020/5/19	Scott	Iowa	309	8
+2020/5/19	Shelby	Iowa	24	0
+2020/5/19	Sioux	Iowa	146	0
+2020/5/19	Story	Iowa	81	1
+2020/5/19	Tama	Iowa	362	18
+2020/5/19	Taylor	Iowa	3	0
+2020/5/19	Union	Iowa	2	0
+2020/5/19	Unknown	Iowa	5	0
+2020/5/19	Van Buren	Iowa	8	0
+2020/5/19	Wapello	Iowa	405	2
+2020/5/19	Warren	Iowa	87	0
+2020/5/19	Washington	Iowa	173	8
+2020/5/19	Wayne	Iowa	1	0
+2020/5/19	Webster	Iowa	13	1
+2020/5/19	Winnebago	Iowa	7	0
+2020/5/19	Winneshiek	Iowa	21	0
+2020/5/19	Woodbury	Iowa	2342	17
+2020/5/19	Worth	Iowa	3	0
+2020/5/19	Wright	Iowa	24	0
+2020/5/19	Anderson	Kansas	1	0
+2020/5/19	Atchison	Kansas	15	0
+2020/5/19	Barber	Kansas	1	0
+2020/5/19	Barton	Kansas	31	1
+2020/5/19	Bourbon	Kansas	6	1
+2020/5/19	Brown	Kansas	5	0
+2020/5/19	Butler	Kansas	23	0
+2020/5/19	Chase	Kansas	3	0
+2020/5/19	Chautauqua	Kansas	4	0
+2020/5/19	Cherokee	Kansas	8	0
+2020/5/19	Cheyenne	Kansas	2	0
+2020/5/19	Clark	Kansas	21	0
+2020/5/19	Clay	Kansas	5	1
+2020/5/19	Cloud	Kansas	4	0
+2020/5/19	Coffey	Kansas	50	8
+2020/5/19	Cowley	Kansas	4	1
+2020/5/19	Crawford	Kansas	6	1
+2020/5/19	Dickinson	Kansas	2	0
+2020/5/19	Doniphan	Kansas	9	0
+2020/5/19	Douglas	Kansas	62	0
+2020/5/19	Edwards	Kansas	5	0
+2020/5/19	Ellis	Kansas	9	0
+2020/5/19	Ellsworth	Kansas	2	0
+2020/5/19	Finney	Kansas	1331	6
+2020/5/19	Ford	Kansas	1404	2
+2020/5/19	Franklin	Kansas	32	0
+2020/5/19	Geary	Kansas	16	0
+2020/5/19	Gove	Kansas	1	0
+2020/5/19	Grant	Kansas	17	0
+2020/5/19	Gray	Kansas	14	0
+2020/5/19	Greenwood	Kansas	3	0
+2020/5/19	Hamilton	Kansas	11	0
+2020/5/19	Harper	Kansas	1	0
+2020/5/19	Harvey	Kansas	15	1
+2020/5/19	Haskell	Kansas	16	0
+2020/5/19	Jackson	Kansas	32	0
+2020/5/19	Jefferson	Kansas	20	0
+2020/5/19	Jewell	Kansas	4	0
+2020/5/19	Johnson	Kansas	666	57
+2020/5/19	Kearny	Kansas	40	1
+2020/5/19	Kiowa	Kansas	2	0
+2020/5/19	Labette	Kansas	23	0
+2020/5/19	Leavenworth	Kansas	1053	7
+2020/5/19	Linn	Kansas	7	0
+2020/5/19	Lyon	Kansas	369	3
+2020/5/19	Marion	Kansas	7	1
+2020/5/19	McPherson	Kansas	26	0
+2020/5/19	Meade	Kansas	22	0
+2020/5/19	Miami	Kansas	6	0
+2020/5/19	Mitchell	Kansas	3	0
+2020/5/19	Montgomery	Kansas	20	2
+2020/5/19	Morris	Kansas	3	0
+2020/5/19	Morton	Kansas	4	0
+2020/5/19	Nemaha	Kansas	3	0
+2020/5/19	Neosho	Kansas	2	0
+2020/5/19	Ness	Kansas	1	0
+2020/5/19	Norton	Kansas	2	0
+2020/5/19	Osage	Kansas	7	0
+2020/5/19	Osborne	Kansas	2	0
+2020/5/19	Ottawa	Kansas	4	0
+2020/5/19	Phillips	Kansas	2	0
+2020/5/19	Pottawatomie	Kansas	23	0
+2020/5/19	Pratt	Kansas	1	0
+2020/5/19	Reno	Kansas	51	0
+2020/5/19	Republic	Kansas	4	0
+2020/5/19	Rice	Kansas	4	0
+2020/5/19	Riley	Kansas	62	1
+2020/5/19	Rooks	Kansas	7	0
+2020/5/19	Saline	Kansas	28	2
+2020/5/19	Scott	Kansas	12	0
+2020/5/19	Sedgwick	Kansas	538	20
+2020/5/19	Seward	Kansas	780	1
+2020/5/19	Shawnee	Kansas	199	5
+2020/5/19	Sheridan	Kansas	2	0
+2020/5/19	Sherman	Kansas	6	0
+2020/5/19	Smith	Kansas	2	0
+2020/5/19	Stafford	Kansas	1	0
+2020/5/19	Stanton	Kansas	8	0
+2020/5/19	Stevens	Kansas	26	0
+2020/5/19	Sumner	Kansas	6	1
+2020/5/19	Wabaunsee	Kansas	28	0
+2020/5/19	Wilson	Kansas	1	0
+2020/5/19	Woodson	Kansas	6	0
+2020/5/19	Wyandotte	Kansas	1224	70
+2020/5/19	Adair	Kentucky	94	17
+2020/5/19	Allen	Kentucky	41	2
+2020/5/19	Anderson	Kentucky	13	1
+2020/5/19	Ballard	Kentucky	10	0
+2020/5/19	Barren	Kentucky	34	0
+2020/5/19	Bath	Kentucky	7	1
+2020/5/19	Bell	Kentucky	1	0
+2020/5/19	Boone	Kentucky	361	11
+2020/5/19	Bourbon	Kentucky	9	1
+2020/5/19	Boyd	Kentucky	39	3
+2020/5/19	Boyle	Kentucky	19	0
+2020/5/19	Bracken	Kentucky	10	0
+2020/5/19	Breathitt	Kentucky	3	0
+2020/5/19	Breckinridge	Kentucky	15	1
+2020/5/19	Bullitt	Kentucky	99	4
+2020/5/19	Butler	Kentucky	217	6
+2020/5/19	Caldwell	Kentucky	12	0
+2020/5/19	Calloway	Kentucky	47	1
+2020/5/19	Campbell	Kentucky	135	11
+2020/5/19	Carlisle	Kentucky	3	1
+2020/5/19	Carroll	Kentucky	3	0
+2020/5/19	Carter	Kentucky	9	0
+2020/5/19	Casey	Kentucky	2	0
+2020/5/19	Christian	Kentucky	98	3
+2020/5/19	Clark	Kentucky	21	0
+2020/5/19	Clay	Kentucky	3	0
+2020/5/19	Clinton	Kentucky	3	0
+2020/5/19	Crittenden	Kentucky	4	1
+2020/5/19	Cumberland	Kentucky	5	0
+2020/5/19	Daviess	Kentucky	296	6
+2020/5/19	Edmonson	Kentucky	50	9
+2020/5/19	Fayette	Kentucky	596	12
+2020/5/19	Fleming	Kentucky	3	0
+2020/5/19	Floyd	Kentucky	18	0
+2020/5/19	Franklin	Kentucky	20	0
+2020/5/19	Fulton	Kentucky	2	0
+2020/5/19	Gallatin	Kentucky	3	0
+2020/5/19	Garrard	Kentucky	4	0
+2020/5/19	Grant	Kentucky	35	3
+2020/5/19	Graves	Kentucky	154	18
+2020/5/19	Grayson	Kentucky	109	8
+2020/5/19	Green	Kentucky	1	0
+2020/5/19	Greenup	Kentucky	13	0
+2020/5/19	Hancock	Kentucky	7	0
+2020/5/19	Hardin	Kentucky	85	2
+2020/5/19	Harlan	Kentucky	1	0
+2020/5/19	Harrison	Kentucky	19	0
+2020/5/19	Hart	Kentucky	20	0
+2020/5/19	Henderson	Kentucky	97	4
+2020/5/19	Henry	Kentucky	13	0
+2020/5/19	Hickman	Kentucky	5	0
+2020/5/19	Hopkins	Kentucky	217	28
+2020/5/19	Jackson	Kentucky	57	12
+2020/5/19	Jefferson	Kentucky	2067	132
+2020/5/19	Jessamine	Kentucky	51	0
+2020/5/19	Johnson	Kentucky	5	0
+2020/5/19	Kenton	Kentucky	479	32
+2020/5/19	Knott	Kentucky	4	0
+2020/5/19	Knox	Kentucky	8	0
+2020/5/19	Larue	Kentucky	6	0
+2020/5/19	Laurel	Kentucky	21	2
+2020/5/19	Lawrence	Kentucky	2	0
+2020/5/19	Leslie	Kentucky	6	0
+2020/5/19	Letcher	Kentucky	5	0
+2020/5/19	Lewis	Kentucky	8	0
+2020/5/19	Lincoln	Kentucky	7	1
+2020/5/19	Livingston	Kentucky	7	0
+2020/5/19	Logan	Kentucky	98	3
+2020/5/19	Lyon	Kentucky	14	3
+2020/5/19	Madison	Kentucky	50	1
+2020/5/19	Magoffin	Kentucky	1	0
+2020/5/19	Marion	Kentucky	17	0
+2020/5/19	Marshall	Kentucky	36	2
+2020/5/19	Martin	Kentucky	3	0
+2020/5/19	Mason	Kentucky	8	0
+2020/5/19	McCracken	Kentucky	85	2
+2020/5/19	McCreary	Kentucky	13	0
+2020/5/19	McLean	Kentucky	20	0
+2020/5/19	Meade	Kentucky	20	2
+2020/5/19	Menifee	Kentucky	4	0
+2020/5/19	Mercer	Kentucky	12	0
+2020/5/19	Metcalfe	Kentucky	3	0
+2020/5/19	Monroe	Kentucky	6	0
+2020/5/19	Montgomery	Kentucky	16	0
+2020/5/19	Morgan	Kentucky	1	0
+2020/5/19	Muhlenberg	Kentucky	476	7
+2020/5/19	Nelson	Kentucky	34	0
+2020/5/19	Nicholas	Kentucky	1	0
+2020/5/19	Ohio	Kentucky	140	0
+2020/5/19	Oldham	Kentucky	57	0
+2020/5/19	Owen	Kentucky	1	0
+2020/5/19	Owsley	Kentucky	2	0
+2020/5/19	Pendleton	Kentucky	6	0
+2020/5/19	Perry	Kentucky	20	0
+2020/5/19	Pike	Kentucky	28	2
+2020/5/19	Powell	Kentucky	1	0
+2020/5/19	Pulaski	Kentucky	50	2
+2020/5/19	Rockcastle	Kentucky	12	0
+2020/5/19	Rowan	Kentucky	6	0
+2020/5/19	Russell	Kentucky	23	4
+2020/5/19	Scott	Kentucky	34	0
+2020/5/19	Shelby	Kentucky	78	3
+2020/5/19	Simpson	Kentucky	39	2
+2020/5/19	Spencer	Kentucky	16	0
+2020/5/19	Taylor	Kentucky	9	0
+2020/5/19	Todd	Kentucky	17	0
+2020/5/19	Trigg	Kentucky	9	0
+2020/5/19	Trimble	Kentucky	3	0
+2020/5/19	Union	Kentucky	10	0
+2020/5/19	Warren	Kentucky	828	3
+2020/5/19	Washington	Kentucky	6	0
+2020/5/19	Wayne	Kentucky	8	0
+2020/5/19	Webster	Kentucky	33	0
+2020/5/19	Whitley	Kentucky	13	0
+2020/5/19	Wolfe	Kentucky	1	0
+2020/5/19	Woodford	Kentucky	19	0
+2020/5/19	Acadia	Louisiana	262	12
+2020/5/19	Allen	Louisiana	131	10
+2020/5/19	Ascension	Louisiana	762	50
+2020/5/19	Assumption	Louisiana	230	11
+2020/5/19	Avoyelles	Louisiana	94	9
+2020/5/19	Beauregard	Louisiana	52	4
+2020/5/19	Bienville	Louisiana	84	20
+2020/5/19	Bossier	Louisiana	348	24
+2020/5/19	Caddo	Louisiana	1912	155
+2020/5/19	Calcasieu	Louisiana	521	40
+2020/5/19	Caldwell	Louisiana	50	0
+2020/5/19	Cameron	Louisiana	3	0
+2020/5/19	Catahoula	Louisiana	106	3
+2020/5/19	Claiborne	Louisiana	58	10
+2020/5/19	Concordia	Louisiana	57	5
+2020/5/19	De Soto	Louisiana	226	16
+2020/5/19	East Baton Rouge	Louisiana	3145	219
+2020/5/19	East Carroll	Louisiana	46	0
+2020/5/19	East Feliciana	Louisiana	179	24
+2020/5/19	Evangeline	Louisiana	67	1
+2020/5/19	Franklin	Louisiana	274	9
+2020/5/19	Grant	Louisiana	22	1
+2020/5/19	Iberia	Louisiana	358	35
+2020/5/19	Iberville	Louisiana	528	38
+2020/5/19	Jackson	Louisiana	75	10
+2020/5/19	Jefferson	Louisiana	7095	429
+2020/5/19	Jefferson Davis	Louisiana	71	6
+2020/5/19	LaSalle	Louisiana	40	0
+2020/5/19	Lafayette	Louisiana	605	23
+2020/5/19	Lafourche	Louisiana	750	64
+2020/5/19	Lincoln	Louisiana	122	14
+2020/5/19	Livingston	Louisiana	356	26
+2020/5/19	Madison	Louisiana	27	0
+2020/5/19	Morehouse	Louisiana	93	5
+2020/5/19	Natchitoches	Louisiana	103	12
+2020/5/19	Orleans	Louisiana	6869	494
+2020/5/19	Ouachita	Louisiana	966	32
+2020/5/19	Plaquemines	Louisiana	196	16
+2020/5/19	Pointe Coupee	Louisiana	173	21
+2020/5/19	Rapides	Louisiana	504	15
+2020/5/19	Red River	Louisiana	43	6
+2020/5/19	Richland	Louisiana	108	2
+2020/5/19	Sabine	Louisiana	30	0
+2020/5/19	St. Bernard	Louisiana	516	20
+2020/5/19	St. Charles	Louisiana	615	42
+2020/5/19	St. Helena	Louisiana	41	1
+2020/5/19	St. James	Louisiana	284	23
+2020/5/19	St. John the Baptist	Louisiana	831	77
+2020/5/19	St. Landry	Louisiana	237	51
+2020/5/19	St. Martin	Louisiana	275	22
+2020/5/19	St. Mary	Louisiana	277	29
+2020/5/19	St. Tammany	Louisiana	1559	149
+2020/5/19	Tangipahoa	Louisiana	742	30
+2020/5/19	Tensas	Louisiana	5	0
+2020/5/19	Terrebonne	Louisiana	591	44
+2020/5/19	Union	Louisiana	245	15
+2020/5/19	Unknown	Louisiana	195	123
+2020/5/19	Vermilion	Louisiana	45	3
+2020/5/19	Vernon	Louisiana	21	2
+2020/5/19	Washington	Louisiana	375	34
+2020/5/19	Webster	Louisiana	119	5
+2020/5/19	West Baton Rouge	Louisiana	148	30
+2020/5/19	West Carroll	Louisiana	19	0
+2020/5/19	West Feliciana	Louisiana	190	8
+2020/5/19	Winn	Louisiana	90	2
+2020/5/19	Androscoggin	Maine	151	2
+2020/5/19	Aroostook	Maine	7	0
+2020/5/19	Cumberland	Maine	863	38
+2020/5/19	Franklin	Maine	33	1
+2020/5/19	Hancock	Maine	11	1
+2020/5/19	Kennebec	Maine	120	8
+2020/5/19	Knox	Maine	20	0
+2020/5/19	Lincoln	Maine	17	0
+2020/5/19	Oxford	Maine	17	0
+2020/5/19	Penobscot	Maine	94	1
+2020/5/19	Piscataquis	Maine	1	0
+2020/5/19	Sagadahoc	Maine	27	0
+2020/5/19	Somerset	Maine	20	0
+2020/5/19	Unknown	Maine	1	0
+2020/5/19	Waldo	Maine	50	14
+2020/5/19	Washington	Maine	2	0
+2020/5/19	York	Maine	307	8
+2020/5/19	Allegany	Maryland	166	14
+2020/5/19	Anne Arundel	Maryland	2989	145
+2020/5/19	Baltimore	Maryland	4936	263
+2020/5/19	Baltimore city	Maryland	4010	210
+2020/5/19	Calvert	Maryland	256	13
+2020/5/19	Caroline	Maryland	208	0
+2020/5/19	Carroll	Maryland	712	69
+2020/5/19	Cecil	Maryland	323	18
+2020/5/19	Charles	Maryland	896	63
+2020/5/19	Dorchester	Maryland	122	2
+2020/5/19	Frederick	Maryland	1498	90
+2020/5/19	Garrett	Maryland	7	0
+2020/5/19	Harford	Maryland	712	35
+2020/5/19	Howard	Maryland	1468	49
+2020/5/19	Kent	Maryland	144	14
+2020/5/19	Montgomery	Maryland	8988	503
+2020/5/19	Prince George's	Maryland	12261	445
+2020/5/19	Queen Anne's	Maryland	133	11
+2020/5/19	Somerset	Maryland	62	1
+2020/5/19	St. Mary's	Maryland	338	12
+2020/5/19	Talbot	Maryland	68	1
+2020/5/19	Unknown	Maryland	11	88
+2020/5/19	Washington	Maryland	352	8
+2020/5/19	Wicomico	Maryland	839	21
+2020/5/19	Worcester	Maryland	165	6
+2020/5/19	Barnstable	Massachusetts	1177	96
+2020/5/19	Berkshire	Massachusetts	497	37
+2020/5/19	Bristol	Massachusetts	6080	330
+2020/5/19	Dukes	Massachusetts	26	1
+2020/5/19	Essex	Massachusetts	12748	797
+2020/5/19	Franklin	Massachusetts	308	45
+2020/5/19	Hampden	Massachusetts	5335	521
+2020/5/19	Hampshire	Massachusetts	780	73
+2020/5/19	Middlesex	Massachusetts	19504	1436
+2020/5/19	Nantucket	Massachusetts	12	0
+2020/5/19	Norfolk	Massachusetts	7565	735
+2020/5/19	Plymouth	Massachusetts	7198	470
+2020/5/19	Suffolk	Massachusetts	16825	797
+2020/5/19	Unknown	Massachusetts	288	3
+2020/5/19	Worcester	Massachusetts	9582	597
+2020/5/19	Alcona	Michigan	6	1
+2020/5/19	Allegan	Michigan	184	3
+2020/5/19	Alpena	Michigan	91	9
+2020/5/19	Antrim	Michigan	11	0
+2020/5/19	Arenac	Michigan	31	1
+2020/5/19	Baraga	Michigan	1	0
+2020/5/19	Barry	Michigan	58	1
+2020/5/19	Bay	Michigan	250	16
+2020/5/19	Benzie	Michigan	4	0
+2020/5/19	Berrien	Michigan	538	33
+2020/5/19	Branch	Michigan	95	2
+2020/5/19	Calhoun	Michigan	308	19
+2020/5/19	Cass	Michigan	61	2
+2020/5/19	Charlevoix	Michigan	14	1
+2020/5/19	Cheboygan	Michigan	19	1
+2020/5/19	Chippewa	Michigan	2	0
+2020/5/19	Clare	Michigan	15	2
+2020/5/19	Clinton	Michigan	136	10
+2020/5/19	Crawford	Michigan	57	5
+2020/5/19	Delta	Michigan	15	2
+2020/5/19	Dickinson	Michigan	5	2
+2020/5/19	Eaton	Michigan	165	6
+2020/5/19	Emmet	Michigan	21	2
+2020/5/19	Genesee	Michigan	1891	235
+2020/5/19	Gladwin	Michigan	17	1
+2020/5/19	Gogebic	Michigan	5	1
+2020/5/19	Grand Traverse	Michigan	23	5
+2020/5/19	Gratiot	Michigan	50	4
+2020/5/19	Hillsdale	Michigan	165	24
+2020/5/19	Houghton	Michigan	2	0
+2020/5/19	Huron	Michigan	44	1
+2020/5/19	Ingham	Michigan	650	23
+2020/5/19	Ionia	Michigan	123	3
+2020/5/19	Iosco	Michigan	65	8
+2020/5/19	Isabella	Michigan	62	7
+2020/5/19	Jackson	Michigan	418	26
+2020/5/19	Kalamazoo	Michigan	739	44
+2020/5/19	Kalkaska	Michigan	17	2
+2020/5/19	Kent	Michigan	2934	58
+2020/5/19	Lake	Michigan	3	0
+2020/5/19	Lapeer	Michigan	180	30
+2020/5/19	Leelanau	Michigan	11	0
+2020/5/19	Lenawee	Michigan	140	3
+2020/5/19	Livingston	Michigan	385	26
+2020/5/19	Luce	Michigan	2	0
+2020/5/19	Mackinac	Michigan	6	0
+2020/5/19	Macomb	Michigan	6367	753
+2020/5/19	Manistee	Michigan	11	0
+2020/5/19	Marquette	Michigan	52	10
+2020/5/19	Mason	Michigan	27	0
+2020/5/19	Mecosta	Michigan	19	2
+2020/5/19	Menominee	Michigan	8	0
+2020/5/19	Midland	Michigan	76	8
+2020/5/19	Missaukee	Michigan	16	1
+2020/5/19	Monroe	Michigan	433	18
+2020/5/19	Montcalm	Michigan	56	1
+2020/5/19	Montmorency	Michigan	5	0
+2020/5/19	Muskegon	Michigan	519	25
+2020/5/19	Newaygo	Michigan	51	0
+2020/5/19	Oakland	Michigan	8078	928
+2020/5/19	Oceana	Michigan	58	2
+2020/5/19	Ogemaw	Michigan	18	0
+2020/5/19	Osceola	Michigan	10	0
+2020/5/19	Oscoda	Michigan	5	1
+2020/5/19	Otsego	Michigan	99	10
+2020/5/19	Ottawa	Michigan	573	25
+2020/5/19	Presque Isle	Michigan	11	0
+2020/5/19	Roscommon	Michigan	21	0
+2020/5/19	Saginaw	Michigan	940	99
+2020/5/19	Sanilac	Michigan	39	5
+2020/5/19	Schoolcraft	Michigan	4	0
+2020/5/19	Shiawassee	Michigan	235	21
+2020/5/19	St. Clair	Michigan	412	32
+2020/5/19	St. Joseph	Michigan	90	1
+2020/5/19	Tuscola	Michigan	173	21
+2020/5/19	Unknown	Michigan	3242	63
+2020/5/19	Van Buren	Michigan	116	6
+2020/5/19	Washtenaw	Michigan	1251	89
+2020/5/19	Wayne	Michigan	19292	2275
+2020/5/19	Wexford	Michigan	11	2
+2020/5/19	Aitkin	Minnesota	4	0
+2020/5/19	Anoka	Minnesota	919	42
+2020/5/19	Becker	Minnesota	32	0
+2020/5/19	Beltrami	Minnesota	9	0
+2020/5/19	Benton	Minnesota	142	2
+2020/5/19	Big Stone	Minnesota	3	0
+2020/5/19	Blue Earth	Minnesota	93	0
+2020/5/19	Brown	Minnesota	10	2
+2020/5/19	Carlton	Minnesota	67	0
+2020/5/19	Carver	Minnesota	128	2
+2020/5/19	Cass	Minnesota	11	2
+2020/5/19	Chippewa	Minnesota	34	0
+2020/5/19	Chisago	Minnesota	38	1
+2020/5/19	Clay	Minnesota	318	21
+2020/5/19	Clearwater	Minnesota	2	0
+2020/5/19	Cottonwood	Minnesota	59	0
+2020/5/19	Crow Wing	Minnesota	30	1
+2020/5/19	Dakota	Minnesota	841	25
+2020/5/19	Dodge	Minnesota	39	0
+2020/5/19	Douglas	Minnesota	23	0
+2020/5/19	Faribault	Minnesota	11	0
+2020/5/19	Fillmore	Minnesota	17	1
+2020/5/19	Freeborn	Minnesota	63	0
+2020/5/19	Goodhue	Minnesota	36	0
+2020/5/19	Grant	Minnesota	2	0
+2020/5/19	Hennepin	Minnesota	5650	476
+2020/5/19	Houston	Minnesota	2	0
+2020/5/19	Isanti	Minnesota	19	0
+2020/5/19	Itasca	Minnesota	49	6
+2020/5/19	Jackson	Minnesota	36	0
+2020/5/19	Kanabec	Minnesota	9	1
+2020/5/19	Kandiyohi	Minnesota	420	1
+2020/5/19	Kittson	Minnesota	1	0
+2020/5/19	Koochiching	Minnesota	5	0
+2020/5/19	Lac qui Parle	Minnesota	3	0
+2020/5/19	Lake	Minnesota	1	0
+2020/5/19	Le Sueur	Minnesota	36	1
+2020/5/19	Lincoln	Minnesota	4	0
+2020/5/19	Lyon	Minnesota	26	0
+2020/5/19	Mahnomen	Minnesota	5	1
+2020/5/19	Marshall	Minnesota	8	0
+2020/5/19	Martin	Minnesota	123	5
+2020/5/19	McLeod	Minnesota	18	0
+2020/5/19	Meeker	Minnesota	38	0
+2020/5/19	Mille Lacs	Minnesota	13	1
+2020/5/19	Morrison	Minnesota	29	0
+2020/5/19	Mower	Minnesota	72	0
+2020/5/19	Murray	Minnesota	33	0
+2020/5/19	Nicollet	Minnesota	43	3
+2020/5/19	Nobles	Minnesota	1394	2
+2020/5/19	Norman	Minnesota	11	0
+2020/5/19	Olmsted	Minnesota	479	10
+2020/5/19	Otter Tail	Minnesota	51	0
+2020/5/19	Pennington	Minnesota	3	0
+2020/5/19	Pine	Minnesota	83	0
+2020/5/19	Pipestone	Minnesota	10	0
+2020/5/19	Polk	Minnesota	56	2
+2020/5/19	Pope	Minnesota	5	0
+2020/5/19	Ramsey	Minnesota	1720	74
+2020/5/19	Red Lake	Minnesota	3	0
+2020/5/19	Redwood	Minnesota	3	0
+2020/5/19	Renville	Minnesota	5	0
+2020/5/19	Rice	Minnesota	270	2
+2020/5/19	Rock	Minnesota	20	0
+2020/5/19	Roseau	Minnesota	1	0
+2020/5/19	Scott	Minnesota	271	1
+2020/5/19	Sherburne	Minnesota	164	2
+2020/5/19	Sibley	Minnesota	10	0
+2020/5/19	St. Louis	Minnesota	107	13
+2020/5/19	Stearns	Minnesota	1782	10
+2020/5/19	Steele	Minnesota	115	0
+2020/5/19	Swift	Minnesota	13	0
+2020/5/19	Todd	Minnesota	87	0
+2020/5/19	Traverse	Minnesota	3	0
+2020/5/19	Unknown	Minnesota	44	9
+2020/5/19	Wabasha	Minnesota	16	0
+2020/5/19	Wadena	Minnesota	6	0
+2020/5/19	Waseca	Minnesota	21	0
+2020/5/19	Washington	Minnesota	398	19
+2020/5/19	Watonwan	Minnesota	41	0
+2020/5/19	Wilkin	Minnesota	11	3
+2020/5/19	Winona	Minnesota	75	15
+2020/5/19	Wright	Minnesota	182	1
+2020/5/19	Yellow Medicine	Minnesota	4	0
+2020/5/19	Adams	Mississippi	177	15
+2020/5/19	Alcorn	Mississippi	12	1
+2020/5/19	Amite	Mississippi	45	1
+2020/5/19	Attala	Mississippi	259	9
+2020/5/19	Benton	Mississippi	13	0
+2020/5/19	Bolivar	Mississippi	129	10
+2020/5/19	Calhoun	Mississippi	59	4
+2020/5/19	Carroll	Mississippi	110	8
+2020/5/19	Chickasaw	Mississippi	116	12
+2020/5/19	Choctaw	Mississippi	23	2
+2020/5/19	Claiborne	Mississippi	51	1
+2020/5/19	Clarke	Mississippi	113	14
+2020/5/19	Clay	Mississippi	86	3
+2020/5/19	Coahoma	Mississippi	85	3
+2020/5/19	Copiah	Mississippi	207	3
+2020/5/19	Covington	Mississippi	110	1
+2020/5/19	DeSoto	Mississippi	404	5
+2020/5/19	Forrest	Mississippi	435	29
+2020/5/19	Franklin	Mississippi	21	1
+2020/5/19	George	Mississippi	19	1
+2020/5/19	Greene	Mississippi	7	1
+2020/5/19	Grenada	Mississippi	60	2
+2020/5/19	Hancock	Mississippi	81	10
+2020/5/19	Harrison	Mississippi	218	6
+2020/5/19	Hinds	Mississippi	786	22
+2020/5/19	Holmes	Mississippi	310	20
+2020/5/19	Humphreys	Mississippi	49	5
+2020/5/19	Itawamba	Mississippi	79	7
+2020/5/19	Jackson	Mississippi	287	13
+2020/5/19	Jasper	Mississippi	116	3
+2020/5/19	Jefferson	Mississippi	38	0
+2020/5/19	Jefferson Davis	Mississippi	69	2
+2020/5/19	Jones	Mississippi	358	10
+2020/5/19	Kemper	Mississippi	105	10
+2020/5/19	Lafayette	Mississippi	109	3
+2020/5/19	Lamar	Mississippi	199	4
+2020/5/19	Lauderdale	Mississippi	602	46
+2020/5/19	Lawrence	Mississippi	80	0
+2020/5/19	Leake	Mississippi	364	7
+2020/5/19	Lee	Mississippi	96	5
+2020/5/19	Leflore	Mississippi	202	22
+2020/5/19	Lincoln	Mississippi	218	18
+2020/5/19	Lowndes	Mississippi	132	6
+2020/5/19	Madison	Mississippi	561	17
+2020/5/19	Marion	Mississippi	93	8
+2020/5/19	Marshall	Mississippi	67	3
+2020/5/19	Monroe	Mississippi	220	23
+2020/5/19	Montgomery	Mississippi	74	1
+2020/5/19	Neshoba	Mississippi	429	25
+2020/5/19	Newton	Mississippi	196	3
+2020/5/19	Noxubee	Mississippi	145	4
+2020/5/19	Oktibbeha	Mississippi	107	8
+2020/5/19	Panola	Mississippi	52	2
+2020/5/19	Pearl River	Mississippi	195	27
+2020/5/19	Perry	Mississippi	37	2
+2020/5/19	Pike	Mississippi	184	11
+2020/5/19	Pontotoc	Mississippi	25	2
+2020/5/19	Prentiss	Mississippi	36	3
+2020/5/19	Quitman	Mississippi	21	0
+2020/5/19	Rankin	Mississippi	295	6
+2020/5/19	Scott	Mississippi	550	10
+2020/5/19	Sharkey	Mississippi	7	0
+2020/5/19	Simpson	Mississippi	78	0
+2020/5/19	Smith	Mississippi	120	9
+2020/5/19	Stone	Mississippi	24	0
+2020/5/19	Sunflower	Mississippi	68	3
+2020/5/19	Tallahatchie	Mississippi	21	1
+2020/5/19	Tate	Mississippi	55	1
+2020/5/19	Tippah	Mississippi	69	11
+2020/5/19	Tishomingo	Mississippi	21	0
+2020/5/19	Tunica	Mississippi	45	2
+2020/5/19	Union	Mississippi	65	4
+2020/5/19	Walthall	Mississippi	44	0
+2020/5/19	Warren	Mississippi	135	5
+2020/5/19	Washington	Mississippi	128	4
+2020/5/19	Wayne	Mississippi	45	0
+2020/5/19	Webster	Mississippi	22	1
+2020/5/19	Wilkinson	Mississippi	78	9
+2020/5/19	Winston	Mississippi	86	0
+2020/5/19	Yalobusha	Mississippi	75	2
+2020/5/19	Yazoo	Mississippi	192	2
+2020/5/19	Adair	Missouri	29	0
+2020/5/19	Andrew	Missouri	19	0
+2020/5/19	Atchison	Missouri	2	0
+2020/5/19	Audrain	Missouri	6	0
+2020/5/19	Barry	Missouri	6	0
+2020/5/19	Bates	Missouri	7	1
+2020/5/19	Benton	Missouri	9	0
+2020/5/19	Bollinger	Missouri	4	0
+2020/5/19	Boone	Missouri	106	1
+2020/5/19	Buchanan	Missouri	543	2
+2020/5/19	Butler	Missouri	32	0
+2020/5/19	Caldwell	Missouri	4	0
+2020/5/19	Callaway	Missouri	23	1
+2020/5/19	Camden	Missouri	36	1
+2020/5/19	Cape Girardeau	Missouri	54	2
+2020/5/19	Carroll	Missouri	7	0
+2020/5/19	Carter	Missouri	4	1
+2020/5/19	Cass	Missouri	75	8
+2020/5/19	Cedar	Missouri	9	0
+2020/5/19	Chariton	Missouri	6	0
+2020/5/19	Christian	Missouri	21	0
+2020/5/19	Clark	Missouri	1	0
+2020/5/19	Clay	Missouri	123	1
+2020/5/19	Clinton	Missouri	17	0
+2020/5/19	Cole	Missouri	55	1
+2020/5/19	Cooper	Missouri	9	0
+2020/5/19	Crawford	Missouri	8	0
+2020/5/19	Dallas	Missouri	3	0
+2020/5/19	Daviess	Missouri	3	0
+2020/5/19	DeKalb	Missouri	4	0
+2020/5/19	Dent	Missouri	1	0
+2020/5/19	Dunklin	Missouri	26	2
+2020/5/19	Franklin	Missouri	135	14
+2020/5/19	Gasconade	Missouri	2	0
+2020/5/19	Gentry	Missouri	3	0
+2020/5/19	Greene	Missouri	111	8
+2020/5/19	Harrison	Missouri	8	0
+2020/5/19	Henry	Missouri	9	1
+2020/5/19	Holt	Missouri	1	0
+2020/5/19	Howard	Missouri	3	0
+2020/5/19	Howell	Missouri	5	0
+2020/5/19	Iron	Missouri	2	0
+2020/5/19	Jackson	Missouri	457	16
+2020/5/19	Jasper	Missouri	27	0
+2020/5/19	Jefferson	Missouri	331	14
+2020/5/19	Johnson	Missouri	72	0
+2020/5/19	Kansas City	Missouri	903	22
+2020/5/19	Laclede	Missouri	3	0
+2020/5/19	Lafayette	Missouri	68	3
+2020/5/19	Lawrence	Missouri	8	0
+2020/5/19	Lewis	Missouri	7	1
+2020/5/19	Lincoln	Missouri	78	1
+2020/5/19	Linn	Missouri	5	1
+2020/5/19	Livingston	Missouri	3	0
+2020/5/19	Macon	Missouri	2	0
+2020/5/19	Madison	Missouri	3	0
+2020/5/19	Maries	Missouri	2	0
+2020/5/19	Marion	Missouri	5	0
+2020/5/19	McDonald	Missouri	14	0
+2020/5/19	Miller	Missouri	4	0
+2020/5/19	Mississippi	Missouri	49	0
+2020/5/19	Moniteau	Missouri	44	1
+2020/5/19	Montgomery	Missouri	7	0
+2020/5/19	Morgan	Missouri	8	0
+2020/5/19	New Madrid	Missouri	14	1
+2020/5/19	Newton	Missouri	18	1
+2020/5/19	Nodaway	Missouri	6	0
+2020/5/19	Oregon	Missouri	2	0
+2020/5/19	Osage	Missouri	5	0
+2020/5/19	Pemiscot	Missouri	70	3
+2020/5/19	Perry	Missouri	47	0
+2020/5/19	Pettis	Missouri	69	1
+2020/5/19	Phelps	Missouri	3	0
+2020/5/19	Pike	Missouri	14	1
+2020/5/19	Platte	Missouri	61	0
+2020/5/19	Polk	Missouri	2	0
+2020/5/19	Pulaski	Missouri	36	1
+2020/5/19	Ralls	Missouri	2	0
+2020/5/19	Randolph	Missouri	8	0
+2020/5/19	Ray	Missouri	14	0
+2020/5/19	Reynolds	Missouri	2	0
+2020/5/19	Ripley	Missouri	7	0
+2020/5/19	Saline	Missouri	253	0
+2020/5/19	Schuyler	Missouri	1	0
+2020/5/19	Scotland	Missouri	4	0
+2020/5/19	Scott	Missouri	86	7
+2020/5/19	Shelby	Missouri	1	0
+2020/5/19	St. Charles	Missouri	712	53
+2020/5/19	St. Clair	Missouri	3	0
+2020/5/19	St. Francois	Missouri	30	2
+2020/5/19	St. Louis	Missouri	4374	347
+2020/5/19	St. Louis city	Missouri	1705	108
+2020/5/19	Ste. Genevieve	Missouri	8	1
+2020/5/19	Stoddard	Missouri	58	1
+2020/5/19	Stone	Missouri	4	0
+2020/5/19	Sullivan	Missouri	37	0
+2020/5/19	Taney	Missouri	12	2
+2020/5/19	Vernon	Missouri	5	0
+2020/5/19	Warren	Missouri	25	0
+2020/5/19	Washington	Missouri	9	1
+2020/5/19	Webster	Missouri	17	0
+2020/5/19	Worth	Missouri	3	0
+2020/5/19	Wright	Missouri	11	0
+2020/5/19	Beaverhead	Montana	1	0
+2020/5/19	Big Horn	Montana	8	0
+2020/5/19	Broadwater	Montana	4	0
+2020/5/19	Carbon	Montana	6	0
+2020/5/19	Cascade	Montana	17	2
+2020/5/19	Deer Lodge	Montana	3	0
+2020/5/19	Flathead	Montana	37	2
+2020/5/19	Gallatin	Montana	149	1
+2020/5/19	Glacier	Montana	6	0
+2020/5/19	Golden Valley	Montana	3	0
+2020/5/19	Hill	Montana	1	0
+2020/5/19	Jefferson	Montana	3	0
+2020/5/19	Lake	Montana	5	0
+2020/5/19	Lewis and Clark	Montana	16	0
+2020/5/19	Liberty	Montana	1	0
+2020/5/19	Lincoln	Montana	7	1
+2020/5/19	Madison	Montana	8	1
+2020/5/19	Meagher	Montana	1	0
+2020/5/19	Missoula	Montana	39	1
+2020/5/19	Musselshell	Montana	1	0
+2020/5/19	Park	Montana	8	0
+2020/5/19	Pondera	Montana	2	0
+2020/5/19	Ravalli	Montana	6	0
+2020/5/19	Richland	Montana	3	0
+2020/5/19	Roosevelt	Montana	7	0
+2020/5/19	Silver Bow	Montana	11	0
+2020/5/19	Stillwater	Montana	1	0
+2020/5/19	Toole	Montana	29	6
+2020/5/19	Wheatland	Montana	1	0
+2020/5/19	Yellowstone	Montana	87	2
+2020/5/19	Adams	Nebraska	255	11
+2020/5/19	Antelope	Nebraska	7	0
+2020/5/19	Boone	Nebraska	3	0
+2020/5/19	Box Butte	Nebraska	1	0
+2020/5/19	Buffalo	Nebraska	136	1
+2020/5/19	Burt	Nebraska	6	0
+2020/5/19	Butler	Nebraska	34	0
+2020/5/19	Cass	Nebraska	23	0
+2020/5/19	Cedar	Nebraska	6	0
+2020/5/19	Cherry	Nebraska	1	0
+2020/5/19	Cheyenne	Nebraska	9	0
+2020/5/19	Clay	Nebraska	20	0
+2020/5/19	Colfax	Nebraska	532	1
+2020/5/19	Cuming	Nebraska	17	0
+2020/5/19	Custer	Nebraska	35	4
+2020/5/19	Dakota	Nebraska	1565	16
+2020/5/19	Dawes	Nebraska	2	0
+2020/5/19	Dawson	Nebraska	810	7
+2020/5/19	Dixon	Nebraska	27	0
+2020/5/19	Dodge	Nebraska	274	1
+2020/5/19	Douglas	Nebraska	2597	24
+2020/5/19	Fillmore	Nebraska	4	0
+2020/5/19	Franklin	Nebraska	5	0
+2020/5/19	Frontier	Nebraska	1	0
+2020/5/19	Furnas	Nebraska	6	0
+2020/5/19	Gage	Nebraska	43	4
+2020/5/19	Gosper	Nebraska	13	0
+2020/5/19	Greeley	Nebraska	2	0
+2020/5/19	Hall	Nebraska	1435	39
+2020/5/19	Hamilton	Nebraska	54	9
+2020/5/19	Hitchcock	Nebraska	1	0
+2020/5/19	Holt	Nebraska	1	0
+2020/5/19	Howard	Nebraska	38	0
+2020/5/19	Jefferson	Nebraska	6	0
+2020/5/19	Johnson	Nebraska	7	0
+2020/5/19	Kearney	Nebraska	11	0
+2020/5/19	Keith	Nebraska	2	0
+2020/5/19	Kimball	Nebraska	10	0
+2020/5/19	Knox	Nebraska	8	0
+2020/5/19	Lancaster	Nebraska	912	7
+2020/5/19	Lincoln	Nebraska	45	2
+2020/5/19	Madison	Nebraska	278	3
+2020/5/19	Merrick	Nebraska	29	0
+2020/5/19	Morrill	Nebraska	10	0
+2020/5/19	Nance	Nebraska	4	0
+2020/5/19	Nemaha	Nebraska	3	0
+2020/5/19	Nuckolls	Nebraska	1	0
+2020/5/19	Otoe	Nebraska	6	0
+2020/5/19	Phelps	Nebraska	13	0
+2020/5/19	Pierce	Nebraska	1	0
+2020/5/19	Platte	Nebraska	481	1
+2020/5/19	Polk	Nebraska	9	0
+2020/5/19	Red Willow	Nebraska	5	0
+2020/5/19	Richardson	Nebraska	1	0
+2020/5/19	Saline	Nebraska	436	1
+2020/5/19	Sarpy	Nebraska	366	2
+2020/5/19	Saunders	Nebraska	22	1
+2020/5/19	Scotts Bluff	Nebraska	54	0
+2020/5/19	Seward	Nebraska	26	1
+2020/5/19	Sherman	Nebraska	2	0
+2020/5/19	Stanton	Nebraska	15	0
+2020/5/19	Thomas	Nebraska	1	0
+2020/5/19	Thurston	Nebraska	19	0
+2020/5/19	Unknown	Nebraska	34	0
+2020/5/19	Valley	Nebraska	3	0
+2020/5/19	Washington	Nebraska	24	1
+2020/5/19	Wayne	Nebraska	4	0
+2020/5/19	Webster	Nebraska	5	0
+2020/5/19	York	Nebraska	30	0
+2020/5/19	Carson City	Nevada	75	3
+2020/5/19	Churchill	Nevada	7	1
+2020/5/19	Clark	Nevada	5536	304
+2020/5/19	Douglas	Nevada	25	0
+2020/5/19	Elko	Nevada	23	1
+2020/5/19	Humboldt	Nevada	74	3
+2020/5/19	Lander	Nevada	19	0
+2020/5/19	Lincoln	Nevada	2	0
+2020/5/19	Lyon	Nevada	49	0
+2020/5/19	Mineral	Nevada	4	0
+2020/5/19	Nye	Nevada	57	1
+2020/5/19	Storey	Nevada	1	0
+2020/5/19	Unknown	Nevada	0	12
+2020/5/19	Washoe	Nevada	1295	48
+2020/5/19	White Pine	Nevada	3	0
+2020/5/19	Belknap	New Hampshire	53	0
+2020/5/19	Carroll	New Hampshire	44	0
+2020/5/19	Cheshire	New Hampshire	49	2
+2020/5/19	Coos	New Hampshire	4	0
+2020/5/19	Grafton	New Hampshire	63	1
+2020/5/19	Hillsborough	New Hampshire	1820	91
+2020/5/19	Merrimack	New Hampshire	283	12
+2020/5/19	Rockingham	New Hampshire	1138	63
+2020/5/19	Strafford	New Hampshire	240	12
+2020/5/19	Sullivan	New Hampshire	16	1
+2020/5/19	Unknown	New Hampshire	11	0
+2020/5/19	Atlantic	New Jersey	1838	121
+2020/5/19	Bergen	New Jersey	17522	1474
+2020/5/19	Burlington	New Jersey	4000	247
+2020/5/19	Camden	New Jersey	5644	279
+2020/5/19	Cape May	New Jersey	518	42
+2020/5/19	Cumberland	New Jersey	1759	56
+2020/5/19	Essex	New Jersey	16686	1565
+2020/5/19	Gloucester	New Jersey	1935	125
+2020/5/19	Hudson	New Jersey	17621	1082
+2020/5/19	Hunterdon	New Jersey	885	53
+2020/5/19	Mercer	New Jersey	6018	422
+2020/5/19	Middlesex	New Jersey	14834	903
+2020/5/19	Monmouth	New Jersey	7470	520
+2020/5/19	Morris	New Jersey	6100	572
+2020/5/19	Ocean	New Jersey	8067	643
+2020/5/19	Passaic	New Jersey	15371	842
+2020/5/19	Salem	New Jersey	470	21
+2020/5/19	Somerset	New Jersey	4312	382
+2020/5/19	Sussex	New Jersey	1063	139
+2020/5/19	Union	New Jersey	15031	977
+2020/5/19	Unknown	New Jersey	802	0
+2020/5/19	Warren	New Jersey	1091	121
+2020/5/19	Bernalillo	New Mexico	1225	59
+2020/5/19	Catron	New Mexico	2	1
+2020/5/19	Chaves	New Mexico	31	2
+2020/5/19	Cibola	New Mexico	110	4
+2020/5/19	Colfax	New Mexico	5	0
+2020/5/19	Curry	New Mexico	43	0
+2020/5/19	Doña Ana	New Mexico	330	2
+2020/5/19	Eddy	New Mexico	17	1
+2020/5/19	Grant	New Mexico	16	0
+2020/5/19	Guadalupe	New Mexico	19	0
+2020/5/19	Harding	New Mexico	1	0
+2020/5/19	Hidalgo	New Mexico	1	0
+2020/5/19	Lea	New Mexico	18	0
+2020/5/19	Lincoln	New Mexico	3	0
+2020/5/19	Los Alamos	New Mexico	6	0
+2020/5/19	Luna	New Mexico	8	1
+2020/5/19	McKinley	New Mexico	1987	79
+2020/5/19	Otero	New Mexico	99	1
+2020/5/19	Quay	New Mexico	5	1
+2020/5/19	Rio Arriba	New Mexico	33	0
+2020/5/19	Roosevelt	New Mexico	27	0
+2020/5/19	San Juan	New Mexico	1408	92
+2020/5/19	San Miguel	New Mexico	10	0
+2020/5/19	Sandoval	New Mexico	498	24
+2020/5/19	Santa Fe	New Mexico	126	3
+2020/5/19	Sierra	New Mexico	1	0
+2020/5/19	Socorro	New Mexico	49	4
+2020/5/19	Taos	New Mexico	22	0
+2020/5/19	Torrance	New Mexico	20	1
+2020/5/19	Union	New Mexico	3	0
+2020/5/19	Valencia	New Mexico	69	1
+2020/5/19	Albany	New York	1655	130
+2020/5/19	Allegany	New York	44	0
+2020/5/19	Broome	New York	429	36
+2020/5/19	Cattaraugus	New York	69	1
+2020/5/19	Cayuga	New York	68	1
+2020/5/19	Chautauqua	New York	49	3
+2020/5/19	Chemung	New York	134	5
+2020/5/19	Chenango	New York	118	2
+2020/5/19	Clinton	New York	94	4
+2020/5/19	Columbia	New York	350	32
+2020/5/19	Cortland	New York	36	0
+2020/5/19	Delaware	New York	69	0
+2020/5/19	Dutchess	New York	3710	131
+2020/5/19	Erie	New York	5037	450
+2020/5/19	Essex	New York	42	0
+2020/5/19	Franklin	New York	18	0
+2020/5/19	Fulton	New York	182	11
+2020/5/19	Genesee	New York	182	4
+2020/5/19	Greene	New York	214	4
+2020/5/19	Hamilton	New York	5	0
+2020/5/19	Herkimer	New York	92	1
+2020/5/19	Jefferson	New York	71	0
+2020/5/19	Lewis	New York	18	0
+2020/5/19	Livingston	New York	111	4
+2020/5/19	Madison	New York	260	3
+2020/5/19	Monroe	New York	2377	172
+2020/5/19	Montgomery	New York	75	3
+2020/5/19	Nassau	New York	39295	2541
+2020/5/19	New York City	New York	198710	20376
+2020/5/19	Niagara	New York	845	39
+2020/5/19	Oneida	New York	785	38
+2020/5/19	Onondaga	New York	1665	99
+2020/5/19	Ontario	New York	152	7
+2020/5/19	Orange	New York	10003	352
+2020/5/19	Orleans	New York	168	18
+2020/5/19	Oswego	New York	89	0
+2020/5/19	Otsego	New York	67	5
+2020/5/19	Putnam	New York	1159	59
+2020/5/19	Rensselaer	New York	444	32
+2020/5/19	Rockland	New York	12798	445
+2020/5/19	Saratoga	New York	436	4
+2020/5/19	Schenectady	New York	631	27
+2020/5/19	Schoharie	New York	48	0
+2020/5/19	Schuyler	New York	10	0
+2020/5/19	Seneca	New York	51	0
+2020/5/19	St. Lawrence	New York	192	2
+2020/5/19	Steuben	New York	236	18
+2020/5/19	Suffolk	New York	38327	1822
+2020/5/19	Sullivan	New York	1258	24
+2020/5/19	Tioga	New York	113	16
+2020/5/19	Tompkins	New York	142	2
+2020/5/19	Ulster	New York	1565	43
+2020/5/19	Warren	New York	235	27
+2020/5/19	Washington	New York	220	11
+2020/5/19	Wayne	New York	98	1
+2020/5/19	Westchester	New York	32401	1424
+2020/5/19	Wyoming	New York	79	3
+2020/5/19	Yates	New York	26	5
+2020/5/19	Alamance	North Carolina	223	12
+2020/5/19	Alexander	North Carolina	21	0
+2020/5/19	Alleghany	North Carolina	12	0
+2020/5/19	Anson	North Carolina	49	0
+2020/5/19	Ashe	North Carolina	28	0
+2020/5/19	Avery	North Carolina	1	0
+2020/5/19	Beaufort	North Carolina	30	0
+2020/5/19	Bertie	North Carolina	95	3
+2020/5/19	Bladen	North Carolina	78	2
+2020/5/19	Brunswick	North Carolina	59	4
+2020/5/19	Buncombe	North Carolina	182	6
+2020/5/19	Burke	North Carolina	206	14
+2020/5/19	Cabarrus	North Carolina	389	21
+2020/5/19	Caldwell	North Carolina	92	2
+2020/5/19	Camden	North Carolina	3	0
+2020/5/19	Carteret	North Carolina	35	3
+2020/5/19	Caswell	North Carolina	45	1
+2020/5/19	Catawba	North Carolina	117	3
+2020/5/19	Chatham	North Carolina	541	24
+2020/5/19	Cherokee	North Carolina	17	1
+2020/5/19	Chowan	North Carolina	14	0
+2020/5/19	Clay	North Carolina	5	0
+2020/5/19	Cleveland	North Carolina	55	2
+2020/5/19	Columbus	North Carolina	251	21
+2020/5/19	Craven	North Carolina	133	4
+2020/5/19	Cumberland	North Carolina	500	13
+2020/5/19	Currituck	North Carolina	11	0
+2020/5/19	Dare	North Carolina	18	1
+2020/5/19	Davidson	North Carolina	306	11
+2020/5/19	Davie	North Carolina	52	2
+2020/5/19	Duplin	North Carolina	462	12
+2020/5/19	Durham	North Carolina	1053	39
+2020/5/19	Edgecombe	North Carolina	170	8
+2020/5/19	Forsyth	North Carolina	736	7
+2020/5/19	Franklin	North Carolina	129	20
+2020/5/19	Gaston	North Carolina	208	6
+2020/5/19	Gates	North Carolina	14	0
+2020/5/19	Graham	North Carolina	2	0
+2020/5/19	Granville	North Carolina	202	6
+2020/5/19	Greene	North Carolina	50	2
+2020/5/19	Guilford	North Carolina	904	49
+2020/5/19	Halifax	North Carolina	119	1
+2020/5/19	Harnett	North Carolina	252	20
+2020/5/19	Haywood	North Carolina	26	0
+2020/5/19	Henderson	North Carolina	295	41
+2020/5/19	Hertford	North Carolina	59	1
+2020/5/19	Hoke	North Carolina	160	0
+2020/5/19	Hyde	North Carolina	1	0
+2020/5/19	Iredell	North Carolina	199	5
+2020/5/19	Jackson	North Carolina	24	1
+2020/5/19	Johnston	North Carolina	269	19
+2020/5/19	Jones	North Carolina	22	2
+2020/5/19	Lee	North Carolina	333	3
+2020/5/19	Lenoir	North Carolina	160	5
+2020/5/19	Lincoln	North Carolina	50	0
+2020/5/19	Macon	North Carolina	5	1
+2020/5/19	Madison	North Carolina	2	0
+2020/5/19	Martin	North Carolina	37	4
+2020/5/19	McDowell	North Carolina	32	1
+2020/5/19	Mecklenburg	North Carolina	2717	68
+2020/5/19	Mitchell	North Carolina	8	0
+2020/5/19	Montgomery	North Carolina	65	3
+2020/5/19	Moore	North Carolina	119	10
+2020/5/19	Nash	North Carolina	156	3
+2020/5/19	New Hanover	North Carolina	134	3
+2020/5/19	Northampton	North Carolina	131	10
+2020/5/19	Onslow	North Carolina	80	2
+2020/5/19	Orange	North Carolina	283	37
+2020/5/19	Pamlico	North Carolina	9	0
+2020/5/19	Pasquotank	North Carolina	87	7
+2020/5/19	Pender	North Carolina	50	1
+2020/5/19	Perquimans	North Carolina	22	2
+2020/5/19	Person	North Carolina	34	1
+2020/5/19	Pitt	North Carolina	221	2
+2020/5/19	Polk	North Carolina	35	3
+2020/5/19	Randolph	North Carolina	469	6
+2020/5/19	Richmond	North Carolina	115	2
+2020/5/19	Robeson	North Carolina	600	12
+2020/5/19	Rockingham	North Carolina	48	2
+2020/5/19	Rowan	North Carolina	560	27
+2020/5/19	Rutherford	North Carolina	155	7
+2020/5/19	Sampson	North Carolina	265	1
+2020/5/19	Scotland	North Carolina	55	0
+2020/5/19	Stanly	North Carolina	32	4
+2020/5/19	Stokes	North Carolina	39	0
+2020/5/19	Surry	North Carolina	101	1
+2020/5/19	Swain	North Carolina	6	0
+2020/5/19	Transylvania	North Carolina	8	0
+2020/5/19	Tyrrell	North Carolina	4	0
+2020/5/19	Union	North Carolina	365	17
+2020/5/19	Vance	North Carolina	197	17
+2020/5/19	Wake	North Carolina	1272	30
+2020/5/19	Warren	North Carolina	33	0
+2020/5/19	Washington	North Carolina	26	3
+2020/5/19	Watauga	North Carolina	12	0
+2020/5/19	Wayne	North Carolina	879	16
+2020/5/19	Wilkes	North Carolina	448	1
+2020/5/19	Wilson	North Carolina	251	9
+2020/5/19	Yadkin	North Carolina	118	1
+2020/5/19	Yancey	North Carolina	10	0
+2020/5/19	Barnes	North Dakota	4	0
+2020/5/19	Benson	North Dakota	1	0
+2020/5/19	Bottineau	North Dakota	1	0
+2020/5/19	Bowman	North Dakota	1	0
+2020/5/19	Burke	North Dakota	5	0
+2020/5/19	Burleigh	North Dakota	117	0
+2020/5/19	Cass	North Dakota	1229	34
+2020/5/19	Divide	North Dakota	1	0
+2020/5/19	Dunn	North Dakota	12	0
+2020/5/19	Eddy	North Dakota	2	0
+2020/5/19	Emmons	North Dakota	1	1
+2020/5/19	Foster	North Dakota	1	0
+2020/5/19	Grand Forks	North Dakota	317	3
+2020/5/19	Grant	North Dakota	2	0
+2020/5/19	McHenry	North Dakota	2	1
+2020/5/19	McIntosh	North Dakota	1	0
+2020/5/19	McKenzie	North Dakota	16	0
+2020/5/19	McLean	North Dakota	7	0
+2020/5/19	Mercer	North Dakota	4	0
+2020/5/19	Morton	North Dakota	40	2
+2020/5/19	Mountrail	North Dakota	39	0
+2020/5/19	Nelson	North Dakota	1	0
+2020/5/19	Oliver	North Dakota	1	0
+2020/5/19	Pembina	North Dakota	6	0
+2020/5/19	Pierce	North Dakota	3	0
+2020/5/19	Ramsey	North Dakota	8	1
+2020/5/19	Ransom	North Dakota	7	0
+2020/5/19	Renville	North Dakota	1	0
+2020/5/19	Richland	North Dakota	11	0
+2020/5/19	Rolette	North Dakota	4	0
+2020/5/19	Sargent	North Dakota	3	0
+2020/5/19	Sioux	North Dakota	2	0
+2020/5/19	Slope	North Dakota	3	0
+2020/5/19	Stark	North Dakota	61	2
+2020/5/19	Steele	North Dakota	1	0
+2020/5/19	Stutsman	North Dakota	16	0
+2020/5/19	Traill	North Dakota	2	0
+2020/5/19	Walsh	North Dakota	10	0
+2020/5/19	Ward	North Dakota	28	1
+2020/5/19	Wells	North Dakota	2	0
+2020/5/19	Williams	North Dakota	21	0
+2020/5/19	Unknown	Northern Mariana Islands	21	2
+2020/5/19	Adams	Ohio	8	1
+2020/5/19	Allen	Ohio	171	30
+2020/5/19	Ashland	Ohio	15	0
+2020/5/19	Ashtabula	Ohio	244	26
+2020/5/19	Athens	Ohio	13	1
+2020/5/19	Auglaize	Ohio	55	3
+2020/5/19	Belmont	Ohio	343	9
+2020/5/19	Brown	Ohio	23	1
+2020/5/19	Butler	Ohio	639	17
+2020/5/19	Carroll	Ohio	26	2
+2020/5/19	Champaign	Ohio	23	1
+2020/5/19	Clark	Ohio	155	4
+2020/5/19	Clermont	Ohio	156	5
+2020/5/19	Clinton	Ohio	41	0
+2020/5/19	Columbiana	Ohio	453	45
+2020/5/19	Coshocton	Ohio	21	0
+2020/5/19	Crawford	Ohio	98	2
+2020/5/19	Cuyahoga	Ohio	3463	183
+2020/5/19	Darke	Ohio	126	16
+2020/5/19	Defiance	Ohio	28	1
+2020/5/19	Delaware	Ohio	266	9
+2020/5/19	Erie	Ohio	124	3
+2020/5/19	Fairfield	Ohio	215	3
+2020/5/19	Fayette	Ohio	31	0
+2020/5/19	Franklin	Ohio	4706	193
+2020/5/19	Fulton	Ohio	35	0
+2020/5/19	Gallia	Ohio	7	1
+2020/5/19	Geauga	Ohio	226	26
+2020/5/19	Greene	Ohio	78	5
+2020/5/19	Guernsey	Ohio	26	0
+2020/5/19	Hamilton	Ohio	2138	117
+2020/5/19	Hancock	Ohio	46	1
+2020/5/19	Hardin	Ohio	30	0
+2020/5/19	Harrison	Ohio	10	0
+2020/5/19	Henry	Ohio	12	0
+2020/5/19	Highland	Ohio	15	1
+2020/5/19	Hocking	Ohio	61	2
+2020/5/19	Holmes	Ohio	13	1
+2020/5/19	Huron	Ohio	43	1
+2020/5/19	Jackson	Ohio	11	0
+2020/5/19	Jefferson	Ohio	61	2
+2020/5/19	Knox	Ohio	23	1
+2020/5/19	Lake	Ohio	231	9
+2020/5/19	Lawrence	Ohio	27	0
+2020/5/19	Licking	Ohio	190	9
+2020/5/19	Logan	Ohio	24	0
+2020/5/19	Lorain	Ohio	610	58
+2020/5/19	Lucas	Ohio	1999	209
+2020/5/19	Madison	Ohio	100	6
+2020/5/19	Mahoning	Ohio	1247	156
+2020/5/19	Marion	Ohio	2524	15
+2020/5/19	Medina	Ohio	229	18
+2020/5/19	Meigs	Ohio	3	0
+2020/5/19	Mercer	Ohio	148	2
+2020/5/19	Miami	Ohio	332	30
+2020/5/19	Monroe	Ohio	56	4
+2020/5/19	Montgomery	Ohio	531	13
+2020/5/19	Morgan	Ohio	5	0
+2020/5/19	Morrow	Ohio	101	1
+2020/5/19	Muskingum	Ohio	38	0
+2020/5/19	Noble	Ohio	6	0
+2020/5/19	Ottawa	Ohio	64	3
+2020/5/19	Paulding	Ohio	11	0
+2020/5/19	Perry	Ohio	16	1
+2020/5/19	Pickaway	Ohio	2025	31
+2020/5/19	Pike	Ohio	6	0
+2020/5/19	Portage	Ohio	297	53
+2020/5/19	Preble	Ohio	30	1
+2020/5/19	Putnam	Ohio	84	13
+2020/5/19	Richland	Ohio	165	2
+2020/5/19	Ross	Ohio	59	1
+2020/5/19	Sandusky	Ohio	62	9
+2020/5/19	Scioto	Ohio	14	0
+2020/5/19	Seneca	Ohio	15	2
+2020/5/19	Shelby	Ohio	34	2
+2020/5/19	Stark	Ohio	610	79
+2020/5/19	Summit	Ohio	1042	113
+2020/5/19	Trumbull	Ohio	469	39
+2020/5/19	Tuscarawas	Ohio	272	1
+2020/5/19	Union	Ohio	36	0
+2020/5/19	Van Wert	Ohio	5	0
+2020/5/19	Vinton	Ohio	16	0
+2020/5/19	Warren	Ohio	285	15
+2020/5/19	Washington	Ohio	116	17
+2020/5/19	Wayne	Ohio	206	49
+2020/5/19	Williams	Ohio	47	1
+2020/5/19	Wood	Ohio	257	43
+2020/5/19	Wyandot	Ohio	31	2
+2020/5/19	Adair	Oklahoma	77	3
+2020/5/19	Alfalfa	Oklahoma	1	0
+2020/5/19	Atoka	Oklahoma	1	0
+2020/5/19	Beaver	Oklahoma	23	0
+2020/5/19	Beckham	Oklahoma	6	0
+2020/5/19	Blaine	Oklahoma	3	0
+2020/5/19	Bryan	Oklahoma	19	1
+2020/5/19	Caddo	Oklahoma	122	10
+2020/5/19	Canadian	Oklahoma	120	3
+2020/5/19	Carter	Oklahoma	15	1
+2020/5/19	Cherokee	Oklahoma	29	1
+2020/5/19	Choctaw	Oklahoma	6	0
+2020/5/19	Cimarron	Oklahoma	1	0
+2020/5/19	Cleveland	Oklahoma	470	36
+2020/5/19	Coal	Oklahoma	1	0
+2020/5/19	Comanche	Oklahoma	229	3
+2020/5/19	Cotton	Oklahoma	5	2
+2020/5/19	Craig	Oklahoma	15	0
+2020/5/19	Creek	Oklahoma	85	7
+2020/5/19	Custer	Oklahoma	12	0
+2020/5/19	Delaware	Oklahoma	96	16
+2020/5/19	Dewey	Oklahoma	2	0
+2020/5/19	Garfield	Oklahoma	23	1
+2020/5/19	Garvin	Oklahoma	15	1
+2020/5/19	Grady	Oklahoma	65	2
+2020/5/19	Grant	Oklahoma	2	0
+2020/5/19	Greer	Oklahoma	66	7
+2020/5/19	Harper	Oklahoma	1	0
+2020/5/19	Haskell	Oklahoma	5	0
+2020/5/19	Jackson	Oklahoma	21	1
+2020/5/19	Jefferson	Oklahoma	3	0
+2020/5/19	Johnston	Oklahoma	3	0
+2020/5/19	Kay	Oklahoma	50	7
+2020/5/19	Kingfisher	Oklahoma	10	0
+2020/5/19	Kiowa	Oklahoma	6	0
+2020/5/19	Latimer	Oklahoma	6	1
+2020/5/19	Le Flore	Oklahoma	13	1
+2020/5/19	Lincoln	Oklahoma	19	2
+2020/5/19	Logan	Oklahoma	18	1
+2020/5/19	Love	Oklahoma	4	0
+2020/5/19	Major	Oklahoma	6	1
+2020/5/19	Marshall	Oklahoma	6	0
+2020/5/19	Mayes	Oklahoma	28	4
+2020/5/19	McClain	Oklahoma	95	2
+2020/5/19	McCurtain	Oklahoma	12	0
+2020/5/19	McIntosh	Oklahoma	10	1
+2020/5/19	Murray	Oklahoma	2	0
+2020/5/19	Muskogee	Oklahoma	30	6
+2020/5/19	Noble	Oklahoma	7	0
+2020/5/19	Nowata	Oklahoma	23	0
+2020/5/19	Okfuskee	Oklahoma	2	0
+2020/5/19	Oklahoma	Oklahoma	1087	49
+2020/5/19	Okmulgee	Oklahoma	18	0
+2020/5/19	Osage	Oklahoma	92	8
+2020/5/19	Ottawa	Oklahoma	35	2
+2020/5/19	Pawnee	Oklahoma	29	2
+2020/5/19	Payne	Oklahoma	45	1
+2020/5/19	Pittsburg	Oklahoma	39	3
+2020/5/19	Pontotoc	Oklahoma	11	2
+2020/5/19	Pottawatomie	Oklahoma	57	4
+2020/5/19	Pushmataha	Oklahoma	1	0
+2020/5/19	Rogers	Oklahoma	72	5
+2020/5/19	Seminole	Oklahoma	21	2
+2020/5/19	Sequoyah	Oklahoma	14	3
+2020/5/19	Stephens	Oklahoma	25	1
+2020/5/19	Texas	Oklahoma	784	4
+2020/5/19	Tillman	Oklahoma	22	1
+2020/5/19	Tulsa	Oklahoma	802	37
+2020/5/19	Wagoner	Oklahoma	137	17
+2020/5/19	Washington	Oklahoma	304	32
+2020/5/19	Washita	Oklahoma	1	0
+2020/5/19	Woods	Oklahoma	3	0
+2020/5/19	Woodward	Oklahoma	1	0
+2020/5/19	Baker	Oregon	1	0
+2020/5/19	Benton	Oregon	54	5
+2020/5/19	Clackamas	Oregon	284	9
+2020/5/19	Clatsop	Oregon	38	0
+2020/5/19	Columbia	Oregon	16	0
+2020/5/19	Coos	Oregon	30	0
+2020/5/19	Crook	Oregon	1	0
+2020/5/19	Curry	Oregon	5	0
+2020/5/19	Deschutes	Oregon	107	0
+2020/5/19	Douglas	Oregon	25	0
+2020/5/19	Grant	Oregon	1	0
+2020/5/19	Harney	Oregon	1	0
+2020/5/19	Hood River	Oregon	14	0
+2020/5/19	Jackson	Oregon	52	0
+2020/5/19	Jefferson	Oregon	24	0
+2020/5/19	Josephine	Oregon	25	1
+2020/5/19	Klamath	Oregon	41	0
+2020/5/19	Lane	Oregon	65	2
+2020/5/19	Lincoln	Oregon	8	0
+2020/5/19	Linn	Oregon	109	9
+2020/5/19	Malheur	Oregon	21	0
+2020/5/19	Marion	Oregon	855	24
+2020/5/19	Morrow	Oregon	12	0
+2020/5/19	Multnomah	Oregon	1005	55
+2020/5/19	Polk	Oregon	93	9
+2020/5/19	Sherman	Oregon	1	0
+2020/5/19	Tillamook	Oregon	6	0
+2020/5/19	Umatilla	Oregon	101	3
+2020/5/19	Union	Oregon	6	0
+2020/5/19	Wallowa	Oregon	1	0
+2020/5/19	Wasco	Oregon	18	1
+2020/5/19	Washington	Oregon	644	15
+2020/5/19	Yamhill	Oregon	62	7
+2020/5/19	Adams	Pennsylvania	194	5
+2020/5/19	Allegheny	Pennsylvania	1658	145
+2020/5/19	Armstrong	Pennsylvania	58	2
+2020/5/19	Beaver	Pennsylvania	534	70
+2020/5/19	Bedford	Pennsylvania	32	2
+2020/5/19	Berks	Pennsylvania	3735	262
+2020/5/19	Blair	Pennsylvania	38	1
+2020/5/19	Bradford	Pennsylvania	41	5
+2020/5/19	Bucks	Pennsylvania	4573	426
+2020/5/19	Butler	Pennsylvania	206	12
+2020/5/19	Cambria	Pennsylvania	54	2
+2020/5/19	Cameron	Pennsylvania	2	0
+2020/5/19	Carbon	Pennsylvania	214	22
+2020/5/19	Centre	Pennsylvania	132	5
+2020/5/19	Chester	Pennsylvania	2242	230
+2020/5/19	Clarion	Pennsylvania	24	2
+2020/5/19	Clearfield	Pennsylvania	33	0
+2020/5/19	Clinton	Pennsylvania	45	0
+2020/5/19	Columbia	Pennsylvania	337	29
+2020/5/19	Crawford	Pennsylvania	21	0
+2020/5/19	Cumberland	Pennsylvania	540	42
+2020/5/19	Dauphin	Pennsylvania	989	50
+2020/5/19	Delaware	Pennsylvania	5807	491
+2020/5/19	Elk	Pennsylvania	6	0
+2020/5/19	Erie	Pennsylvania	147	4
+2020/5/19	Fayette	Pennsylvania	92	4
+2020/5/19	Forest	Pennsylvania	7	0
+2020/5/19	Franklin	Pennsylvania	644	27
+2020/5/19	Fulton	Pennsylvania	12	1
+2020/5/19	Greene	Pennsylvania	27	0
+2020/5/19	Huntingdon	Pennsylvania	214	0
+2020/5/19	Indiana	Pennsylvania	86	4
+2020/5/19	Jefferson	Pennsylvania	7	0
+2020/5/19	Juniata	Pennsylvania	94	2
+2020/5/19	Lackawanna	Pennsylvania	1374	127
+2020/5/19	Lancaster	Pennsylvania	2593	267
+2020/5/19	Lawrence	Pennsylvania	73	8
+2020/5/19	Lebanon	Pennsylvania	880	24
+2020/5/19	Lehigh	Pennsylvania	3513	182
+2020/5/19	Luzerne	Pennsylvania	2554	124
+2020/5/19	Lycoming	Pennsylvania	149	9
+2020/5/19	McKean	Pennsylvania	11	1
+2020/5/19	Mercer	Pennsylvania	96	4
+2020/5/19	Mifflin	Pennsylvania	57	1
+2020/5/19	Monroe	Pennsylvania	1267	89
+2020/5/19	Montgomery	Pennsylvania	6063	575
+2020/5/19	Montour	Pennsylvania	50	0
+2020/5/19	Northampton	Pennsylvania	2758	176
+2020/5/19	Northumberland	Pennsylvania	145	2
+2020/5/19	Perry	Pennsylvania	41	1
+2020/5/19	Philadelphia	Pennsylvania	20129	1109
+2020/5/19	Pike	Pennsylvania	469	17
+2020/5/19	Potter	Pennsylvania	4	0
+2020/5/19	Schuylkill	Pennsylvania	534	21
+2020/5/19	Snyder	Pennsylvania	33	1
+2020/5/19	Somerset	Pennsylvania	36	0
+2020/5/19	Sullivan	Pennsylvania	2	0
+2020/5/19	Susquehanna	Pennsylvania	85	15
+2020/5/19	Tioga	Pennsylvania	16	2
+2020/5/19	Union	Pennsylvania	50	1
+2020/5/19	Venango	Pennsylvania	8	0
+2020/5/19	Warren	Pennsylvania	2	1
+2020/5/19	Washington	Pennsylvania	130	5
+2020/5/19	Wayne	Pennsylvania	110	7
+2020/5/19	Westmoreland	Pennsylvania	431	38
+2020/5/19	Wyoming	Pennsylvania	30	5
+2020/5/19	York	Pennsylvania	866	18
+2020/5/19	Unknown	Puerto Rico	2805	124
+2020/5/19	Bristol	Rhode Island	172	1
+2020/5/19	Kent	Rhode Island	883	46
+2020/5/19	Newport	Rhode Island	197	4
+2020/5/19	Providence	Rhode Island	9112	342
+2020/5/19	Unknown	Rhode Island	2162	107
+2020/5/19	Washington	Rhode Island	425	32
+2020/5/19	Abbeville	South Carolina	36	0
+2020/5/19	Aiken	South Carolina	156	7
+2020/5/19	Allendale	South Carolina	33	3
+2020/5/19	Anderson	South Carolina	211	8
+2020/5/19	Bamberg	South Carolina	18	0
+2020/5/19	Barnwell	South Carolina	41	1
+2020/5/19	Beaufort	South Carolina	299	12
+2020/5/19	Berkeley	South Carolina	203	15
+2020/5/19	Calhoun	South Carolina	9	1
+2020/5/19	Charleston	South Carolina	515	11
+2020/5/19	Cherokee	South Carolina	25	2
+2020/5/19	Chester	South Carolina	41	0
+2020/5/19	Chesterfield	South Carolina	101	1
+2020/5/19	Clarendon	South Carolina	293	34
+2020/5/19	Colleton	South Carolina	58	4
+2020/5/19	Darlington	South Carolina	227	5
+2020/5/19	Dillon	South Carolina	132	2
+2020/5/19	Dorchester	South Carolina	114	3
+2020/5/19	Edgefield	South Carolina	44	2
+2020/5/19	Fairfield	South Carolina	134	8
+2020/5/19	Florence	South Carolina	547	29
+2020/5/19	Georgetown	South Carolina	52	3
+2020/5/19	Greenville	South Carolina	1145	50
+2020/5/19	Greenwood	South Carolina	72	1
+2020/5/19	Hampton	South Carolina	30	0
+2020/5/19	Horry	South Carolina	303	20
+2020/5/19	Jasper	South Carolina	27	1
+2020/5/19	Kershaw	South Carolina	272	12
+2020/5/19	Lancaster	South Carolina	108	5
+2020/5/19	Laurens	South Carolina	57	3
+2020/5/19	Lee	South Carolina	174	11
+2020/5/19	Lexington	South Carolina	516	28
+2020/5/19	Marion	South Carolina	53	4
+2020/5/19	Marlboro	South Carolina	76	0
+2020/5/19	McCormick	South Carolina	7	1
+2020/5/19	Newberry	South Carolina	33	1
+2020/5/19	Oconee	South Carolina	41	0
+2020/5/19	Orangeburg	South Carolina	115	2
+2020/5/19	Pickens	South Carolina	94	3
+2020/5/19	Richland	South Carolina	1267	61
+2020/5/19	Saluda	South Carolina	123	0
+2020/5/19	Spartanburg	South Carolina	411	13
+2020/5/19	Sumter	South Carolina	323	17
+2020/5/19	Union	South Carolina	31	0
+2020/5/19	Williamsburg	South Carolina	181	10
+2020/5/19	York	South Carolina	308	5
+2020/5/19	Aurora	South Dakota	3	0
+2020/5/19	Beadle	South Dakota	43	2
+2020/5/19	Bon Homme	South Dakota	4	0
+2020/5/19	Brookings	South Dakota	14	0
+2020/5/19	Brown	South Dakota	205	0
+2020/5/19	Buffalo	South Dakota	3	0
+2020/5/19	Charles Mix	South Dakota	10	0
+2020/5/19	Clark	South Dakota	4	0
+2020/5/19	Clay	South Dakota	15	0
+2020/5/19	Codington	South Dakota	17	0
+2020/5/19	Corson	South Dakota	4	0
+2020/5/19	Davison	South Dakota	9	1
+2020/5/19	Day	South Dakota	11	0
+2020/5/19	Deuel	South Dakota	1	0
+2020/5/19	Douglas	South Dakota	1	0
+2020/5/19	Fall River	South Dakota	3	0
+2020/5/19	Faulk	South Dakota	1	0
+2020/5/19	Grant	South Dakota	9	0
+2020/5/19	Hamlin	South Dakota	3	0
+2020/5/19	Hand	South Dakota	1	0
+2020/5/19	Hughes	South Dakota	17	0
+2020/5/19	Hutchinson	South Dakota	3	0
+2020/5/19	Hyde	South Dakota	1	0
+2020/5/19	Jerauld	South Dakota	6	1
+2020/5/19	Lake	South Dakota	5	0
+2020/5/19	Lawrence	South Dakota	9	0
+2020/5/19	Lincoln	South Dakota	205	0
+2020/5/19	Lyman	South Dakota	6	0
+2020/5/19	Marshall	South Dakota	3	0
+2020/5/19	McCook	South Dakota	5	1
+2020/5/19	McPherson	South Dakota	1	0
+2020/5/19	Meade	South Dakota	5	0
+2020/5/19	Miner	South Dakota	1	0
+2020/5/19	Minnehaha	South Dakota	3165	40
+2020/5/19	Moody	South Dakota	18	0
+2020/5/19	Oglala Lakota	South Dakota	10	0
+2020/5/19	Pennington	South Dakota	74	1
+2020/5/19	Roberts	South Dakota	20	0
+2020/5/19	Sanborn	South Dakota	6	0
+2020/5/19	Spink	South Dakota	4	0
+2020/5/19	Stanley	South Dakota	9	0
+2020/5/19	Sully	South Dakota	1	0
+2020/5/19	Todd	South Dakota	17	0
+2020/5/19	Tripp	South Dakota	2	0
+2020/5/19	Turner	South Dakota	21	0
+2020/5/19	Union	South Dakota	62	0
+2020/5/19	Walworth	South Dakota	5	0
+2020/5/19	Yankton	South Dakota	42	0
+2020/5/19	Ziebach	South Dakota	1	0
+2020/5/19	Anderson	Tennessee	37	1
+2020/5/19	Bedford	Tennessee	257	4
+2020/5/19	Benton	Tennessee	7	1
+2020/5/19	Bledsoe	Tennessee	607	1
+2020/5/19	Blount	Tennessee	76	3
+2020/5/19	Bradley	Tennessee	84	1
+2020/5/19	Campbell	Tennessee	17	1
+2020/5/19	Cannon	Tennessee	13	0
+2020/5/19	Carroll	Tennessee	25	1
+2020/5/19	Carter	Tennessee	19	1
+2020/5/19	Cheatham	Tennessee	93	0
+2020/5/19	Chester	Tennessee	12	0
+2020/5/19	Claiborne	Tennessee	8	0
+2020/5/19	Clay	Tennessee	6	0
+2020/5/19	Cocke	Tennessee	20	0
+2020/5/19	Coffee	Tennessee	63	0
+2020/5/19	Crockett	Tennessee	14	1
+2020/5/19	Cumberland	Tennessee	94	1
+2020/5/19	Davidson	Tennessee	4390	46
+2020/5/19	DeKalb	Tennessee	32	0
+2020/5/19	Decatur	Tennessee	5	0
+2020/5/19	Dickson	Tennessee	93	0
+2020/5/19	Dyer	Tennessee	45	0
+2020/5/19	Fayette	Tennessee	95	2
+2020/5/19	Fentress	Tennessee	9	0
+2020/5/19	Franklin	Tennessee	43	1
+2020/5/19	Gibson	Tennessee	59	1
+2020/5/19	Giles	Tennessee	12	0
+2020/5/19	Grainger	Tennessee	6	0
+2020/5/19	Greene	Tennessee	46	2
+2020/5/19	Grundy	Tennessee	31	1
+2020/5/19	Hamblen	Tennessee	24	2
+2020/5/19	Hamilton	Tennessee	404	13
+2020/5/19	Hancock	Tennessee	1	0
+2020/5/19	Hardeman	Tennessee	183	0
+2020/5/19	Hardin	Tennessee	10	1
+2020/5/19	Hawkins	Tennessee	31	2
+2020/5/19	Haywood	Tennessee	29	1
+2020/5/19	Henderson	Tennessee	12	0
+2020/5/19	Henry	Tennessee	20	0
+2020/5/19	Hickman	Tennessee	52	0
+2020/5/19	Houston	Tennessee	7	0
+2020/5/19	Humphreys	Tennessee	12	1
+2020/5/19	Jackson	Tennessee	13	0
+2020/5/19	Jefferson	Tennessee	26	0
+2020/5/19	Johnson	Tennessee	15	0
+2020/5/19	Knox	Tennessee	320	5
+2020/5/19	Lake	Tennessee	403	0
+2020/5/19	Lauderdale	Tennessee	48	1
+2020/5/19	Lawrence	Tennessee	21	0
+2020/5/19	Lewis	Tennessee	2	0
+2020/5/19	Lincoln	Tennessee	17	0
+2020/5/19	Loudon	Tennessee	97	0
+2020/5/19	Macon	Tennessee	93	3
+2020/5/19	Madison	Tennessee	162	2
+2020/5/19	Marion	Tennessee	34	1
+2020/5/19	Marshall	Tennessee	26	1
+2020/5/19	Maury	Tennessee	71	0
+2020/5/19	McMinn	Tennessee	125	12
+2020/5/19	McNairy	Tennessee	12	0
+2020/5/19	Meigs	Tennessee	22	0
+2020/5/19	Monroe	Tennessee	51	2
+2020/5/19	Montgomery	Tennessee	216	2
+2020/5/19	Moore	Tennessee	3	0
+2020/5/19	Morgan	Tennessee	17	0
+2020/5/19	Obion	Tennessee	19	1
+2020/5/19	Overton	Tennessee	18	0
+2020/5/19	Perry	Tennessee	13	0
+2020/5/19	Pickett	Tennessee	2	0
+2020/5/19	Polk	Tennessee	14	0
+2020/5/19	Putnam	Tennessee	286	5
+2020/5/19	Rhea	Tennessee	15	0
+2020/5/19	Roane	Tennessee	9	0
+2020/5/19	Robertson	Tennessee	298	0
+2020/5/19	Rutherford	Tennessee	906	19
+2020/5/19	Scott	Tennessee	11	0
+2020/5/19	Sequatchie	Tennessee	9	0
+2020/5/19	Sevier	Tennessee	68	2
+2020/5/19	Shelby	Tennessee	3936	88
+2020/5/19	Smith	Tennessee	29	1
+2020/5/19	Stewart	Tennessee	8	0
+2020/5/19	Sullivan	Tennessee	57	2
+2020/5/19	Sumner	Tennessee	768	41
+2020/5/19	Tipton	Tennessee	407	2
+2020/5/19	Trousdale	Tennessee	1384	4
+2020/5/19	Unicoi	Tennessee	3	0
+2020/5/19	Union	Tennessee	4	0
+2020/5/19	Unknown	Tennessee	109	0
+2020/5/19	Van Buren	Tennessee	4	0
+2020/5/19	Warren	Tennessee	16	0
+2020/5/19	Washington	Tennessee	70	0
+2020/5/19	Wayne	Tennessee	63	0
+2020/5/19	Weakley	Tennessee	27	0
+2020/5/19	White	Tennessee	21	0
+2020/5/19	Williamson	Tennessee	492	10
+2020/5/19	Wilson	Tennessee	338	8
+2020/5/19	Anderson	Texas	60	0
+2020/5/19	Andrews	Texas	22	0
+2020/5/19	Angelina	Texas	154	1
+2020/5/19	Aransas	Texas	3	0
+2020/5/19	Archer	Texas	1	0
+2020/5/19	Armstrong	Texas	2	0
+2020/5/19	Atascosa	Texas	32	1
+2020/5/19	Austin	Texas	20	0
+2020/5/19	Bailey	Texas	10	0
+2020/5/19	Bandera	Texas	6	0
+2020/5/19	Bastrop	Texas	148	2
+2020/5/19	Bee	Texas	6	0
+2020/5/19	Bell	Texas	260	3
+2020/5/19	Bexar	Texas	2278	62
+2020/5/19	Blanco	Texas	6	0
+2020/5/19	Bosque	Texas	6	0
+2020/5/19	Bowie	Texas	137	11
+2020/5/19	Brazoria	Texas	795	11
+2020/5/19	Brazos	Texas	341	18
+2020/5/19	Brewster	Texas	1	0
+2020/5/19	Briscoe	Texas	1	0
+2020/5/19	Brooks	Texas	1	0
+2020/5/19	Brown	Texas	51	7
+2020/5/19	Burleson	Texas	20	0
+2020/5/19	Burnet	Texas	28	0
+2020/5/19	Caldwell	Texas	39	0
+2020/5/19	Calhoun	Texas	36	3
+2020/5/19	Callahan	Texas	8	1
+2020/5/19	Cameron	Texas	649	30
+2020/5/19	Camp	Texas	26	0
+2020/5/19	Carson	Texas	5	0
+2020/5/19	Cass	Texas	21	0
+2020/5/19	Castro	Texas	28	1
+2020/5/19	Chambers	Texas	58	0
+2020/5/19	Cherokee	Texas	36	2
+2020/5/19	Childress	Texas	2	0
+2020/5/19	Clay	Texas	3	0
+2020/5/19	Cochran	Texas	1	0
+2020/5/19	Coke	Texas	1	0
+2020/5/19	Coleman	Texas	2	0
+2020/5/19	Collin	Texas	1075	31
+2020/5/19	Collingsworth	Texas	4	0
+2020/5/19	Colorado	Texas	19	0
+2020/5/19	Comal	Texas	72	6
+2020/5/19	Comanche	Texas	5	1
+2020/5/19	Concho	Texas	1	0
+2020/5/19	Cooke	Texas	13	0
+2020/5/19	Coryell	Texas	226	2
+2020/5/19	Cottle	Texas	4	1
+2020/5/19	Crane	Texas	2	0
+2020/5/19	Crosby	Texas	3	1
+2020/5/19	Dallam	Texas	18	0
+2020/5/19	Dallas	Texas	7904	191
+2020/5/19	Dawson	Texas	38	1
+2020/5/19	DeWitt	Texas	17	1
+2020/5/19	Deaf Smith	Texas	133	7
+2020/5/19	Delta	Texas	1	0
+2020/5/19	Denton	Texas	1116	28
+2020/5/19	Dickens	Texas	1	0
+2020/5/19	Dimmit	Texas	1	0
+2020/5/19	Donley	Texas	27	0
+2020/5/19	Duval	Texas	5	0
+2020/5/19	Eastland	Texas	5	0
+2020/5/19	Ector	Texas	127	4
+2020/5/19	El Paso	Texas	1852	52
+2020/5/19	Ellis	Texas	258	12
+2020/5/19	Erath	Texas	15	1
+2020/5/19	Falls	Texas	6	0
+2020/5/19	Fannin	Texas	27	2
+2020/5/19	Fayette	Texas	31	2
+2020/5/19	Fisher	Texas	2	0
+2020/5/19	Floyd	Texas	5	0
+2020/5/19	Fort Bend	Texas	1581	40
+2020/5/19	Franklin	Texas	7	0
+2020/5/19	Freestone	Texas	7	0
+2020/5/19	Frio	Texas	35	0
+2020/5/19	Gaines	Texas	6	0
+2020/5/19	Galveston	Texas	706	31
+2020/5/19	Garza	Texas	4	0
+2020/5/19	Gillespie	Texas	5	0
+2020/5/19	Glasscock	Texas	1	0
+2020/5/19	Goliad	Texas	7	0
+2020/5/19	Gonzales	Texas	86	2
+2020/5/19	Gray	Texas	94	1
+2020/5/19	Grayson	Texas	165	0
+2020/5/19	Gregg	Texas	173	0
+2020/5/19	Grimes	Texas	65	1
+2020/5/19	Guadalupe	Texas	110	0
+2020/5/19	Hale	Texas	49	4
+2020/5/19	Hamilton	Texas	7	0
+2020/5/19	Hansford	Texas	16	2
+2020/5/19	Hardin	Texas	120	4
+2020/5/19	Harris	Texas	9859	207
+2020/5/19	Harrison	Texas	205	21
+2020/5/19	Hartley	Texas	11	2
+2020/5/19	Haskell	Texas	2	0
+2020/5/19	Hays	Texas	238	3
+2020/5/19	Hemphill	Texas	1	0
+2020/5/19	Henderson	Texas	49	0
+2020/5/19	Hidalgo	Texas	457	10
+2020/5/19	Hill	Texas	23	1
+2020/5/19	Hockley	Texas	24	1
+2020/5/19	Hood	Texas	22	3
+2020/5/19	Hopkins	Texas	8	0
+2020/5/19	Houston	Texas	81	0
+2020/5/19	Howard	Texas	6	1
+2020/5/19	Hunt	Texas	68	3
+2020/5/19	Hutchinson	Texas	30	0
+2020/5/19	Jack	Texas	4	0
+2020/5/19	Jackson	Texas	15	1
+2020/5/19	Jasper	Texas	33	2
+2020/5/19	Jefferson	Texas	466	26
+2020/5/19	Jim Hogg	Texas	4	0
+2020/5/19	Jim Wells	Texas	8	0
+2020/5/19	Johnson	Texas	161	4
+2020/5/19	Jones	Texas	115	0
+2020/5/19	Karnes	Texas	4	0
+2020/5/19	Kaufman	Texas	155	2
+2020/5/19	Kendall	Texas	23	0
+2020/5/19	Kerr	Texas	10	0
+2020/5/19	Kimble	Texas	1	0
+2020/5/19	Kleberg	Texas	14	1
+2020/5/19	Knox	Texas	1	0
+2020/5/19	La Salle	Texas	4	0
+2020/5/19	Lamar	Texas	116	9
+2020/5/19	Lamb	Texas	11	0
+2020/5/19	Lampasas	Texas	8	0
+2020/5/19	Lavaca	Texas	8	1
+2020/5/19	Lee	Texas	7	0
+2020/5/19	Leon	Texas	9	0
+2020/5/19	Liberty	Texas	75	3
+2020/5/19	Limestone	Texas	17	1
+2020/5/19	Lipscomb	Texas	2	0
+2020/5/19	Live Oak	Texas	7	0
+2020/5/19	Llano	Texas	3	0
+2020/5/19	Lubbock	Texas	624	50
+2020/5/19	Lynn	Texas	5	1
+2020/5/19	Madison	Texas	8	0
+2020/5/19	Marion	Texas	16	0
+2020/5/19	Martin	Texas	3	1
+2020/5/19	Mason	Texas	31	0
+2020/5/19	Matagorda	Texas	66	5
+2020/5/19	Maverick	Texas	89	0
+2020/5/19	McCulloch	Texas	3	0
+2020/5/19	McLennan	Texas	98	4
+2020/5/19	Medina	Texas	59	2
+2020/5/19	Midland	Texas	122	12
+2020/5/19	Milam	Texas	25	1
+2020/5/19	Mills	Texas	1	0
+2020/5/19	Mitchell	Texas	1	0
+2020/5/19	Montague	Texas	9	1
+2020/5/19	Montgomery	Texas	848	18
+2020/5/19	Moore	Texas	575	12
+2020/5/19	Morris	Texas	13	0
+2020/5/19	Motley	Texas	1	0
+2020/5/19	Nacogdoches	Texas	241	17
+2020/5/19	Navarro	Texas	38	2
+2020/5/19	Newton	Texas	4	0
+2020/5/19	Nolan	Texas	2	0
+2020/5/19	Nueces	Texas	248	3
+2020/5/19	Ochiltree	Texas	40	2
+2020/5/19	Oldham	Texas	3	1
+2020/5/19	Orange	Texas	87	2
+2020/5/19	Palo Pinto	Texas	9	2
+2020/5/19	Panola	Texas	162	16
+2020/5/19	Parker	Texas	63	0
+2020/5/19	Parmer	Texas	36	0
+2020/5/19	Pecos	Texas	23	0
+2020/5/19	Polk	Texas	50	0
+2020/5/19	Potter	Texas	2193	24
+2020/5/19	Rains	Texas	2	0
+2020/5/19	Randall	Texas	616	5
+2020/5/19	Red River	Texas	36	0
+2020/5/19	Reeves	Texas	3	0
+2020/5/19	Refugio	Texas	3	0
+2020/5/19	Roberts	Texas	2	0
+2020/5/19	Robertson	Texas	7	0
+2020/5/19	Rockwall	Texas	136	5
+2020/5/19	Runnels	Texas	2	0
+2020/5/19	Rusk	Texas	42	2
+2020/5/19	Sabine	Texas	4	0
+2020/5/19	San Augustine	Texas	26	1
+2020/5/19	San Jacinto	Texas	12	0
+2020/5/19	San Patricio	Texas	26	0
+2020/5/19	San Saba	Texas	1	0
+2020/5/19	Scurry	Texas	2	0
+2020/5/19	Shackelford	Texas	1	0
+2020/5/19	Shelby	Texas	175	5
+2020/5/19	Sherman	Texas	23	0
+2020/5/19	Smith	Texas	192	4
+2020/5/19	Starr	Texas	19	0
+2020/5/19	Stephens	Texas	2	0
+2020/5/19	Swisher	Texas	15	0
+2020/5/19	Tarrant	Texas	4643	130
+2020/5/19	Taylor	Texas	400	6
+2020/5/19	Terry	Texas	13	0
+2020/5/19	Titus	Texas	129	1
+2020/5/19	Tom Green	Texas	62	1
+2020/5/19	Travis	Texas	2595	81
+2020/5/19	Trinity	Texas	11	0
+2020/5/19	Tyler	Texas	10	0
+2020/5/19	Upshur	Texas	18	0
+2020/5/19	Uvalde	Texas	6	0
+2020/5/19	Val Verde	Texas	13	0
+2020/5/19	Van Zandt	Texas	23	1
+2020/5/19	Victoria	Texas	157	7
+2020/5/19	Walker	Texas	442	26
+2020/5/19	Waller	Texas	43	0
+2020/5/19	Washington	Texas	184	22
+2020/5/19	Webb	Texas	479	18
+2020/5/19	Wharton	Texas	44	0
+2020/5/19	Wheeler	Texas	14	0
+2020/5/19	Wichita	Texas	82	2
+2020/5/19	Wilbarger	Texas	6	0
+2020/5/19	Willacy	Texas	14	1
+2020/5/19	Williamson	Texas	501	20
+2020/5/19	Wilson	Texas	37	5
+2020/5/19	Winkler	Texas	3	0
+2020/5/19	Wise	Texas	38	2
+2020/5/19	Wood	Texas	22	0
+2020/5/19	Yoakum	Texas	2	0
+2020/5/19	Young	Texas	4	1
+2020/5/19	Zapata	Texas	7	0
+2020/5/19	Zavala	Texas	9	0
+2020/5/19	Box Elder	Utah	25	1
+2020/5/19	Cache	Utah	64	0
+2020/5/19	Carbon	Utah	8	0
+2020/5/19	Davis	Utah	373	2
+2020/5/19	Duchesne	Utah	9	0
+2020/5/19	Emery	Utah	7	0
+2020/5/19	Garfield	Utah	3	0
+2020/5/19	Grand	Utah	4	0
+2020/5/19	Iron	Utah	35	0
+2020/5/19	Juab	Utah	8	0
+2020/5/19	Kane	Utah	3	0
+2020/5/19	Millard	Utah	6	0
+2020/5/19	Morgan	Utah	10	0
+2020/5/19	Piute	Utah	1	0
+2020/5/19	Salt Lake	Utah	4019	62
+2020/5/19	San Juan	Utah	238	4
+2020/5/19	Sanpete	Utah	6	0
+2020/5/19	Sevier	Utah	8	0
+2020/5/19	Summit	Utah	403	0
+2020/5/19	Tooele	Utah	103	0
+2020/5/19	Uintah	Utah	10	0
+2020/5/19	Unknown	Utah	0	3
+2020/5/19	Utah	Utah	1537	12
+2020/5/19	Wasatch	Utah	212	1
+2020/5/19	Washington	Utah	214	0
+2020/5/19	Weber	Utah	224	3
+2020/5/19	Addison	Vermont	62	2
+2020/5/19	Bennington	Vermont	60	1
+2020/5/19	Caledonia	Vermont	14	0
+2020/5/19	Chittenden	Vermont	439	38
+2020/5/19	Essex	Vermont	2	0
+2020/5/19	Franklin	Vermont	99	5
+2020/5/19	Grand Isle	Vermont	4	0
+2020/5/19	Lamoille	Vermont	28	1
+2020/5/19	Orange	Vermont	8	0
+2020/5/19	Orleans	Vermont	9	0
+2020/5/19	Rutland	Vermont	50	1
+2020/5/19	Unknown	Vermont	6	0
+2020/5/19	Washington	Vermont	38	1
+2020/5/19	Windham	Vermont	77	3
+2020/5/19	Windsor	Vermont	48	2
+2020/5/19	Unknown	Virgin Islands	69	6
+2020/5/19	Accomack	Virginia	701	9
+2020/5/19	Albemarle	Virginia	141	4
+2020/5/19	Alexandria city	Virginia	1544	34
+2020/5/19	Alleghany	Virginia	9	0
+2020/5/19	Amelia	Virginia	20	1
+2020/5/19	Amherst	Virginia	25	0
+2020/5/19	Appomattox	Virginia	24	0
+2020/5/19	Arlington	Virginia	1688	79
+2020/5/19	Augusta	Virginia	87	1
+2020/5/19	Bedford	Virginia	41	1
+2020/5/19	Botetourt	Virginia	31	3
+2020/5/19	Bristol city	Virginia	3	0
+2020/5/19	Brunswick	Virginia	21	1
+2020/5/19	Buchanan	Virginia	18	0
+2020/5/19	Buckingham	Virginia	419	2
+2020/5/19	Buena Vista city	Virginia	11	0
+2020/5/19	Campbell	Virginia	13	1
+2020/5/19	Caroline	Virginia	44	2
+2020/5/19	Carroll	Virginia	50	0
+2020/5/19	Charles City	Virginia	24	1
+2020/5/19	Charlotte	Virginia	14	0
+2020/5/19	Charlottesville city	Virginia	72	2
+2020/5/19	Chesapeake city	Virginia	396	10
+2020/5/19	Chesterfield	Virginia	1043	29
+2020/5/19	Clarke	Virginia	19	0
+2020/5/19	Colonial Heights city	Virginia	77	7
+2020/5/19	Covington city	Virginia	2	0
+2020/5/19	Craig	Virginia	4	0
+2020/5/19	Culpeper	Virginia	452	5
+2020/5/19	Cumberland	Virginia	25	0
+2020/5/19	Danville city	Virginia	44	1
+2020/5/19	Dinwiddie	Virginia	45	0
+2020/5/19	Emporia city	Virginia	58	3
+2020/5/19	Essex	Virginia	35	0
+2020/5/19	Fairfax	Virginia	8020	292
+2020/5/19	Fairfax city	Virginia	47	3
+2020/5/19	Falls Church city	Virginia	44	4
+2020/5/19	Fauquier	Virginia	243	5
+2020/5/19	Floyd	Virginia	4	0
+2020/5/19	Fluvanna	Virginia	82	6
+2020/5/19	Franklin	Virginia	30	1
+2020/5/19	Franklin city	Virginia	32	1
+2020/5/19	Frederick	Virginia	223	3
+2020/5/19	Fredericksburg city	Virginia	101	0
+2020/5/19	Galax city	Virginia	82	0
+2020/5/19	Giles	Virginia	5	0
+2020/5/19	Gloucester	Virginia	28	1
+2020/5/19	Goochland	Virginia	88	5
+2020/5/19	Grayson	Virginia	21	0
+2020/5/19	Greene	Virginia	19	1
+2020/5/19	Greensville	Virginia	54	7
+2020/5/19	Halifax	Virginia	29	0
+2020/5/19	Hampton city	Virginia	164	3
+2020/5/19	Hanover	Virginia	232	19
+2020/5/19	Harrisonburg city	Virginia	647	21
+2020/5/19	Henrico	Virginia	1299	114
+2020/5/19	Henry	Virginia	46	2
+2020/5/19	Highland	Virginia	2	0
+2020/5/19	Hopewell city	Virginia	58	0
+2020/5/19	Isle of Wight	Virginia	119	3
+2020/5/19	James City	Virginia	189	15
+2020/5/19	King George	Virginia	48	4
+2020/5/19	King William	Virginia	15	0
+2020/5/19	King and Queen	Virginia	7	0
+2020/5/19	Lancaster	Virginia	7	0
+2020/5/19	Lee	Virginia	10	0
+2020/5/19	Lexington city	Virginia	6	0
+2020/5/19	Loudoun	Virginia	1527	48
+2020/5/19	Louisa	Virginia	60	0
+2020/5/19	Lunenburg	Virginia	7	0
+2020/5/19	Lynchburg city	Virginia	75	1
+2020/5/19	Madison	Virginia	27	1
+2020/5/19	Manassas Park city	Virginia	202	3
+2020/5/19	Manassas city	Virginia	680	5
+2020/5/19	Mathews	Virginia	5	0
+2020/5/19	Mecklenburg	Virginia	178	17
+2020/5/19	Middlesex	Virginia	12	0
+2020/5/19	Montgomery	Virginia	66	1
+2020/5/19	Nelson	Virginia	13	0
+2020/5/19	New Kent	Virginia	27	1
+2020/5/19	Newport News city	Virginia	209	10
+2020/5/19	Norfolk city	Virginia	370	6
+2020/5/19	Northampton	Virginia	204	11
+2020/5/19	Northumberland	Virginia	20	1
+2020/5/19	Norton city	Virginia	2	0
+2020/5/19	Nottoway	Virginia	18	0
+2020/5/19	Orange	Virginia	67	0
+2020/5/19	Page	Virginia	165	17
+2020/5/19	Patrick	Virginia	9	0
+2020/5/19	Petersburg city	Virginia	75	2
+2020/5/19	Pittsylvania	Virginia	26	1
+2020/5/19	Poquoson city	Virginia	7	0
+2020/5/19	Portsmouth city	Virginia	237	10
+2020/5/19	Powhatan	Virginia	25	0
+2020/5/19	Prince Edward	Virginia	83	2
+2020/5/19	Prince George	Virginia	56	0
+2020/5/19	Prince William	Virginia	3934	73
+2020/5/19	Pulaski	Virginia	10	0
+2020/5/19	Radford city	Virginia	3	0
+2020/5/19	Rappahannock	Virginia	12	0
+2020/5/19	Richmond	Virginia	265	4
+2020/5/19	Richmond city	Virginia	811	19
+2020/5/19	Roanoke	Virginia	88	3
+2020/5/19	Roanoke city	Virginia	135	8
+2020/5/19	Rockbridge	Virginia	13	0
+2020/5/19	Rockingham	Virginia	401	5
+2020/5/19	Russell	Virginia	8	0
+2020/5/19	Salem city	Virginia	33	0
+2020/5/19	Scott	Virginia	7	2
+2020/5/19	Shenandoah	Virginia	329	12
+2020/5/19	Smyth	Virginia	15	0
+2020/5/19	Southampton	Virginia	137	2
+2020/5/19	Spotsylvania	Virginia	339	4
+2020/5/19	Stafford	Virginia	501	4
+2020/5/19	Staunton city	Virginia	32	0
+2020/5/19	Suffolk city	Virginia	269	25
+2020/5/19	Surry	Virginia	6	1
+2020/5/19	Sussex	Virginia	98	1
+2020/5/19	Tazewell	Virginia	6	0
+2020/5/19	Unknown	Virginia	16	0
+2020/5/19	Virginia Beach city	Virginia	559	19
+2020/5/19	Warren	Virginia	103	2
+2020/5/19	Washington	Virginia	50	4
+2020/5/19	Waynesboro city	Virginia	28	0
+2020/5/19	Westmoreland	Virginia	43	0
+2020/5/19	Williamsburg city	Virginia	43	3
+2020/5/19	Winchester city	Virginia	96	1
+2020/5/19	Wise	Virginia	23	2
+2020/5/19	Wythe	Virginia	16	1
+2020/5/19	York	Virginia	63	3
+2020/5/19	Adams	Washington	50	0
+2020/5/19	Asotin	Washington	18	2
+2020/5/19	Benton	Washington	801	58
+2020/5/19	Chelan	Washington	187	7
+2020/5/19	Clallam	Washington	21	0
+2020/5/19	Clark	Washington	412	25
+2020/5/19	Columbia	Washington	1	0
+2020/5/19	Cowlitz	Washington	69	0
+2020/5/19	Douglas	Washington	131	3
+2020/5/19	Ferry	Washington	1	0
+2020/5/19	Franklin	Washington	587	18
+2020/5/19	Grant	Washington	226	3
+2020/5/19	Grays Harbor	Washington	15	0
+2020/5/19	Island	Washington	181	10
+2020/5/19	Jefferson	Washington	30	0
+2020/5/19	King	Washington	7901	536
+2020/5/19	Kitsap	Washington	161	2
+2020/5/19	Kittitas	Washington	61	0
+2020/5/19	Klickitat	Washington	25	3
+2020/5/19	Lewis	Washington	35	3
+2020/5/19	Lincoln	Washington	2	0
+2020/5/19	Mason	Washington	33	1
+2020/5/19	Okanogan	Washington	42	2
+2020/5/19	Pacific	Washington	9	1
+2020/5/19	Pend Oreille	Washington	2	0
+2020/5/19	Pierce	Washington	1827	70
+2020/5/19	San Juan	Washington	15	0
+2020/5/19	Skagit	Washington	426	15
+2020/5/19	Skamania	Washington	3	0
+2020/5/19	Snohomish	Washington	3153	131
+2020/5/19	Spokane	Washington	416	31
+2020/5/19	Stevens	Washington	10	1
+2020/5/19	Thurston	Washington	127	1
+2020/5/19	Wahkiakum	Washington	4	0
+2020/5/19	Walla Walla	Washington	106	2
+2020/5/19	Whatcom	Washington	359	36
+2020/5/19	Whitman	Washington	18	0
+2020/5/19	Yakima	Washington	2598	81
+2020/5/19	Barbour	West Virginia	7	1
+2020/5/19	Berkeley	West Virginia	223	6
+2020/5/19	Boone	West Virginia	9	0
+2020/5/19	Braxton	West Virginia	2	0
+2020/5/19	Brooke	West Virginia	3	0
+2020/5/19	Cabell	West Virginia	55	0
+2020/5/19	Calhoun	West Virginia	2	0
+2020/5/19	Clay	West Virginia	2	0
+2020/5/19	Fayette	West Virginia	38	3
+2020/5/19	Gilmer	West Virginia	8	0
+2020/5/19	Grant	West Virginia	6	0
+2020/5/19	Greenbrier	West Virginia	9	0
+2020/5/19	Hampshire	West Virginia	12	1
+2020/5/19	Hancock	West Virginia	12	0
+2020/5/19	Hardy	West Virginia	32	0
+2020/5/19	Harrison	West Virginia	36	1
+2020/5/19	Jackson	West Virginia	135	17
+2020/5/19	Jefferson	West Virginia	102	1
+2020/5/19	Kanawha	West Virginia	203	16
+2020/5/19	Lewis	West Virginia	5	0
+2020/5/19	Lincoln	West Virginia	5	0
+2020/5/19	Logan	West Virginia	15	1
+2020/5/19	Marion	West Virginia	48	2
+2020/5/19	Marshall	West Virginia	25	0
+2020/5/19	Mason	West Virginia	15	0
+2020/5/19	McDowell	West Virginia	6	0
+2020/5/19	Mercer	West Virginia	13	0
+2020/5/19	Mineral	West Virginia	29	0
+2020/5/19	Mingo	West Virginia	3	1
+2020/5/19	Monongalia	West Virginia	116	5
+2020/5/19	Monroe	West Virginia	6	0
+2020/5/19	Morgan	West Virginia	17	0
+2020/5/19	Nicholas	West Virginia	9	1
+2020/5/19	Ohio	West Virginia	37	1
+2020/5/19	Pendleton	West Virginia	5	0
+2020/5/19	Pleasants	West Virginia	2	0
+2020/5/19	Pocahontas	West Virginia	8	0
+2020/5/19	Preston	West Virginia	15	0
+2020/5/19	Putnam	West Virginia	29	0
+2020/5/19	Raleigh	West Virginia	13	0
+2020/5/19	Randolph	West Virginia	8	0
+2020/5/19	Ritchie	West Virginia	1	0
+2020/5/19	Roane	West Virginia	9	0
+2020/5/19	Summers	West Virginia	1	0
+2020/5/19	Taylor	West Virginia	8	0
+2020/5/19	Tucker	West Virginia	4	0
+2020/5/19	Tyler	West Virginia	3	0
+2020/5/19	Upshur	West Virginia	6	0
+2020/5/19	Wayne	West Virginia	96	9
+2020/5/19	Wetzel	West Virginia	7	0
+2020/5/19	Wirt	West Virginia	4	0
+2020/5/19	Wood	West Virginia	47	2
+2020/5/19	Wyoming	West Virginia	3	0
+2020/5/19	Adams	Wisconsin	4	1
+2020/5/19	Ashland	Wisconsin	2	0
+2020/5/19	Barron	Wisconsin	11	0
+2020/5/19	Bayfield	Wisconsin	3	1
+2020/5/19	Brown	Wisconsin	2118	26
+2020/5/19	Buffalo	Wisconsin	5	1
+2020/5/19	Burnett	Wisconsin	1	1
+2020/5/19	Calumet	Wisconsin	58	1
+2020/5/19	Chippewa	Wisconsin	42	0
+2020/5/19	Clark	Wisconsin	29	4
+2020/5/19	Columbia	Wisconsin	36	1
+2020/5/19	Crawford	Wisconsin	23	0
+2020/5/19	Dane	Wisconsin	548	25
+2020/5/19	Dodge	Wisconsin	109	1
+2020/5/19	Door	Wisconsin	33	3
+2020/5/19	Douglas	Wisconsin	15	0
+2020/5/19	Dunn	Wisconsin	20	0
+2020/5/19	Eau Claire	Wisconsin	75	0
+2020/5/19	Florence	Wisconsin	2	0
+2020/5/19	Fond du Lac	Wisconsin	145	3
+2020/5/19	Forest	Wisconsin	9	0
+2020/5/19	Grant	Wisconsin	75	10
+2020/5/19	Green	Wisconsin	46	0
+2020/5/19	Green Lake	Wisconsin	11	0
+2020/5/19	Iowa	Wisconsin	11	0
+2020/5/19	Iron	Wisconsin	2	1
+2020/5/19	Jackson	Wisconsin	15	1
+2020/5/19	Jefferson	Wisconsin	62	2
+2020/5/19	Juneau	Wisconsin	22	1
+2020/5/19	Kenosha	Wisconsin	866	19
+2020/5/19	Kewaunee	Wisconsin	31	1
+2020/5/19	La Crosse	Wisconsin	47	0
+2020/5/19	Lafayette	Wisconsin	16	0
+2020/5/19	Lincoln	Wisconsin	3	0
+2020/5/19	Manitowoc	Wisconsin	25	1
+2020/5/19	Marathon	Wisconsin	34	1
+2020/5/19	Marinette	Wisconsin	25	2
+2020/5/19	Marquette	Wisconsin	3	1
+2020/5/19	Menominee	Wisconsin	2	0
+2020/5/19	Milwaukee	Wisconsin	5185	260
+2020/5/19	Monroe	Wisconsin	15	1
+2020/5/19	Oconto	Wisconsin	30	0
+2020/5/19	Oneida	Wisconsin	7	0
+2020/5/19	Outagamie	Wisconsin	146	5
+2020/5/19	Ozaukee	Wisconsin	125	11
+2020/5/19	Pepin	Wisconsin	1	0
+2020/5/19	Pierce	Wisconsin	22	0
+2020/5/19	Polk	Wisconsin	7	0
+2020/5/19	Portage	Wisconsin	7	0
+2020/5/19	Price	Wisconsin	1	0
+2020/5/19	Racine	Wisconsin	1061	19
+2020/5/19	Richland	Wisconsin	14	3
+2020/5/19	Rock	Wisconsin	438	14
+2020/5/19	Rusk	Wisconsin	4	0
+2020/5/19	Sauk	Wisconsin	77	3
+2020/5/19	Sawyer	Wisconsin	4	0
+2020/5/19	Shawano	Wisconsin	33	0
+2020/5/19	Sheboygan	Wisconsin	70	3
+2020/5/19	St. Croix	Wisconsin	48	0
+2020/5/19	Trempealeau	Wisconsin	11	0
+2020/5/19	Vernon	Wisconsin	12	0
+2020/5/19	Vilas	Wisconsin	4	0
+2020/5/19	Walworth	Wisconsin	287	11
+2020/5/19	Washburn	Wisconsin	1	0
+2020/5/19	Washington	Wisconsin	155	4
+2020/5/19	Waukesha	Wisconsin	492	23
+2020/5/19	Waupaca	Wisconsin	19	1
+2020/5/19	Waushara	Wisconsin	7	0
+2020/5/19	Winnebago	Wisconsin	126	1
+2020/5/19	Wood	Wisconsin	8	0
+2020/5/19	Albany	Wyoming	10	0
+2020/5/19	Big Horn	Wyoming	3	0
+2020/5/19	Campbell	Wyoming	29	0
+2020/5/19	Carbon	Wyoming	15	1
+2020/5/19	Converse	Wyoming	24	0
+2020/5/19	Crook	Wyoming	5	0
+2020/5/19	Fremont	Wyoming	228	5
+2020/5/19	Goshen	Wyoming	5	0
+2020/5/19	Hot Springs	Wyoming	8	0
+2020/5/19	Johnson	Wyoming	16	1
+2020/5/19	Laramie	Wyoming	183	2
+2020/5/19	Lincoln	Wyoming	14	0
+2020/5/19	Natrona	Wyoming	64	0
+2020/5/19	Niobrara	Wyoming	2	0
+2020/5/19	Park	Wyoming	1	0
+2020/5/19	Sheridan	Wyoming	16	0
+2020/5/19	Sublette	Wyoming	3	0
+2020/5/19	Sweetwater	Wyoming	24	0
+2020/5/19	Teton	Wyoming	100	1
+2020/5/19	Uinta	Wyoming	11	0
+2020/5/19	Washakie	Wyoming	15	0

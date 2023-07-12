@@ -1,0 +1,1 @@
+{"name":"Local: luogu P2216","url":"d:\\A.file\\code\\2023上半年\\5.8-5.14\\luogu P2216.cpp","tests":[{"id":1683601756621,"input":"5 4 2\n1 2 5 6\n0 17 16 0\n16 17 2 1\n2 10 2 1\n1 2 2 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\A.file\\code\\2023上半年\\5.8-5.14\\luogu P2216.cpp","group":"local","local":true}
