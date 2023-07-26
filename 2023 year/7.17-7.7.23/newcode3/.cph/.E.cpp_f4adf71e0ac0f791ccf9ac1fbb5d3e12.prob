@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\A.file\\code\\2023 year\\7.17-7.7.23\\newcode3\\E.cpp","tests":[{"id":1690376161405,"input":"2\n3 3\n1 2\n2 3\n3 1\n3 3\n1 2\n1 3\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\A.file\\code\\2023 year\\7.17-7.7.23\\newcode3\\E.cpp","group":"local","local":true}
